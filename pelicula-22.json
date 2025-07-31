@@ -1,0 +1,18 @@
+{
+  "id": 22,
+  "titulo": "El bebé de Rosemary",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1PbbUmtP8SnGRCTvTzqfj5aj0xK.jpg",
+  "categoria": ["Drama","Suspenso","Terror"],
+  "descripcion": "Una joven pareja, Rosemary y Guy, se muda a un infame edificio de apartamentos de Nueva York, conocido por aterradoras leyendas y misteriosos sucesos, con el propósito de formar una familia.",
+  "duracion": "2h 18m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1969",
+  "iframes": [
+    { "nombre": "Upload", 
+      "url": "https://short.icu/ukVVjY_A3x" },
+    { "nombre": "Streawish", 
+      "url": "" 
+    }
+  ]
+}

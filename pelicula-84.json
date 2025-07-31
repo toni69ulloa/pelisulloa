@@ -1,0 +1,18 @@
+{
+  "id": 84,
+  "titulo": "Los Cazafantasmas",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7eZUL4fvjVkmNPbD8IxQT4X9emt.jpg",
+  "categoria": ["Comedia","Fantasía"],
+  "descripcion": "Los Drs. Venkman, Stantz y Epengler, son tres doctores en parapsicología que se quedan sin empleo tras quedar excluidos de una beca universitaria de investigación. Entonces deciden formar la empresa Los Cazafantasmas, dedicada a limpiar Nueva York de ectoplasmas. El aumento repentino de apariciones espectrales en la Gran Manzana será el presagio de la llegada de un peligroso y poderoso demonio.",
+  "duracion": "1h 47m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1984",
+  "iframes": [
+    { "nombre": "Upload", 
+      "url": "https://short.icu/6N4ZR6EAj" },
+    { "nombre": "Streawish", 
+      "url": "" 
+    }
+  ]
+}

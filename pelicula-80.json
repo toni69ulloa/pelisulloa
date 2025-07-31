@@ -1,0 +1,18 @@
+{
+  "id": 80,
+  "titulo": "Un detective suelto en Hollywood",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/q8RtQuLStydGdJmHR4p8jNVssbv.jpg",
+  "categoria": ["Acción","Comedia","Crimen"],
+  "descripcion": "Axel Foley es un impetuoso e inteligente detective de Detroit que sigue la pista del asesino de un amigo suyo hasta los barrios más elegantes de Beverly Hills. Pero antes de que Axel logre su objetivo, va a verse involucrado en una red internacional de contrabandistas y traficantes de droga.",
+  "duracion": "1h 45m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1984",
+  "iframes": [
+    { "nombre": "Upload", 
+      "url": "https://short.icu/5VdafMNd5" },
+    { "nombre": "Streawish", 
+      "url": "" 
+    }
+  ]
+}

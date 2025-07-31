@@ -1,0 +1,18 @@
+{
+    "id": 52,
+    "titulo": "Pide al Tiempo que Vuelva",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rrhVRksFy0XsUk7KW6t7L6EUlSq.jpg",
+    "categoria": ["Drama","Fantasía","Romance"],
+    "descripcion": "Tras una representación teatral, Richard Collier, el autor, recibe un regalo de una anciana. Pasados unos años, Richard cree reconocer en el retrato de una antigua actriz a la enigmática dama, ya fallecida. La belleza y el encanto de la fotografía le subyugan de tal forma que, utilizando la hipnosis, se traslada a 1912, conoce a la artista y mantiene con ella un romance.",
+    "duracion": "1h 43m",
+    "calidad": "720p",
+    "idioma": "Latino",
+    "estreno": "1980",
+    "iframes": [
+      { "nombre": "Upload", 
+        "url": "https://short.icu/SV7Q8Nljv" },
+      { "nombre": "Streawish", 
+        "url": "" 
+    }
+  ]
+}

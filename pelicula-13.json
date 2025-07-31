@@ -1,0 +1,18 @@
+{
+  "id": 13,
+  "titulo": "007: Desde Rusia con amor",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mw8Y0JNGhFmqHTGKfVqnMkT8ni5.jpg",
+  "categoria": ["Acción","Aventura","Suspenso"],
+  "descripcion": "El robo de un dispositivo capaz de descifrar complicadas comunicaciones está poniendo en peligro importantes investigaciones con respecto al gobierno ruso. James Bond, el agente 007 de los Servicios Secretos Británicos al servicio de Su Majestad, viajará hasta la Unión Soviética con el fin de encontrar a su objetivo.",
+  "duracion": "1h 58m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1965",
+  "iframes": [
+    { "nombre": "Upload",
+      "url": "https://short.icu/oDmrfbT64" },
+    { "nombre": "Streawish", 
+      "url": "" 
+    }
+  ]
+}

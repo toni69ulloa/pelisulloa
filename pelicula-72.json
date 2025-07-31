@@ -1,0 +1,18 @@
+{
+  "id": 72,
+  "titulo": "Viaje a las estrellas II: La ira de Khan",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8k93s37Z87eKboyU4n3k32HCH65.jpg",
+  "categoria": ["Acción","Aventura","Ciencia ficción","Suspenso"],
+  "descripcion": "Nuevas aventuras del almirante James T. Kirk y el resto de la tripulación de la nave Enterprise, que una vez más se atreve a llegar donde ningún hombre lo hizo jamás. Ricardo Montalbán repite su personaje de villano que interpretó en 1967 en el episodio televisivo Space Speed.",
+  "duracion": "1h 52m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1982",
+  "iframes": [
+    { "nombre": "Upload", 
+      "url": "https://short.icu/t0MH3j0sl" },
+    { "nombre": "Streawish", 
+      "url": "" 
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 62,
+  "titulo": "007: Sólo para tus ojos",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rMd3KkWy1K7qeZLFlFKY0SSMnPx.jpg",
+  "categoria": ["Acción","Aventura","Suspenso"],
+  "descripcion": "El agente 007 debe recuperar el ATAC, un dispositivo militar secreto de guía por satélite, antes de que sea vendido a los rusos.",
+  "duracion": "2h 7m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1982",
+  "iframes": [
+    { "nombre": "Upload", 
+      "url": "https://short.icu/mHZyVAtwSO" },
+    { "nombre": "Streawish", 
+      "url": "" 
+    }
+  ]
+}

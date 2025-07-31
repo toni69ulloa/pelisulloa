@@ -1,0 +1,18 @@
+{
+  "id": 23,
+  "titulo": "El planeta de los simios",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pMLpuzyeXFsttiW0dHzJLH5FXyK.jpg",
+  "categoria": ["Acción","Aventura","Ciencia ficción","Drama"],
+  "descripcion": "Una tripulación de astronautas se estrelló en un planeta en un futuro lejano donde los simios parlantes inteligentes son la especie dominante, y los humanos son los oprimidos y esclavos.",
+  "duracion": "1h 53m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1968",
+  "iframes": [
+    { "nombre": "Upload", 
+      "url": "https://short.icu/HGTkWykc5" },
+    { "nombre": "Streawish", 
+      "url": "" 
+    }
+  ]
+}

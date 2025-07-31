@@ -1,0 +1,18 @@
+{
+  "id": 16,
+  "titulo": "El Señor Doctor",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nuU4yR6Y5yelWu7qFzjpPNbPizH.jpg",
+  "categoria": ["Comedia"],
+  "descripcion": "Se trata de un médico de México que viene a la capital mientras se construye una clínica en su ciudad natal... él brinda su cuidado y compasión hacia otros en el hospital con su humor e ingenio.",
+  "duracion": "1h 53m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1965",
+  "iframes": [
+    { "nombre": "Upload", 
+      "url": "https://short.icu/f741gh4cE" },
+    { "nombre": "Streawish", 
+      "url": "" 
+    }
+  ]
+}

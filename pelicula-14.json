@@ -1,0 +1,18 @@
+{
+  "id": 14,
+  "titulo": "El padrecito",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fREvHyV2W1gG1HrBaAbxmXiYE2P.jpg",
+  "categoria": ["Comedia"],
+  "descripcion": "El sacerdote padre Sebastián es asignado a una parroquia de San Jerónimo el Alto, donde no es bien recibido por la comunidad, particularmente por el sacerdote residente Padre Damián. El recién llegado poco a poco gana la confianza de la gente a través del humor, pero con firmeza capta sus corazones por salvar la fiesta de la ciudad por la lucha contra un toro cuando el torero contratado no se muestra.",
+  "duracion": "2h 10m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1964",
+  "iframes": [
+    { "nombre": "Upload", 
+      "url": "https://short.icu/wkOD2u5zt" },
+    { "nombre": "Streawish", 
+      "url": "" 
+    }
+  ]
+}

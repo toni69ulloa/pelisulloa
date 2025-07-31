@@ -1,0 +1,18 @@
+{
+  "id": 77,
+  "titulo": "De mendigo a millonario",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bwmqcucVleqUTKUKw7K3hlvUGKC.jpg",
+  "categoria": ["Comedia"],
+  "descripcion": "Louis Winthorpe III, un ejecutivo de clase alta, y Billy Ray Valentine, un estafador, son objeto de apuestas de Mortimer y Randolph Duke. Un empleado de los Duke, Winthorpe es incriminado por un delito que no cometió. Los hermanos ponen a Valentine en su lugar. Cuando Winthorpe y Valentine revelan el plan, ponen manos a la obra para vengarse de los Duke.",
+  "duracion": "1h 57m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1983",
+  "iframes": [
+    { "nombre": "Upload", 
+      "url": "https://short.icu/2lZVvse9v" },
+    { "nombre": "Streawish", 
+      "url": "" 
+    }
+  ]
+}

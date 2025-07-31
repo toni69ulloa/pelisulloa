@@ -1,0 +1,18 @@
+{
+    "id": 53,
+    "titulo": "Los dioses deben estar locos",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qdGWx0CyuhBD1FlDqbwWwEKhq8h.jpg",
+    "categoria": ["Acción","Comedia"],
+    "descripcion": "La miseria es llevada a un pequeño grupo de Sho en el desierto de Kalahari en forma de una botella de cola. En su búsqueda por arrojar el objeto malvado sobre el borde de la tierra, Xixo se encuentra con la civilización occidental, un médico al azar y un déspota tiránico.",
+    "duracion": "1h 49m",
+    "calidad": "720p",
+    "idioma": "Latino",
+    "estreno": "1980",
+    "iframes": [
+      { "nombre": "Upload", 
+        "url": "https://short.icu/TlNixFrfB" },
+      { "nombre": "Streawish", 
+        "url": "" 
+    }
+  ]
+}

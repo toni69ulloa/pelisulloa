@@ -1,0 +1,18 @@
+{
+  "id": 33,
+  "titulo": "La batalla por el planeta de los simios",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9kQ0wmBzoL4EZEF2jTft58AhBuv.jpg",
+  "categoria": ["Acción","Ciencia ficción"],
+  "descripcion": "Diez años después de una serie mundial de revoluciones de simios y una brutal guerra nuclear entre humanos, César debe proteger a los sobrevivientes de ambas especies de un insidioso culto humano y de una facción de simios militantes por igual.",
+  "duracion": "1h 33m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1973",
+  "iframes": [
+    { "nombre": "Upload", 
+      "url": "https://short.icu/63q8hcnbF" },
+    { "nombre": "Streawish", 
+      "url": ""
+    }
+  ]
+}

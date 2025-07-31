@@ -1,0 +1,18 @@
+{
+  "id": 19,
+  "titulo": "007: Sólo se vive dos veces",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8FtidTckdSrMRCwUAPOYCbFE0VE.jpg",
+  "categoria": ["Acción","Aventura","Suspenso"],
+  "descripcion": "Dos naves espaciales, una norteamericana y otra rusa, han sido secuestradas en la órbita terrestre. Sólo la intervención del Agente 007 podrá evitar una guerra nuclear entre las dos superpotencias. Su misión consistirá en viajar hasta Japón y desenmascarar a la peligrosa organización Spectra y a su diabólico líder, Ernest Stavro Blofeld.",
+  "duracion": "1h 57m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1968",
+  "iframes": [
+    { "nombre": "Upload", 
+      "url": "https://short.icu/zk4jWGTTj" },
+    { "nombre": "Streawish", 
+      "url": "" 
+    }
+  ]
+}

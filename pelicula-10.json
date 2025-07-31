@@ -1,0 +1,16 @@
+{
+  "id": 10,
+  "titulo": "El analfabeto",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sooOWMEc2YxZmYiMfRLifHhefy4.jpg",
+  "categoria": ["Comedia"],
+  "descripcion": "Inocencio Prieto y Calvo recibe una carta diciéndole que es el heredero de la fortuna de su tío de dos millones de pesos. Al no ser capaz de leer, no tiene idea de quién envió la carta o su contenido. Así que él va a la farmacia porque el farmacéutico puede leer la carta a él. Pero mientras espera ser ayudado ve que una niña puede leer. Él calcula que tiene que ser capaz de descubrir el contenido de la carta por sí mismo y decide que va a guardar la carta y ir a la escuela, y esperar a leer la carta por su cuenta.",
+  "duracion": "2h 8m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1961",
+  "iframes": [
+      { "nombre": "Upload", "url": "https://short.icu/qiXaZ32go" },
+      { "nombre": "Streawish", "url": "" 
+      }
+    ]
+  }

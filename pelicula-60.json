@@ -1,0 +1,18 @@
+{
+    "id": 60,
+    "titulo": "Los cazadores del arca perdida",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tECLVwLCMexSkls33RTCwedRZ6d.jpg",
+    "categoria": ["Acción","Aventura"],
+    "descripcion": "",
+    "duracion": "1h 55m",
+    "calidad": "720p",
+    "idioma": "Latino",
+    "estreno": "1981",
+    "iframes": [
+      { "nombre": "Upload", 
+        "url": "https://short.icu/2ZH9grlDS" },
+      { "nombre": "Streawish", 
+        "url": "" 
+    }
+  ]
+}

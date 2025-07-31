@@ -1,0 +1,18 @@
+{
+    "id": 51,
+    "titulo": "Damian: la profecía II",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pTSQ3VMTAxb5JJcQDJoyAFOoNtP.jpg",
+    "categoria": ["Suspenso","Terror"],
+    "descripcion": "Damián el Anticristo, que ahora está a punto de cumplir trece años, finalmente descubre su destino bajo la guía de un impío discípulo de Satanás. Mientras tanto, las fuerzas oscuras comienzan a eliminar a todos aquellos que sospechan de la verdadera identidad del niño.",
+    "duracion": "1h 47m",
+    "calidad": "720p",
+    "idioma": "Latino",
+    "estreno": "1979",
+    "iframes": [
+      { "nombre": "Upload",
+        "url": "https://short.icu/DJoELBx8U" },
+      { "nombre": "Streawish", 
+        "url": "" 
+    }
+  ]
+}

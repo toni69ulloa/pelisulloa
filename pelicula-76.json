@@ -1,0 +1,18 @@
+{
+  "id": 76,
+  "titulo": "007: Octopussy contra las chicas mortales",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d09gjEZ7zGjimVCdkjZsrp3UWbJ.jpg",
+  "categoria": ["Acción","Aventura","Suspenso"],
+  "descripcion": "El agente 009, compañero de James Bond, es asesinado en Berlín Oriental, aunque consigue llegar a la residencia del embajador británico antes de morir, llevando consigo una valiosísima pieza de orfebrería: un huevo de Pascua, creado por Fabergé. En Londres, especialistas del Servicio Secreto constatan que se trata de una falsificación de la joya original, que será subastada en breve. El hecho de que en un corto período de tiempo se hayan vendido piezas parecidas despierta las sospechas de los responsables de Inteligencia, que temen una maniobra rusa que estaría encaminada a recaudar fondos que irían destinados a oscuras operaciones. Tras la pista de Kamal Khan, turbio traficante de objetos de arte, James Bond llega a la India, lugar en el que descubrirá la relación entre el sospechoso, una misteriosa mujer conocida como Octopussy y el General Orlov, implicados todos ellos en una conspiración que pretende desatar un conflicto nuclear.",
+  "duracion": "2h 10m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1983",
+  "iframes": [
+    { "nombre": "Upload", 
+      "url": "https://short.icu/-sqsFRroF" },
+    { "nombre": "Streawish", 
+      "url": "" 
+    }
+  ]
+}

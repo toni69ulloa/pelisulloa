@@ -1,0 +1,18 @@
+{
+  "id": 95,
+  "titulo": "El día de los muertos",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bPxsykFzUoboduHaU3aIm6MMID4.jpg",
+  "categoria": ["Terror","Drama","Misterio"],
+  "descripcion": "Los zombies se han apoderado del planeta, y el número de humanos se reduce a uno por cada 400.000 muertos vivientes. Un pequeño grupo de personas, formado por científicos y militares, se refugian en una antigua instalación subterránea del gobierno. Allí intentan contactar sin éxito con otros grupos supervivientes. Mientras, los doctores investigan el origen del fenómeno, y de su posible cura; a la vez que intentan domesticar a un muerto viviente al que mantienen encadenado. A medida que pasa el tiempo, las tensiones entre los científicos y los soldados irán creciendo dentro del grupo.",
+  "duracion": "1h 36m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1985",
+  "iframes": [
+    { "nombre": "Upload", 
+      "url": "https://short.icu/lf4MBiX6u" },
+    { "nombre": "Streawish", 
+      "url": "" 
+    }
+  ]
+}

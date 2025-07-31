@@ -1,0 +1,18 @@
+{
+  "id": 78,
+  "titulo": "El regreso del Jedi",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rKMmXzdm7eRgmlwYo7iq3klT7wJ.jpg",
+  "categoria": ["Acción","Aventura","Ciencia ficción"],
+  "descripcion": "Para ir a Tatooine y liberar a Han Solo, Luke Skywalker y la princesa Leia deben infiltrarse en la peligrosa guarida de Jabba the Hutt, el gángster más temido de la galaxia. Una vez reunidos, el equipo recluta a tribus de Ewoks para combatir a las fuerzas imperiales en los bosques de la luna de Endor. Mientras tanto, el Emperador y Darth Vader conspiran para atraer a Luke al lado oscuro, pero el joven está decidido a reavivar el espíritu del Jedi en su padre. La guerra civil galáctica termina con un último enfrentamiento entre las fuerzas rebeldes unificadas y una segunda Estrella de la Muerte, indefensa e incompleta, en una batalla que decidirá el destino de la galaxia.",
+  "duracion": "2h 13m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1983",
+  "iframes": [
+    { "nombre": "Upload", 
+      "url": "https://short.icu/gNss4vOfu" },
+    { "nombre": "Streawish", 
+      "url": "" 
+    }
+  ]
+}

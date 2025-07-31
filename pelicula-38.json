@@ -1,0 +1,18 @@
+{
+  "id": 38,
+  "titulo": "Tiburón",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/85MbaRlyfZfZGVHoFy2Am53oVYt.jpg",
+  "categoria": ["Aventura","Suspenso","Terror"],
+  "descripcion": "En la costa de un pequeño pueblo del Este de los Estados Unidos, un enorme tiburón ataca a varias personas. Por temor a los nefastos efectos que este hecho podría tener sobre el negocio turístico, el alcalde se niega a cerrar las playas y a difundir la noticia. Pero un nuevo ataque del tiburón termina con la vida de un bañista. Cuando el terror se apodera de todos, un veterano cazador de tiburones, un oceanógrafo y el jefe de la policía local se unen para capturar al escualo.",
+  "duracion": "2h 5m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1976",
+  "iframes": [
+    { "nombre": "Upload", 
+      "url": "https://short.icu/_DZpgSi-1" },
+    { "nombre": "Streawish", 
+      "url": "" 
+    }
+  ]
+}

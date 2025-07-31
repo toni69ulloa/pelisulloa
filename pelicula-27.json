@@ -1,0 +1,18 @@
+{
+  "id": 27,
+  "titulo": "007: Los diamantes son eternos",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zV5qtjJws8jBA2QCOIJswvZw6b5.jpg",
+  "categoria": ["Acción","Suspenso"],
+  "descripcion": "Tras pasar unas merecidas vacaciones en Francia, el agente secreto James Bond recibe una llamada del Jefe M para realizar una peligrosa misión relacionada con unos diamantes en bruto desaparecidos.",
+  "duracion": "1h 59m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1972",
+  "iframes": [
+    { "nombre": "Upload", 
+      "url": "https://short.icu/ZR0Uuqv5Q" },
+    { "nombre": "Streawish", 
+      "url": "" 
+    }
+  ]
+}

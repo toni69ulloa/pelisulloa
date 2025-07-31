@@ -1,0 +1,18 @@
+{
+  "id": 74,
+  "titulo": "La zona muerta",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/31Q1tTbmXzEu5i1Xqet75kZJRnG.jpg",
+  "categoria": ["Ciencia ficción","Suspenso","Terror"],
+  "descripcion": "Johnny Smith es un maestro de escuela con toda su vida por delante pero, después de dejar la casa de su prometida una noche, está involucrado en un accidente automovilístico que lo deja en coma durante 5 años. Cuando se despierta, descubre que tiene la capacidad de ver el pasado, presente y futuro de cualquier persona con la que entra en contacto físico.",
+  "duracion": "1h 43m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1983",
+  "iframes": [
+    { "nombre": "Upload", 
+      "url": "https://short.icu/JiKHZ6LMV" },
+    { "nombre": "Streawish", 
+      "url": "" 
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 75,
+  "titulo": "Tiburón 3-D: El Gran Tiburón",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nAmJf2AOffuZ1fvY5Al1e8uFrpp.jpg",
+  "categoria": ["Suspenso","Terror"],
+  "descripcion": "Todo está a punto para la inauguración de «Mundo Marino», un gigantesco parque acuático con algunas atracciones instaladas bajo las aguas de un bello lago artificial que se comunica con el mar a través de un pequeño canal.",
+  "duracion": "1h 38m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1983",
+  "iframes": [
+    { "nombre": "Upload", 
+      "url": "https://short.icu/t7qHxz8Tk" },
+    { "nombre": "Streawish", 
+      "url": "" 
+    }
+  ]
+}

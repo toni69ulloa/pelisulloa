@@ -1,0 +1,21 @@
+{
+  "id": 5,
+  "titulo": "El Bombero Atómico",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mmCL1R78oJwzn1ZtGISUzuQqlY3.jpg",
+  "categoria": ["Comedia"],
+  "descripcion": "Cantinflas es un torpe bombero, que un día recibe la visita de su pequeña ahijada, cuya madre murió recientemente en la selva. Después de haber trabajado en unos cuantos incendios, Cantinflas decidió dejar de fumar y convertirse en policía, porque es menos peligroso. Todo va bien hasta que una pandilla de gángsters secuestra a la chica, debido a una herencia monetaria.",
+  "duracion": "1h 35m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1952",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/HqtXDCWaP"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 71,
+  "titulo": "El chanfle 2",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/a1DIJWaUbC7mr5BT8ka9FEaWFjP.jpg",
+  "categoria": ["Comedia","Familiar"],
+  "descripcion": "Es la continuación de la película mexicana El Chanfle (1979) de Chespirito, la cual fue presentada en las salas de cine en 1982. En esa oportunidad el elenco de la vecindad (con algunas ausencias: la de Carlos Villagran, quien decidió no seguir trabajando con Roberto Gomez Bolaños por una decisión personal, se marchó en 1979 de los dos programas “El Chavo” y “El Chapulín Colorado”. Al año siguiente Ramón Valdez decide acompañarlo, también dejando de trabajar con Chespirito. Regreso con él en 1981, pero un problema de salud que se le detectó a inicio de los años 80’s, le impidieron participar en esta película), daba cabida a la historia del humilde utillero de un equipo de fútbol que logra su sueño al lado de su esposa Tere, tener un niño.",
+  "duracion": "1h 38m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1982",
+  "iframes": [
+    { "nombre": "Upload", 
+      "url": "https://short.icu/SYablMY2I" },
+    { "nombre": "Streawish", 
+      "url": "" 
+    }
+  ]
+}

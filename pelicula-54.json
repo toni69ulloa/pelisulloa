@@ -1,0 +1,18 @@
+{
+    "id": 54,
+    "titulo": "El Hombre Elefante",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8oif8Zz7Nlf0vMVIiqX1rxDLoXl.jpg",
+    "categoria": ["Drama","Historia"],
+    "descripcion": "Un cirujano victoriano rescata a un hombre muy desfigurado y maltratado por su dueño como un fanático de los espectáculos secundarios. Detrás de su fachada monstruosa, se revela a una persona de gran inteligencia y sensibilidad. Basado en la historia real de Joseph Merrick (llamado John Merrick en la película), un hombre gravemente deformado en el siglo XIX en Londres.",
+    "duracion": "2h 4m",
+    "calidad": "720p",
+    "idioma": "Latino",
+    "estreno": "1980",
+    "iframes": [
+      { "nombre": "Upload", 
+        "url": "https://short.icu/eXc1e6rT6" },
+      { "nombre": "Streawish", 
+        "url": "" 
+    }
+  ]
+}

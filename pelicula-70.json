@@ -1,0 +1,18 @@
+{
+  "id": 70,
+  "titulo": "El Ente",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ws8tfaqgwGNp3w3q1DUFchlo0zx.jpg",
+  "categoria": ["Terror","Misterio","Suspenso"],
+  "descripcion": "Barbara Hershey interpreta a Carla Moran, una madre soltera trabajadora hasta la noche en que la violan en su dormitorio por alguien o algo que no puede ver. A pesar de los psiquiatras escépticos, ella es atacada repetidamente en su coche, en el baño, y delante de sus hijos. ¿Podría ser esto un caso de histeria, una manifestación del trauma sexual de la niñez, o algo aún más horrible?",
+  "duracion": "1h 55m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1982",
+  "iframes": [
+    { "nombre": "Upload", 
+      "url": "https://short.icu/ddhYTQqn1" },
+    { "nombre": "Streawish", 
+      "url": "" 
+    }
+  ]
+}

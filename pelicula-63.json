@@ -1,0 +1,18 @@
+{
+  "id": 63,
+  "titulo": "Rocky III",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5Mn0xgB8w9mi2Ifo7WdS8aSgA7V.jpg",
+  "categoria": ["Drama"],
+  "descripcion": "Ahora el campeón del mundo, Rocky Balboa vive en el lujo y sólo lucha contra opositores que no plantean ninguna amenaza para él en el anillo, hasta que Clubber Lang le desafíe a un encuentro. Después de tomar una palpitación de Lang, el campeón humillado da vuelta al antiguo Credo del rival amargo Apolo para una revancha con Lang.",
+  "duracion": "1h 39m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1982",
+  "iframes": [
+    { "nombre": "Upload", 
+      "url": "https://short.icu/PyUJyjGuf" },
+    { "nombre": "Streawish", 
+      "url": "" 
+    }
+  ]
+}

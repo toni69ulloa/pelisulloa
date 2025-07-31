@@ -1,0 +1,16 @@
+{
+  "id": 9,
+  "titulo": "Sube y Baja",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7UH0vBGvFjFdm6SvsC7mHcDnYRg.jpg",
+  "categoria": ["Comedia"],
+  "descripcion": "Es la historia de un deportista que es un poco más tonto que la mayoría de la gente, pero sin embargo, tiene éxito en conseguir un trabajo en un local deportivo . Tener este trabajo es el comienzo de un montón de problemas graciosos que causa debido a su mudez.",
+  "duracion": "1h 48m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1959",
+  "iframes": [
+      { "nombre": "Upload", "url": "https://short.icu/Wa10SE2b3" },
+      { "nombre": "Streawish", "url": "" 
+      }
+    ]
+  }

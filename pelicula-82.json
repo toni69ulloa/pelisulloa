@@ -1,0 +1,18 @@
+{
+  "id": 82,
+  "titulo": "Viaje a las Estrellas III: La Búsqueda de Spock",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mv29MhfQRHvWFeTg0VwOKvBQlKg.jpg",
+  "categoria": ["Acción","Aventura","Ciencia ficción","Suspenso"],
+  "descripcion": "La victoria del almirante Kirk sobre Khan y la creación del planeta Génesis son triunfos inútiles. Spock ha muerto y McCoy, inexplicablemente, se ha vuelto loco. Una visita de Sarek, el padre de Spock, revela algo sobrecogedor: McCoy está albergando en su cuerpo la esencia vital de Spock. Kirk trata de ayudar a sus amigos, secuestra el Enterprise y desafía la cuarentena impuesta por la Flota Estelar en Génesis. Pero los Klingon también descubren la existencia de Génesis y van al encuentro de Kirk en una cita que podría ser mortal.",
+  "duracion": "1h 41m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1984",
+  "iframes": [
+    { "nombre": "Upload", 
+      "url": "https://short.icu/sEwwNflgD" },
+    { "nombre": "Streawish", 
+      "url": "" 
+    }
+  ]
+}

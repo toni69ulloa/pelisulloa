@@ -1,0 +1,18 @@
+{
+  "id": 21,
+  "titulo": "2001: Odisea del Espacio",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sln50uQYigvu5AvN72JfYfu1ckq.jpg",
+  "categoria": ["Aventura","Ciencia ficción","Misterio"],
+  "descripcion": "La historia de la humanidad, en diversos estadios del pasado y del futuro, es narrada en la película de ciencia-ficción de culto por excelencia de la historia del cine. Hace millones de años, en los albores del nacimiento del homo sapiens, unos simios descubren un monolito que les lleva a un estadio de inteligencia superior. Otro monolito vuelve a aparecer, millones de años después, enterrado en una luna, lo que provoca el interés de los científicos humanos. Por último, HAL 9000, una máquina de inteligencia artificial, es la encargada de todos los sistemas de una nave espacial tripulada durante una misión de la NASA.",
+  "duracion": "2h 29m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1968",
+  "iframes": [
+    { "nombre": "Upload", 
+      "url": "https://short.icu/6a86qw3lF" },
+    { "nombre": "Streawish", 
+      "url": "" 
+    }
+  ]
+}

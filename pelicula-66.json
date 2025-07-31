@@ -1,0 +1,18 @@
+{
+  "id": 66,
+  "titulo": "Viernes 13, Parte III",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/isCTWFTrfnSvkmG0LR8lq6gh3n5.jpg",
+  "categoria": ["Suspenso","Terror"],
+  "descripcion": "Un verano idílico se convierte en una pesadilla de terror indescriptible para otro grupo de consejeros ingenuos. Ignorando el legado sangriento del Campamento Crystal Lake, uno por uno son víctimas del Jason maniático que los acecha en cada vuelta.",
+  "duracion": "1h 36m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1982",
+  "iframes": [
+    { "nombre": "Upload", 
+      "url": "https://short.icu/CjSp3V-Et" },
+    { "nombre": "Streawish", 
+      "url": "" 
+    }
+  ]
+}

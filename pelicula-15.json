@@ -1,0 +1,18 @@
+{
+  "id": 15,
+  "titulo": "007: Contra Goldfinger",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tA0AqFwuFvQCzLdBzEnIlK4RayX.jpg",
+  "ategoria": ["Acción","Aventura","Suspenso"],
+    "descripcion": "El agente británico 007 se deberá ver las caras con Auric Goldfinger, un malvado magnate que hace contrabando a escala internacional y que está fascinado por el oro. En el transcurso de la investigación, James oirá por primera vez hablar sobre la operación Grand Slam, que parece ser un plan para desestabilizar toda la economía mundial.",
+  "duracion": "1h 48m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1966",
+  "iframes": [
+    { "nombre": "Upload",
+      "url": "https://short.icu/bk485OEqL" },
+    { "nombre": "Streawish", 
+      "url": "" 
+    }
+  ]
+}

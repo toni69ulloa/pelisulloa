@@ -1,0 +1,21 @@
+{
+  "id": 2,
+  "titulo": "Soy un prófugo",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3DfDpe2ACfjTgd8LliG6FwJqUvY.jpg",
+  "categoria": ["Comedia"],
+  "descripcion": "Un portero en un banco grande se acusa del tiramiento de un atraco principal. Se obliga a hacerse un fugitivo cazando para los verdaderos culpables.",
+  "duracion": "1h 35m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1946",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/j5O94w_XE"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 28,
+  "itulo": "Escape del planeta de los simios",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mCbFub0UiNQi3SBSOjwGNLhEroc.jpg",
+  "categoria": ["Acción","Ciencia ficción"],
+  "descripcion": "El mundo está conmocionado por la aparición de tres chimpancés parlantes que llegaron misteriosamente en una nave espacial estadounidense. Se convierten en el brindis de la sociedad, pero un hombre cree que son una amenaza para la raza humana.",
+  "duracion": "1h 38m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1971",
+  "iframes": [
+    { "nombre": "Upload", 
+      "url": "https://short.icu/iPYRufgfW" },
+    { "nombre": "Streawish", 
+      "url": "" 
+    }
+  ]
+}

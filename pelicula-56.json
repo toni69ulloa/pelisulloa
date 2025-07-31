@@ -1,0 +1,18 @@
+{
+    "id": 56,
+    "titulo": "El resplandor",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mm003Mj2e9kJRsrxiVdPn2BSBPh.jpg",
+    "categoria": ["Suspenso","Terror"],
+    "descripcion": "Una familia se dirige a un hotel aislado durante el invierno donde una presencia siniestra influye en la violencia del padre, mientras que su hijo psíquico ve horribles presentimientos tanto del pasado como del futuro.",
+    "duracion": "2h 24m",
+    "calidad": "720p",
+    "idioma": "Latino",
+    "estreno": "1980",
+    "iframes": [
+      { "nombre": "Upload", 
+        "url": "https://short.icu/WTV8t2YVK" },
+      { "nombre": "Streawish", 
+      "url": "" 
+    }
+  ]
+}

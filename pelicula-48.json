@@ -1,0 +1,18 @@
+{
+    "id": 48,
+    "titulo": "El Patrullero 777",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nlD0B7nAHQwY1gSXLlOzDT397By.jpg",
+    "categoria": ["Comedia"],
+    "descripcion": "Sigue a Diógenes mientras vive su día como oficial de policía. Es propenso a hacer las cosas de la manera correcta, rodeado por un departamento de policía bastante corrupto y distante, y siempre resuelve sus deberes con un método personal.",
+    "duracion": "2h",
+    "calidad": "720p",
+    "idioma": "Latino",
+    "estreno": "1978",
+    "iframes": [
+      { "nombre": "Upload", 
+        "url": "https://short.icu/RyEBvLoDB" },
+      { "nombre": "Streawish", 
+        "url": "" 
+    }
+  ]
+}

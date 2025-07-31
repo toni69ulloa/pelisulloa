@@ -1,0 +1,18 @@
+{
+  "id": 37,
+  "titulo": "La masacre de Texas",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fOqMcW2TYN0WReTDpds93rkAYpR.jpg",
+  "categoria": ["Terror"],
+  "descripcion": "Cinco adolescentes visitan la tumba, supuestamente profanada, del abuelo de uno de ellos. Cuando llegan al lugar, donde hay un siniestro matadero, toman una deliciosa carne en una gasolinera. A partir de ese momento, los jóvenes vivirán la peor pesadilla de toda su vida.",
+  "duracion": "1h 23m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1977",
+  "iframes": [
+    { "nombre": "Upload", 
+      "url": "https://short.icu/4_auk7qlu" },
+    { "nombre": "Streawish", 
+        "url": "" 
+    }
+  ]
+}

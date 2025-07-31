@@ -1,0 +1,21 @@
+{
+  "id": 1,
+  "titulo": "Ahí está el detalle",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6WPBWuH2DuXICkmIYhCLN1eaoJ4.jpg",
+  "categoria": ["Comedia"],
+  "descripcion": "La confusión entre el perro Bobby y un gángster del mismo nombre desencadena una serie de enredos entre un celoso marido, su nerviosa esposa, una pícara criada, una esposa abandonada con ocho hijos y el singular Cantinflas.",
+  "duracion": "1h 52m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1940-09-11",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/tkvhF_ANi"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

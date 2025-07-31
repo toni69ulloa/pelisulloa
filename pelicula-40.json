@@ -1,0 +1,18 @@
+{
+  "id": 40,
+  "titulo": "El ministro y yo",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/77sTJrC54qXyHxRTuaSDvpPlQHb.jpg",
+  "categoria": ["Drama","Comedia"],
+  "descripcion": "Mateo Melgarejo, es notario y escriba para los analfabetos de Santo Domingo, un barrio al norte del Zócalo de la Ciudad de México. Un amigo Squatter pide su ayuda en la negociación con la oficina de censo de la tierra para regularizar un título de la tierra. Después de una gran frustración con la burocracia del gobierno, escribe una carta al ministro, ganando una audiencia con él. El ministro contrata a Melgarejo para reformar la oficina, y el designado procede a dar una conferencia a los funcionarios sobre sus deberes en una sociedad democrática. Al final, abandona el puesto, regresando a Santo Domingo para ayudar a sus pobres residentes.",
+  "duracion": "1h 49m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1979",
+  "iframes": [
+    { "nombre": "Upload", 
+      "url": "https://short.icu/i9tVVTc2U" },
+    { "nombre": "Streawish", 
+      "url": "" 
+    }
+  ]
+}

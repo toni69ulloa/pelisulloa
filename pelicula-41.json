@@ -1,0 +1,18 @@
+{
+  "id": 41,
+  "titulo": "La profecía",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iWyb6PKnl7lp0ytK8ZG7vJloGxc.jpg",
+  "categoria": ["Suspenso","Terror"],
+  "descripcion": "Una serie de muertes misteriosas rodean al embajador de Estados Unidos, que se pregunta si es posible que el niño al que está criando sea en realidad el Anticristo",
+  "duracion": "1h 51m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1977",
+  "iframes": [
+    { "nombre": "Upload", 
+      "url": "https://short.icu/Qoq8JNfZD" },
+    { "nombre": "Streawish", 
+      "url": "" 
+    }
+  ]
+}

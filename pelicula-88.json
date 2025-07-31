@@ -1,0 +1,18 @@
+{
+    "id": 88,
+    "titulo": "La hora del espanto",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ftzPwgnINKlU6Vrqm0X5KXaFpfZ.jpg",
+    "categoria": ["Comedia","Terror"],
+    "descripcion": "Charley Brewster, un estudiante de secundaria, descubre accidentalmente la verdadera y espeluznante naturaleza de Jerry Dandrige, su elegante y enigmático nuevo vecino; pero nadie parece dispuesto a creerle.",
+    "duracion": "1h 46m",
+    "calidad": "720p",
+    "idioma": "Latino",
+    "estreno": "1985",
+    "iframes": [
+      { "nombre": "Upload", 
+        "url": "https://short.icu/FI-FItkq-" },
+      { "nombre": "Streawish", 
+        "url": "" 
+      }
+    ]
+  }

@@ -1,0 +1,18 @@
+{
+  "id": 24,
+  "titulo": "Un Quijote sin mancha",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fH8sscMwy7qNAL4FC1t5sN8FUP4.jpg",
+  "categoria": ["Comedia"],
+  "descripcion": "Un abogado que trata de fijar problemas de todo el mundo, en cambio causa problemas, que siempre terminan en situaciones graciosas.",
+  "duracion": "1h 40m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1969",
+  "iframes": [
+    { "nombre": "Upload", 
+      "url": "https://short.icu/VD515ACuP" },
+    { "nombre": "Streawish", 
+      "url": "" 
+    }
+  ]
+}

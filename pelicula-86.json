@@ -1,0 +1,18 @@
+{
+    "id": 86,
+    "titulo": "Indiana Jones 2: El Templo de la Perdición",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tLEaz41vKyKY7AgCTGgijLGWzbk.jpg",
+    "categoria": ["Acción","Aventura"],
+    "descripcion": "1935. Shanghai. El intrépido arqueólogo Indiana Jones, tras meterse en jaleos en un local nocturno, consigue escapar junto a una bella cantante y su joven acompañante. Tras un accidentado vuelo, los tres acaban en la India, donde intentarán ayudar a los habitantes de un pequeño poblado, cuyos niños han sido raptados.",
+    "duracion": "1h 58m",
+    "calidad": "720p",
+    "idioma": "Latino",
+    "estreno": "1984",
+    "iframes": [
+      { "nombre": "Upload", 
+        "url": "https://short.icu/8v1ktpl_I" },
+      { "nombre": "Streawish", 
+        "url": "" 
+      }
+    ]
+  }

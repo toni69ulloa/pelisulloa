@@ -1,0 +1,18 @@
+{
+  "id": 35,
+  "titulo": "El Padrino II",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mbry0W5PRylSUHsYzdiY2FSJwze.jpg",
+  "categoria": ["Crimen","Drama"],
+  "descripcion": "Continuación de la historia de los Corleone por medio de dos historias paralelas: la elección de Michael como jefe de los negocios familiares y los orígenes del patriarca, Don Vito Corleone, primero en su Sicilia natal y posteriormente en Estados Unidos, donde, empezando desde abajo, llegó a ser un poderosísimo jefe de la mafia de Nueva York.",
+  "duracion": "3h 20m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1974",
+  "iframes": [
+    { "nombre": "Upload", 
+      "url": "https://short.icu/8B4R6zzkP" },
+    { "nombre": "Streawish", 
+      "url": "" 
+    }
+  ]
+}

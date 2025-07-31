@@ -1,0 +1,18 @@
+{
+  "id": 20,
+  "titulo": "Por mis pistolas",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ssKgWBjx2CmoFvqE8EwbialwRFo.jpg",
+  "categoria": ["Aventura","Comedia","Western"],
+  "descripcion": "Fidencio Barrenillo, un boticario en una aldea en la frontera norte de México descubre un título antiguo de una mina en Arizona y decide reclamarlos. Al Tratar de cruzar la frontera es interceptado por un guardia de frontera el cual exagera en la línea del deber. En el camino es capturado por una tribu de Apaches y está a punto de ser quemado vivo, pero gracias al Gran Jefe de la tribu el cual tiene dolor de muelas y descubre que Fidencio puede sanarlo, al sanarlo el jefe ordenó su liberación. Fidencio continuaria su camino y obtendría la eterna amistad del jefe apache.",
+  "duracion": "2h 3m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1968",
+  "iframes": [
+    { "nombre": "Upload", 
+      "url": "https://short.icu/xx0jukj6F" },
+    { "nombre": "Streawish", 
+      "url": "" 
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 7,
+  "titulo": "El Señor Fotógrafo",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rGmP5zYLDi7fokr1ndIomoqDVDl.jpg",
+  "categoria": ["Comedia","Suspenso"],
+  "descripcion": "Cantinflas, fotógrafo ambulante, es capturado por unos gángsters cuando trataba de tomar unas flores para su novia, Consuelo. Los gángsters le han confundido con el ayudante del doctor Penongo, científico que ha descubierto la fórmula de una nueva bomba atómica. Mientras tanto, Penongo ha sufrido un accidente de automóvil y ha perdido la memoria.",
+  "duracion": "1h 40m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1953",
+  "iframes": [
+    { 
+      "nombre": "Upload", 
+      "url": "https://short.icu/PrzBcVQSt" 
+    },
+    { "nombre": "Streawish", 
+      "url": "" 
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 69,
+  "titulo": "48 horas",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cHE4O3MjvH8Pv3qXEYaRtKbTwdR.jpg",
+  "categoria": ["Acción","Comedia","Crimen"],
+  "descripcion": "Cuando un par de asesinos sin escrúpulos consigue huir de prisión, dejando tras de sí un horrible reguero de crímenes, al malhumorado detective Jack Cates no le queda otra opción que sacar al timador Reggie Hammond de la penitenciaría para que le ayude a encontrar a los criminales. Sin embargo sólo dispondrán de 48 horas antes de que Hammond deba regresar a la cárcel.",
+  "duracion": "1h 36m",
+  "calidad": "",
+  "idioma": "Latino",
+  "estreno": "1982",
+  "iframes": [
+    { "nombre": "Upload", 
+      "url": "https://short.icu/8Ys2xB5dR" },
+    { "nombre": "Streawish", 
+      "url": "" 
+    }
+  ]
+}

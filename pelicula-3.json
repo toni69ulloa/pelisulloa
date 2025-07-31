@@ -1,0 +1,21 @@
+{
+  "id": 3,
+  "titulo": "¡A volar, joven!",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qAGoxdj6TJTtTmyFf5hxFQiwFK3.jpg",
+  "categoria": ["Comedia"],
+  "descripcion": "Cantinflas es un privado, que no sabe nada acerca de la disciplina o seguir las reglas. Sólo quiere pensar en su novia, la sirvienta en una hacienda opulenta. El propietario tiene una hija fea y tímida, que está enamorada de Cantinflas. Los problemas llegan cuando la familia organiza una boda entre la niña fea y Cantinflas, quien para evitar el compromiso se hace detener. Durante el castigo, Cantinflas aprenderá a volar con un instructor tonto y no muy entrenado.",
+  "duracion": "1h 53m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1947",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/FCcbXgNZd"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

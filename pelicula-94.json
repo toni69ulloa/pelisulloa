@@ -1,0 +1,18 @@
+{
+  "id": 94,
+  "titulo": "El Regreso de los Muertos Vivientes",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yZsQ2asRp8mwbGt4WnqnE59pfdT.jpg",
+  "categoria": ["Terror","Comedia","Ciencia ficción"],
+  "descripcion": "Cuando un torpe par de empleados en un almacén de suministros médicos accidentalmente libera un gas mortal en el aire, los vapores causan que los muertos vuelvan a animarse mientras van en un alboroto en busca de su comida favorita: ¡cerebros!",
+  "duracion": "1h 31m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1985",
+  "iframes": [
+    { "nombre": "Upload", 
+      "url": "https://short.icu/e7yfyl68B" },
+    { "nombre": "Streawish", 
+      "url": "" 
+    }
+  ]
+}

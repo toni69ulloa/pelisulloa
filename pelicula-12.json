@@ -1,0 +1,19 @@
+{
+  "id": 12,
+  "titulo": "Entrega Inmediata",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/17EOPEXYgzmTcVQyYRH9xPq836w.jpg",
+  "categoria": ["Comedia"],
+  "descripcion": "Feliciano trabaja de cartero. La guapísima y seductora Carlota, dirigente principal de una red de espionaje, vuelve loco al pobre Feliciano. Y ella, sabiéndolo, engaña al inocente cartero consiguiendo que le entregue unos importantes documentos con informes sobre experimentos nucleares.",
+  "duracion": "1h 50m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1963",
+  "iframes": [
+    { 
+      "nombre": "Upload", 
+      "url": "https://short.icu/fCLLWZDEu" },
+    { "nombre": "Streawish",
+      "url": "" 
+    }
+  ]
+}

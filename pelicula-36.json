@@ -1,0 +1,18 @@
+{
+  "id": 36,
+  "titulo": "007: El hombre del revólver de oro",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8EIjhHuUK3CdyGyLRMWXCYBtxUZ.jpg",
+  "categoria": ["Acción","Aventura","Suspenso"],
+  "descripcion": "El superagente británico 007 habrá de vérselas ahora con el más peligroso asesino a sueldo del momento: un hombre llamado Scaramanga, más conocido como el hombre de la pistola de oro, que tratará de deshacerse de James Bond con los más sofisticados recursos.",
+  "duracion": "2h 9m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1974",
+  "iframes": [
+    { "nombre": "Upload", 
+      "url": "https://short.icu/L2zviYa5F" },
+    { "nombre": "Streawish", 
+      "url": "" 
+    }
+  ]
+}

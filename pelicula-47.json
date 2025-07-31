@@ -1,0 +1,18 @@
+{
+    "id": 47,
+    "titulo": "Tiburón 2",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gQgHcjBWzjCvdfFNY6PGMEzMN93.jpg",
+    "categoria": ["Suspenso","Terror"],
+    "descripcion": "A pesar de que ya han pasado cuatro años desde que un gran tiburón blanco aterrorizara al pequeño pueblo costero de Amity, el jefe de policía Brody sigue preocupado. Sin embargo, el alcalde no duda en poner en marcha varios proyectos para atraer de nuevo al turismo. Dos submarinistas exploran la zona donde había aparecido el peligroso escualo y son devorados. Su desaparición alerta a Brody: es verano y al pueblo están llegando muchos turistas. Mientras tanto, un grupo de chicos, entre los que están los hijos de Brody, van de excursión a una península cercana.",
+    "duracion": "2h",
+    "calidad": "720p",
+    "idioma": "Latino",
+    "estreno": "1978",
+    "iframes": [
+      { "nombre": "Upload",
+        "url": "https://short.icu/LJit191j6b" },
+      { "nombre": "Streawish", 
+        "url": "" 
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": 43,
+    "titulo": "007: La espía que me amó",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bVijn81lkbtpNLQGTF1wfyU6HmU.jpg",
+    "categoria": ["Acción","Aventura","Suspenso"],
+    "descripcion": "La misteriosa desaparición de dos submarinos nucleares exige la colaboración de los mejores agentes de los servicios secretos británico y soviético: James Bond y la mayor Amasova. Detrás de todo se encuentra el magnate Stromberg, que se propone destruir a la humanidad para fundar una nueva civilización bajo el mar.",
+    "duracion": "2h 5m",
+    "calidad": "720p",
+    "idioma": "Latino",
+    "estreno": "1977",
+    "iframes": [
+      { "nombre": "Upload", 
+        "url": "https://short.icu/ZE0aFOGg8" },
+      { "nombre": "Streawish", 
+        "url": "" 
+    }
+  ]
+}

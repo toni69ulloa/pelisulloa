@@ -1,0 +1,18 @@
+{
+  "id": 26,
+  "titulo": "Bajo el planeta de los simios",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wNh22vYIfd2Xr6zBoh8ZQGivt1L.jpg",
+  "categoria": ["Aventura","Ciencia ficción","Misterio"],
+  "descripcion": "El único sobreviviente de una misión de rescate interplanetario busca al único sobreviviente de la expedición anterior. Descubre un planeta gobernado por simios y una ciudad subterránea dirigida por humanos telepáticos.",
+  "duracion": "1h 35m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1970",
+  "iframes": [
+    { "nombre": "Upload", 
+      "url": "https://short.icu/veHgNRQhR" },
+    { "nombre": "Streawish", 
+      "url": "" 
+    }
+  ]
+}

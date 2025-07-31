@@ -1,0 +1,18 @@
+{
+    "id": 49,
+    "titulo": "Vaselina",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/flSy0dexE82TiS6Si2FtulSHk8o.jpg",
+    "categoria": ["Comedia","Romance"],
+    "descripcion": "El rebelde Danny Zuko y la inocente australiana Sandy mantienen un romance durante las vacaciones, creyendo que no se volverán a ver; sin embargo, para sorpresa de ambos, se reencuentran en la escuela secundaria al empezar el nuevo año escolar.",
+    "duracion": "1h 50m",
+    "calidad": "720p",
+    "idioma": "Latino",
+    "estreno": "1978",
+    "iframes": [
+      { "nombre": "Upload", 
+        "url": "https://short.icu/p2K6YJArR" },
+      { "nombre": "Streawish", 
+        "url": "" 
+    }
+  ]
+}

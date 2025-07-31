@@ -1,0 +1,18 @@
+{
+  "id": 81,
+  "titulo": "Terminator: El Exterminador",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y4jSWrykjrtfrxuvImpu857Qrxr.jpg",
+  "categoria": ["Acción","Suspenso","Ciencia ficción"],
+  "descripcion": "Los Ángeles, año 2029. Las máquinas dominan el mundo. Los rebeldes que luchan contra ellas tienen como líder a John Connor, un hombre que nació en los años ochenta. Para acabar con la rebelión, las máquinas deciden enviar al pasado a un robot -Terminator- cuya misión será eliminar a Sarah Connor, la madre de John, e impedir así su nacimiento.",
+  "duracion": "1h 48m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1984",
+  "iframes": [
+    { "nombre": "Upload", 
+      "url": "https://short.icu/UZ1izkjRK" },
+    { "nombre": "Streawish", 
+      "url": "" 
+    }
+  ]
+}

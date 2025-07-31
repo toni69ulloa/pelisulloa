@@ -1,0 +1,19 @@
+{
+  "id": 8,
+  "titulo": "El bolero de Raquel",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fTnNcQIIkghGyYmNIGMCtgy4BoN.jpg",
+  "categoria": ["Comedia"],
+  "descripcion": "Cuenta un episodio de la vida de un bolero de amable corazón que se convierte accidentalmente en tutor de un huérfano, pero sin embargo, pasa todo su tiempo y esfuerzo por el bien del niño.",
+  "duracion": "1h 41m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1957",
+  "iframes": [
+      { "nombre": "Upload", 
+        "url": "https://short.icu/3F2-hFRc7"  
+      },
+      { "nombre": "Streawish", 
+        "url": "" 
+      }
+    ]
+  }

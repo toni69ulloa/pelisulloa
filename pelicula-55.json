@@ -1,0 +1,18 @@
+{
+    "id": 55,
+    "titulo": "Viernes 13",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wLdUNsyeSd9OvKmM0CeXF6n13IL.jpg",
+    "categoria": ["Terror"],
+    "descripcion": "Un grupo de orientadores de campamentos que intentan reabrir un campamento de verano llamado Crystal Lake, que tiene un pasado sombrío, son acechados por un misterioso asesino.",
+    "duracion": "1h 35m",
+    "calidad": "720p",
+    "idioma": "Latino",
+    "estreno": "1980",
+    "iframes": [
+      { "nombre": "Upload", 
+        "url": "https://short.icu/Lxbd6-tdV" },
+      { "nombre": "Streawish", 
+        "url": "" 
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 73,
+  "titulo": "El barrendero",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nRi5BXDpBRKFhHQYUKvUGS3Y5D0.jpg",
+  "categoria": ["Comedia"],
+  "descripcion": "Un alegre barrendero, baila mientras recolecta basura, y las criadas del vecindario se ponen celosas porque invita a otra mujer.",
+  "duracion": "1h 53m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1982",
+  "iframes": [
+    { "nombre": "Upload", 
+      "url": "https://short.icu/OpQhhgPbK" },
+    { "nombre": "Streawish", 
+      "url": "" 
+    }
+  ]
+}

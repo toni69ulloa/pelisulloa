@@ -1,0 +1,18 @@
+{
+    "id": 90,
+    "titulo": "Volver al Futuro",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k3naCOK9ZQ5Mc7HhfHKN3zyray9.jpg",
+    "categoria": ["Aventura","Comedia","Ciencia ficción"],
+    "descripcion": "El adolescente de los ochenta Marty McFly es enviado accidentalmente al pasado, a 1955, interrumpiendo sin darse cuenta el primer encuentro de sus padres y atrayendo el interés romántico de su madre. Marty debe reparar el daño a la historia reavivando el romance de sus padres y, con la ayuda de su excéntrico amigo inventor Doc Brown, regresar a 1985.",
+    "duracion": "1h 57m",
+    "calidad": "720p",
+    "idioma": "Latino",
+    "estreno": "1985",
+    "iframes": [
+      { "nombre": "Upload", 
+        "url": "https://short.icu/mnKghqeZ2" },
+      { "nombre": "Streawish", 
+        "url": "" 
+      }
+    ]
+  }

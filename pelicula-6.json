@@ -1,0 +1,21 @@
+{
+  "id": 6,
+  "titulo": "Si yo fuera diputado",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/37ANYH2xOKsb6KHwYpVExmXXAXc.jpg",
+  "categoria": ["Comedia"],
+  "descripcion": "Cantinflas es un singular barbero (peluquero en otras zonas de Latinoamérica), quien intercambia con un anciano vecino de profesión abogado, lecciones de leyes a cambio de cortes de cabello y rasuradas. Éste le propone asesoramiento para defender en los tribunales a los desfavorecidos del barrio. Su éxito le procura los votos de diputado, ya que el otro candidato, don Próculo, no es aceptado por nadie más que por sus propios guardaespaldas. Don Próculo hará uso de cuanta artimaña conozca para ganar las elecciones por la Diputación, y también por el cariño de Sarita.",
+  "duracion": "1h 35m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1952",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/LV36FKDVn"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}
