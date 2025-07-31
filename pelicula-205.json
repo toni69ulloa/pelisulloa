@@ -1,0 +1,21 @@
+{
+  "id": 205,
+  "titulo": "Operación Cacería",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r5KpNrp8jPaNTkyENgQ9aPrM20V.jpg",
+  "categoria": ["Acción","Suspenso","Crimen"],
+  "descripcion": "Dos hombres despiadados, Fouchon y Van Cleaf, han convertido Nueva Orleans en su particular coto de caza, donde organizan siniestros torneos que enfrentan a sus asesinos con veteranos de guerra, a quienes prometen 10.000 dólares si logran sobrevivir. Desde luego, ninguno de los infortunados que se atreve a probar suerte en tan sangriento juego llega a cobrar el premio. Las cosas cambiarán el día en que Chance Boudreaux decide participar en el juego... Chance, sin embargo, no es un héroe noble y altruista, sino un solitario cajun que solamente quiere cobrar los 217 dólares que necesita para saldar sus deudas con el sindicato de marineros mercantes.",
+  "duracion": "1h 40m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1993",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/yaJt3q0rN"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 228,
+  "titulo": "Junior",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/s3iTzAbJFH1fdqs2Lp0DqL7LRSo.jpg",
+  "categoria": ["Comedia","Ciencia ficción"],
+  "descripcion": "El Dr. Alex Hesse, un prestigioso científico, y su colega, el ginecólogo Dr. Arbogast, investigan un nuevo fármaco, el Espectane, que asegura un embarazo saludable a cualquier mujer. Cuando van a empezar los experimentos con seres humanos, la universidad anula el proyecto y cede el laboratorio a la doctora Reddin, pero los científicos deciden seguir con la investigación utilizando el cuerpo del propio Dr. Hesse.",
+  "duracion": "1h 49m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1994",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/EGONj2ymu"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

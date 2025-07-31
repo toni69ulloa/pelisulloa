@@ -1,0 +1,21 @@
+{
+  "id": 268,
+  "titulo": "Scream 2: Grita y vuelve a Gritar",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kFFPrFxVHj9DWzDA6h0CqFlUEOW.jpg",
+  "categoria": ["Terror","Misterio"],
+  "descripcion": "Sidney Presscott, dos años después de los asesinatos de Woodsboro, California, vive feliz con sus amigos en el Campus de la Universidad de Windsor. El curso toca ya a su fin. Pero el día en que se estrena una película basada en la novela de la periodista Gale Weathers sobre los crímenes de Woodsboro, alguien es asesinado en el cine del campus.",
+  "duracion": "2h 2m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1997",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/-DE5J_tDEU"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

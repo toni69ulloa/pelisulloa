@@ -1,0 +1,21 @@
+{
+  "id": 237,
+  "titulo": "Mientras dormías",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uBKNw0PPwJJi2gMP526UDeNELg.jpg",
+  "categoria": ["Romance","Comedia"],
+  "descripcion": "Lucy es una joven taquillera del metro con poca suerte en el amor. Su sueño es salir con Peter, un guapo ejecutivo que todos los días coge el metro sin fijarse en ella. Un día Peter tiene un accidente en el metro y, aunque Lucy le salva la vida, queda en estado de coma. Cuando va a visitarlo al hospital, y los familiares de Peter creen que ella es su prometida, Lucy no se atreve a decirles la verdad. La situación se complica porque Jack, el hermano de Peter, empieza a sospechar que Lucy no es la novia de su hermano.",
+  "duracion": "1h 40m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1995",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/zpxEy0Cn8"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 257,
+  "titulo": "Jack",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7DvASQKmMDn4vj1UynhMXD5JexC.jpg",
+  "categoria": ["Comedia","Familiar","Drama"],
+  "descripcion": "A causa de un trastorno de envejecimiento inusual que le ha envejecido cuatro veces más rápido que un ser humano normal, un niño entra en el quinto grado por primera vez con el aspecto de un hombre de 40 años de edad.",
+  "duracion": "1h 53m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1996",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/aVZoxxif5"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

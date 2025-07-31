@@ -1,0 +1,21 @@
+{
+  "id": 282,
+  "titulo": "Viaje a las estrellas: Insurrección",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mvBhWl93Cktgo5Xec31hQVKqMD1.jpg",
+  "categoria": ["Acción","Aventura","Ciencia ficción","Suspenso"],
+  "descripcion": "A bordo de la Enterprise, su capitán Jean Luc Picard recibe un mensaje de la flota. Al parecer, el androide Data, que se encontraba estudiando una sociedad primitiva, ha sufrido un ataque de locura y ha revelado la existencia del equipo de investigación a los habitantes del planeta Ba'Ku. Pronto descubrirá, sin embargo, que tras estos hechos hay mucho más de lo que se ve a simple vista.",
+  "duracion": "1h 39m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1998",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/06KijU0DbV"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

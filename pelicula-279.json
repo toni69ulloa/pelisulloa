@@ -1,0 +1,21 @@
+{
+  "id": 279,
+  "titulo": "007: El mañana nunca muere",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rm4vVzMKv7zallSTDl4XqfOslqU.jpg",
+  "categoria": ["Acción","Aventura","Suspenso"],
+  "descripcion": "Elliot Carver, un gran magnate de los medios de comunicación, sólo necesita conseguir los derechos de publicación en China para completar su emporio global. Su maquiavélico plan consiste en provocar una guerra entre Gran Bretaña y China, mediante el hundimiento de un buque de guerra inglés. James Bond emprenderá una misión contrarreloj para descubrir quién está detrás del peligroso incidente.",
+  "duracion": "1h 59m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1997",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/v-Rs60LWL"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 213,
+  "titulo": "El demoledor",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4ibsnd6k5ZIvxPZAUWcKKwCgnab.jpg",
+  "categoria": ["Acción","Crimen","Ciencia ficción"],
+  "descripcion": "Un peligroso asesino llamado Simon Phoenix es congelado en una cárcel criógena. Años después despierta en una ciudad sin ley y con una sociedad llena de criminales, donde nadie puede evitar que cometa sus acciones favoritas. Solo Spartan, el policía que lo detuvo en 1996, y congelado por un crimen que no cometió, puede acabar con él.",
+  "duracion": "1h 56m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1993",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/HU8iAv82M"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

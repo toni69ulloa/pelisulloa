@@ -1,0 +1,21 @@
+{
+  "id": 270,
+  "titulo": "La Vida es Bella",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aZ7MFlKPfB02Lr9NwZQ4vsYRgcy.jpg",
+  "categoria": ["Comedia","Drama"],
+  "descripcion": "Una obra maestra cinematográfica inspiradora. La vida es bella fue nominada para siete premios de la Academia® en 1998, ganando 3 Óscares®, incluyendo el de Mejor actor, para Roberto Benigni. En esta historia extraordinaria, Guido (Benigni), un encantador, pero incompetente camarero, dotado de una vívida imaginación y de un irresistible sentido del humor, ha conquistado el corazón de la mujer que ama y creado una hermosa vida para su joven familia. Sin embargo, la vida se ve amenazada por la Segunda Guerra Mundial y Guido debe tomar partido de sus fortalezas para salvar a su querida esposa e hijo de un destino cruel. Tras recibir un volumen abrumador de alabanzas por parte de la crítica, este logro cinematográfico excepcional reavivará su espíritu y cautivará su corazón.",
+  "duracion": "1h 57m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1997",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/hFyzPplRU"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

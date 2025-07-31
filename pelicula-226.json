@@ -1,0 +1,21 @@
+{
+  "id": 226,
+  "titulo": "La Máscara",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xbbXp9px4o8Oe7IbGd0yIbla8mZ.jpg",
+  "categoria": ["Comedia","Crimen","Fantasía","Romance"],
+  "descripcion": "Cuando el tímido empleado bancario, Stanley Ipkiss, descubre una máscara mágica que contiene el espíritu del dios nórdico Loki, su vida cambia por completo.",
+  "duracion": "1h 41m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1994",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/5iKBwG0JJ"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 222,
+  "titulo": "Peligro inminente",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/12iBmLbwRT7xUxdomQhphsVh3GK.jpg",
+  "categoria": ["Acción","Drama","Suspenso"],
+  "descripcion": "Cuando el Almirante James Greer cae gravemente enfermo, Ryan es nombrado subdirector de la CIA. Su primera misión: investigar el asesinato de uno de los amigos personales del Presidente, un importante hombre de negocios vinculado al tráfico de drogas colombiano. Pero sin que Ryan lo sepa, la CIA ha enviado una fuerza paramilitar, dirigida por el temible Clark, contra el cártel colombiano. Atrapado entre dos fuegos, Ryan decide arriesgar su carrera y su vida por la única causa en la que aún cree: la verdad.",
+  "duracion": "2h 21m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1994",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/TUSEly2m8"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

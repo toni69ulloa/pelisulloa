@@ -1,0 +1,21 @@
+{
+  "id": 254,
+  "titulo": "Reacción en cadena",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/s8OhnNKsVk9H9tXRwqxJeqhNmVJ.jpg",
+  "categoria": ["Suspenso","Acción","Ciencia ficción"],
+  "descripcion": "Un inteligente estudiante de ciencias químicas, Eddie Kasalivich (Keanu Reeves), descubre un caso secreto del gobierno para tapar un asunto de espionaje industrial. Eddie forma parte de un equipo de investigación que ha desarrollado una revolucionaria fuente de energía. Justo antes de haber alcanzado sus objetivos de trabajo una explosión destruye su laboratorio, mientras que el jefe de su equipo es misteriosamente asesinado. Eddie es acusado como principal sospechoso, por lo que se pone en contacto con el único que puede ayudarle, un poderoso burócrata (Morgan Freeman) que en un principio no se cree su historia.",
+  "duracion": "1h 46m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1996",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/ZvS0GQvQK"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

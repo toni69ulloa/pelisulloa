@@ -1,0 +1,21 @@
+{
+  "id": 223,
+  "titulo": "Mentiras verdaderas",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fRNe1fadJ6waoEcjGHgJGyVpEri.jpg",
+  "categoria": ["Acción","Suspenso"],
+  "descripcion": "Harry Tasker es un agente secreto del gobierno estadounidense que lleva una doble vida. Cuando su esposa Helen empieza a sospechar de sus actividades, Harry se ve obligado a revelar su verdadera identidad mientras lucha contra terroristas y trata de salvar su matrimonio.",
+  "duracion": "2h 21m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1994",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/xCXHA4YyB"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

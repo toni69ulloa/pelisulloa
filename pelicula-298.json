@@ -1,0 +1,21 @@
+{
+  "id": 298,
+  "titulo": "Matrix",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ejmTPNAkgZaVJ4AI9zb9SehAYU0.jpg",
+  "categoria": ["Acción","Ciencia ficción"],
+  "descripcion": "Un hacker informático aprende de misteriosos rebeldes la verdadera naturaleza de su realidad y su papel en la guerra contra sus controladores.",
+  "duracion": "2h 11m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1999",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/Kqc7AEo5Jn"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

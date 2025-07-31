@@ -1,0 +1,21 @@
+{
+  "id": 238,
+  "titulo": "Marea Roja",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9biXf0EATwtMLOKsG6SoYM2eegU.jpg",
+  "categoria": ["Suspenso","Acción","Drama","Bélica"],
+  "descripcion": "El impulsivo Comandante del Alabama, el Capitán Frank Ramsey, y su lugarteniente, el reflexivo Teniente Coronel Ron Hunter, se encuentran en medio de un conflicto mundial. El submarino nuclear que dirigen se ve amenazado por un desequilibrado nacionalista ruso que quiere provocar la Tercera Guerra Mundial. Pero, cuando reciben órdenes de lanzar misiles nucleares, Ramsey y Hunter reaccionan de manera muy distinta y acaban enfrentándose por el control de la nave.",
+  "duracion": "1h 55m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1995",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/6qB_Irn0K"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

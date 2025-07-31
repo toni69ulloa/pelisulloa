@@ -1,0 +1,21 @@
+{
+  "id": 212,
+  "titulo": "El Fugitivo",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aLcB1uBxkNghyiD797ZRBBRz5lj.jpg",
+  "categoria": ["Acción","Suspenso","Drama"],
+  "descripcion": "El doctor Richard Kimble es un prestigioso cirujano de Chicago con una vida prácticamente perfecta: una bella esposa, una casa de lujo en un elegante barrio de Chicago... Su vida se desmorona el día que su mujer es brutalmente asesinada en manos de un misterioso hombre manco. Kimble es acusado del crimen y, aunque él es inocente, es sentenciado con la pena de muerte. Camino de la cárcel, el autobús donde es transportado Kimble sufre un accidente de tráfico. Varios prisioneros consiguen escapar, entre ellos el propio Kimble. El detective Samuel Gerard es el encargado de realizar la investigación. Todos los fugados son atrapados, excepto el esquivo Kimble, que se le escapa de las manos por unos segundos. Ahora que está en libertad, Kimble sabe que solamente tiene una manera de probar su inocencia: encontrar al verdadero asesino. Perseguido por Gerard, inicia la búsqueda del manco.",
+  "duracion": "2h 11m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1993",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/oOuG256vD"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

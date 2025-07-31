@@ -1,0 +1,21 @@
+{
+  "id": 201,
+  "titulo": "RoboCop 3",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nEPpCbdh5UKspPgaH57SFzFJYw.jpg",
+  "categoria": ["Acción","Aventura","Crimen","Ciencia ficción","Suspenso"],
+  "descripcion": "La corporación súper Omni Productos de consumo todavía está resuelta a crear su proyecto favorito, Ciudad del Delta, para sustituir la ciudad que se pudre de Detroit. Lamentablemente, los habitantes del área no tienen intención de abandonar sus casas simplemente para deseos de la compañía. A este final, OCP han decidido obligarlos a irse empleando a un ejército mercenario despiadado para atacarlos y acosarlos. Una resistencia subterránea comienza y en esta lucha, Robocop debe decidir donde su lealtad está.",
+  "duracion": "1h 44m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1993",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/_Nv_JUCMt"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

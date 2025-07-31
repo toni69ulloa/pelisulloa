@@ -1,0 +1,21 @@
+{
+  "id": 247,
+  "titulo": "Asesinos",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/56CjAhLlMwtcITYbS61ql3DbmkW.jpg",
+  "categoria": ["Acción","Aventura","Crimen","Suspenso"],
+  "descripcion": "Robert Rath es un combatiente en un campo de batalla que la mayoría de la gente ni tan siquiera sabe que existe, allí es donde practica un juego mortal en el que los jugadores están sentenciados y la única salida es una bala. Reclutado inicialmente por la urgente causa de la Guerra Fría, Rath llevó a cabo trabajos para los que pocos hombres estaban preparados y ahora quiere dejarlo. Después de haber sido el indiscutilble número uno, alguien llamado Miguel Bain comienza a acosar ese liderazgo. Apasionado y ambicioso, este estudiante de Historia disfruta con la emoción de matar y sabe que su momento ha llegado y que sólo Rath le impide realizar su destino. en el camino de ambos se cruzará Electra, una experta en vigilancia y astuta ladrona en el mundo de la información que comparte con Rath el deseo de salirse de un mundo que le ha absorbido durante años y le hace llevar una vida nómada.",
+  "duracion": "2h 12m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1995",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/GSItDfMnc"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

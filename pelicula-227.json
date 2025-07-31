@@ -1,0 +1,21 @@
+{
+  "id": 227,
+  "titulo": "Karate Kid 4: La nueva aventura",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4BTiBFW4jbMEUewbOWqidkEjrL.jpg",
+  "categoria": ["Acción","Drama","Familiar","Aventura"],
+  "descripcion": "Julie perdió a sus padres cuando sólo era una niña. Ahora, a sus 17 años, vive con el señor Miyagi, un anciano japonés amigo de su abuela. La joven además tiene problemas en el instituto con una banda de muchachos que juegan a proteger a su país de enemigos interiores que ya no respetan el viejo orden.",
+  "duracion": "1h 47m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1994",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/AoVfQig9GN"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

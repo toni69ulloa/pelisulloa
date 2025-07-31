@@ -1,0 +1,21 @@
+{
+  "id": 232,
+  "titulo": "Dos Tontos Muy Tontos",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oJSYzIRoJLqNcMMgy8ErCJjSJf9.jpg",
+  "categoria": ["Comedia"],
+  "descripcion": "Cuando Lloyd, un chófer de una limousina, se enamora de una chica adinerada que desaparece dejando olvidado un maletín, él y su amigo Harry, un transportador de perros, emprenderán un viaje por todo el país para devolvérselo.",
+  "duracion": "1h 47m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1994",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/CnM-FTQED"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

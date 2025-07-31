@@ -1,0 +1,21 @@
+{
+  "id": 214,
+  "titulo": "Daniel el Travieso",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oKPEU70iKpsmVgTMQCf5U56DiNz.jpg",
+  "categoria": ["Familiar","Comedia"],
+  "descripcion": "Daniel es un niño muy inteligente, travieso e inquieto, que continuamente está metido en líos, unas veces de forma intencionada y otras por puro accidente. Su vecino, el jubilado señor Wilson, suele ser la víctima de la mayor parte de sus travesuras.",
+  "duracion": "1h 35m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1993",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/5_XNZLV5p"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 244,
+  "titulo": "Corazón Valiente",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6snCuOuKwWnATAOTTumAtRImuoo.jpg",
+  "categoria": ["Acción","Drama","Historia","Bélica"],
+  "descripcion": "Drama histórico que narra la vida de William Wallace, un héroe escocés del siglo XIII que lidera una rebelión contra el dominio inglés. Wallace lucha por la libertad de su pueblo y se convierte en un símbolo de resistencia y valentía en la lucha por la independencia de Escocia.",
+  "duracion": "2h 57m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1995",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/R__m7NpOm"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

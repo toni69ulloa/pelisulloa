@@ -1,0 +1,21 @@
+{
+  "id": 245,
+  "titulo": "Casper",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/94n8xYTfzPRq6ZikElvSn37NpYE.jpg",
+  "categoria": ["Fantasía","Comedia","Familiar"],
+  "descripcion": "Una mujer vengativa, Carrigan Crittenden, se pone molesta por la lectura del testamento, ya que sólo le otorgaron la horripilante Mansión Whipstaff, sin embargo, cambiará de parecer cuando se entera de que en ella hay un tesoro escondido. Ella y su asistente Dibs van a la casa tratando de investigar, descubriendo que está embrujada por un fantasma amistoso llamado Casper y sus desagradables y bromistas tíos, el trío fantasmal (Látigo, Gordi y Tufo), quienes los ahuyentan de la propiedad.",
+  "duracion": "1h 41m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1995",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/B2nKiOyLy"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

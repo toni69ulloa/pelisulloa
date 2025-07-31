@@ -1,0 +1,21 @@
+{
+  "id": 224,
+  "titulo": "Los Picapiedra",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z3NM5Lk7iIUI03ImIbH7Ihn8J7w.jpg",
+  "categoria": ["Comedia","Familiar","Fantasía"],
+  "descripcion": "La familia de la Edad de Piedra moderna, los Flintstones, llegan a la gran pantalla en esta versión de acción en vivo de la caricatura clásica. Pedro ayuda a Pablo a adoptar un niño. Pablo ve una oportunidad para pagarle cuando Sr Rajuela prueba a sus empleados para encontrar un nuevo ejecutivo. Pero ninguna buena acción queda impune.",
+  "duracion": "1h 30m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1994",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/o0N8mqW5b"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

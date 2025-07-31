@@ -1,0 +1,21 @@
+{
+  "id": 246,
+  "titulo": "Batman eternamente",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wg6BN76E9iIEtiawMJnCecY0zgY.jpg",
+  "categoria": ["Acción","Crimen","Fantasía"],
+  "descripcion": "Batman debe luchar contra el ex fiscal de distrito Harvey Dent, que ahora es Dos Caras y Edward Nygma, El Acertijo. Batman contará ahora con un nuevo interés amoroso y un joven acróbata de circo que queda huérfano y se convierte en su compañero: Robin.",
+  "duracion": "2h 2m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1995",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/4h54Gqqvw"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

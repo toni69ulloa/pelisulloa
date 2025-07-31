@@ -1,0 +1,21 @@
+{
+  "id": 239,
+  "titulo": "Jumanji",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m67M2wXLKblJLuJlvF7qaGrGfCa.jpg",
+  "categoria": ["Aventura","Familiar","Fantasía"],
+  "descripcion": "Alan Parrish queda atrapado durante 25 años en un juego de mesa mágico y muy antiguo llamado Jumanji. Cuando por fin, es liberado por dos niños, una manada de animales exóticos queda también en libertad.",
+  "duracion": "1h 44m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1995",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/T_JvPbHfH"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

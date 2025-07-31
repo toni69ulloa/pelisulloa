@@ -1,0 +1,21 @@
+{
+  "id": 286,
+  "titulo": "La Máscara del Zorro",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fbqmGj7PCUDRAMydIiPx0knWvhn.jpg",
+  "categoria": ["Acción","Aventura"],
+  "descripcion": "México, 1821. Un enmascarado y romántico héroe popular, conocido como El Zorro, lucha valientemente contra el dominio colonial español en la Alta California. Sin embargo, la víspera de la liberación de México, el despótico gobernador don Rafael Montero descubre que el Zorro es don Diego de la Vega. Un ataque contra la casa del rebelde, se salda con su captura, la muerte de su mujer, el secuestro de su única hija Elena y la destrucción de sus propiedades. Veinte años después, Montero regresa del exilio con Elena, que ignora la identidad de su padre, y se propone comprar California al Presidente de México, el General Santa Anna. Cuando don Diego de la Vega se entera, escapa de la prisión dispuesto a vengarse de Montero.",
+  "duracion": "2h 16m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1998",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/treJLW8yhV"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

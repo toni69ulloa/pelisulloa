@@ -1,0 +1,21 @@
+{
+  "id": 207,
+  "titulo": "Mira quién habla ¡ahora!",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/alTFrpxgq5XlOA6LpfHToTcC6Cc.jpg",
+  "categoria": ["Romance","Comedia","Familiar"],
+  "descripcion": "Mickey y Julie ya son mayores, y ya hablan con sus propias voces. Sus padres, Mollie y James aún están juntos criando a sus hijos; Mollie se ha quedado sin trabajo y se pasa el día en casa, mientras que James trabaja como piloto privado para una atractiva ejecutiva, Samantha, quien le somete a un implacable acoso. Además han llegado dos nuevos miembros a la familia: Rocks, un perro callejero, y Daphne, una caniche consentida.",
+  "duracion": "1h 35m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1993",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/x7VOsErx9"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

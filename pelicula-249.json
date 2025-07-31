@@ -1,0 +1,21 @@
+{
+  "id": 249,
+  "titulo": "12 Monos",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bXLwKCCMS2NCNlxAhSwn9HCymRl.jpg",
+  "categoria": ["Ciencia ficción","Misterio","Suspenso"],
+  "descripcion": "En el año 2035, el convicto James Cole voluntarios a regañadientes para ser enviado de regreso en el tiempo para descubrir el origen de un virus mortal que aniquiló a casi toda la población de la tierra y obligó a los sobrevivientes a las comunidades subterráneas. Pero cuando Cole es enviado por error a 1990 en lugar de a 1996, es arrestado y encerrado en un hospital psiquiátrico. Allí conoce a la psiquiatra Dra. Kathryn Railly, y al paciente Jeffrey Goines, hijo de un famoso experto en virus, que puede tener la llave del misterioso grupo rebelde, el Ejército de los 12 Monos, que se cree será el responsable de desencadenar la enfermedad mortal.",
+  "duracion": "2h 10m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1995",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/sc39aQKHl"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

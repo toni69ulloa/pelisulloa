@@ -1,0 +1,21 @@
+{
+  "id": 206,
+  "titulo": "Nuestra Pandilla",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dpimdVQRGJp6lv9fNACxCrhKXGY.jpg",
+  "categoria": ["Familiar","Comedia"],
+  "descripcion": "A comienzos de los años 60 Scotty Smalls, un alumno de quinto, se traslada a una nueva ciudad con sus padres. Sus compañeros le llaman memo por no saber lanzar una pelota de béisbol. Pero todo cambia cuando el líder de la pandilla del barrio le pide que juegue con ellos en el descampado. Es el comienzo de un verano mágico de béisbol, aventuras desenfrenadas, primeros besos y confrontaciones aterradoras con la espeluznante bestia y su dueño, quien vive tras una valla que colinda con el descampado. En poco tiempo, los nueve chicos acaban haciéndose inseparables, Scotty se mete en el equipo y su líder se convierte en la leyenda local.",
+  "duracion": "1h 41m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1993",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/uNWjkFAvx"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

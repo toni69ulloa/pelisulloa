@@ -1,0 +1,21 @@
+{
+  "id": 291,
+  "titulo": "Blade: Cazador de Vampiros",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dCsTsFX4PT9wewpKYaddwPHYI3A.jpg",
+  "categoria": ["Acción","Terror"],
+  "descripcion": "En un mundo en guerra, en el que cohabitan hombres y vampiros, el caso de Blade es extraordinario: es un vampiro que no se alimenta de sangre humana y que, además, pretende acabar con la raza de de vampiros que mordieron a su madre cuando estaba embarazada.",
+  "duracion": "2h",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1998",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/rtizxIuTe"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 284,
+  "titulo": "La Novia de Chucky",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sHWzPfi9aTA82aFiRi9aC5dh2Gq.jpg",
+  "categoria": ["Terror","Comedia"],
+  "descripcion": "Chucky, el muñeco poseído por un asesino en serie, descubre la pareja perfecta para matar y revivir en el cuerpo de otro muñeco.",
+  "duracion": "1h 29m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1998",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/NdEqPFbdn"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

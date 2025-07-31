@@ -1,0 +1,21 @@
+{
+  "id": 225,
+  "titulo": "La Nueva Pesadilla de Wes Craven",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sLLYfNEruiG8OTdF4MOKHfU7udi.jpg",
+  "categoria": ["Terror","Misterio","Fantasía"],
+  "descripcion": "A diferencia de las partes anteriores de la saga, esta no ocurre a los personajes, sino a los actores que los interpretaron en la primera entrega. Wes Craven vuelve a reunir al elenco original de “Pesadilla en Elm Street” para filmar la última entrega de la saga, pero durante el rodaje, la actriz Heather Lagenkamp empezará a soñar con Freddy, como ocurría en las anteriores películas, pero se da cuenta de que un demonio ha adoptado la imagen del asesino para aterrorizar a los miembros del equipo.",
+  "duracion": "1h 52m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1994",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/jrK1NiotV4"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 271,
+  "titulo": "La Boda de Mi Mejor Amigo",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/heC9gzCWr708k0q5AiLXFacSpt2.jpg",
+  "categoria": ["Comedia","Romance"],
+  "descripcion": "Julianne Potter, una crítica gastronómica, se da cuenta de que está enamorada de su mejor amigo justo el día que él la llama para anunciarle que se va a casar con una chica de la alta sociedad. Sólo dispone de tres días para urdir un plan que le permita impedir la boda.",
+  "duracion": "1h 45m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1997",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/whlWyqPIw"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 300,
+  "titulo": "El proyecto de la bruja de Blair",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4VkdY6GlFchXcHgg3Bsl1A73jsH.jpg",
+  "categoria": ["Terror","Misterio"],
+  "descripcion": "El 21 de octubre de 1994, Heather Donahue, Joshua Leonard y Michael Williams entraron en un bosque de Maryland para rodar un documental sobre una leyenda local, La bruja de Blair. No se volvió a saber de ellos. Un año después, fue encontrada la cámara con la que rodaron: mostraba los terroríficos hechos que dieron lugar a su desaparición.",
+  "duracion": "1h 21m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1999",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/JaTH2SkmyM"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

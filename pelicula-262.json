@@ -1,0 +1,21 @@
+{
+  "id": 262,
+  "titulo": "El Abogado del Diablo",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rOXciqRgEXqRvvYS6Dk2im3NF7H.jpg",
+  "categoria": ["Drama","Misterio","Suspenso","Terror"],
+  "descripcion": "Kevin Lomax es un joven y brillante abogado que nunca ha perdido un caso. Vive en Florida y parece feliz con su esposa Mary Ann. Un día, recibe la visita de un abogado de Nueva York que representa a un poderoso bufete que tiene la intención de contratarlo. Al frente de la prestigiosa empresa se encuentra John Milton, un hombre mundano, brillante y carismático, que alberga planes muy oscuros con respecto a Lomax.",
+  "duracion": "2h 24m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1997",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/ANctvpGrMi"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 236,
+  "titulo": "Muerte súbita",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m2eFjyjdYdMXKSakjP4iqh3eCRU.jpg",
+  "categoria": ["Acción","Drama","Suspenso","Crimen"],
+  "descripcion": "Un grupo de terroristas sin pasaporte liderados por el exagente de la CIA Joshua Foss (Powers Boothe) toma como rehenes a los ocupantes del palco de honor del partido decisivo por la Stanley Cup de hockey sobre hielo, entre los que se encuentra el vicepresidente de los Estados Unidos. Amenazan con volar el estadio a la conclusión del encuentro si no son transferidas unas grandes sumas de dinero a sus cuentas bancarias. Darren McCord (Jean-Claude Van Damme), un bombero retirado que se encuentra en el estadio viendo el partido con sus dos hijos, descubre por casualidad el complot y se enfrenta a los terroristas.",
+  "duracion": "1h 50m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1995",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/SC8ohQqrm"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

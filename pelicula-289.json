@@ -1,0 +1,21 @@
+{
+  "id": 289,
+  "titulo": "Dr. Dolittle",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tLrchGMIkdo1KamQJA6fwvDQEy0.jpg",
+  "categoria": ["Comedia","Familiar","Fantasía"],
+  "descripcion": "John Dolittle es un peculiar veterinario que tiene el don de comprender lo que dicen los animales. Mientras su consulta se desborda de mascotas de toda especie, sus colegas piensan que se ha vuelto loco de remate. Una taquillera comedia realizada a mayor gloria de Mr. Murphy. Remake de El extravagante Dr. Dolittle con Rex Harrison como protagonista.",
+  "duracion": "1h 25m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1998",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/-Z4DQ26Sh"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

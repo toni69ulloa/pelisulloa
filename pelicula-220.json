@@ -1,0 +1,21 @@
+{
+  "id": 220,
+  "titulo": "Santa Cláusula",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9MeuzcdtXtZtrggxq53ew5p1Ekb.jpg",
+  "categoria": ["Comedia","Drama","Familiar","Fantasía"],
+  "descripcion": "Scott Calvin es el padre divorciado de Charlie. La relación entre ellos se ha vuelto insoportable, pero en Nochebuena Santa Claus muere al caer del techo de su casa. Con la ayuda de Charlie, Scott será capaz de reemplazarle temporalmente.",
+  "duracion": "1h 37m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1994",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/j9gcXQRQK"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

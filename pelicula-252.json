@@ -1,0 +1,21 @@
+{
+  "id": 252,
+  "titulo": "Space Jam: El juego del siglo",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2yyw20gloVgbzR9a5B15GqPdqux.jpg",
+  "categoria": ["Familiar","Comedia","Aventura","Animación","Ciencia ficción"],
+  "descripcion": "Bugs Bunny y su equipo desafían a los Nerdlucks (un grupo de pequeños extraterrestres) a un partido de baloncesto para decidir si los Looney Tunes permanecen en la Tierra o se trasladan a una lejana galaxia para trabajar en un parque de atracciones de Montaña Tontolandia. Los Nerdlucks cuentan con una poderosa arma secreta que los hace superiores: se han apoderado de las mejores cualidades de las estrellas de la NBA. Pero también los Looney poseen un arma secreta: ¡Michael Jordan!",
+  "duracion": "1h 27m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1996",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/N0souFvHlv"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

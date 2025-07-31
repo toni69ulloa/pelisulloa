@@ -1,0 +1,21 @@
+{
+  "id": 299,
+  "titulo": "La Momia",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aGRMxB5ve2nSKsq8ww6PyUwhWpP.jpg",
+  "categoria": ["Acción","Aventura","Fantasía"],
+  "descripcion": "Un aventurero imprudente y un grupo de exploradores desentierran accidentalmente una antigua maldición egipcia. Ahora, deben luchar contra la resucitada momia del sacerdote Imhotep, que busca recuperar su poder y venganza sobre el mundo moderno.",
+  "duracion": "2h 5m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1999",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/WO4cObD3H"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

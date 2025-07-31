@@ -1,0 +1,21 @@
+{
+  "id": 229,
+  "titulo": "Forrest Gump",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oiqKEhEfxl9knzWXvWecJKN3aj6.jpg",
+  "categoria": ["Comedia","Drama","Romance"],
+  "descripcion": "Basada en la novela homónima del escritor Winston Groom, la película fue dirigida por Robert Zemeckis y protagonizada por Tom Hanks. La historia describe varias décadas de la vida de Forrest Gump, un nativo de Alabama que sufre de una leve discapacidad intelectual.",
+  "duracion": "2h 22m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1994",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/R7fawFjNy"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

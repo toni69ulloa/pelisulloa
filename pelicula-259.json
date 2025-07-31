@@ -1,0 +1,21 @@
+{
+  "id": 259,
+  "titulo": "El regalo prometido",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ajuYAcn5LDxXE7yoDISTsL0BCuy.jpg",
+  "categoria": ["Familiar","Comedia","Aventura"],
+  "descripcion": "Howard Langston es un atareado hombre de negocios que llega tarde a la clase de karate de su hijo Jamie. Para que le perdone le promete que le regalará lo que le pida por navidad: Jamie le pide un muñeco Turboman. El problema es que el juguete es el más popular y está agotado en todas las jugueterías. Con sólo unas pocas horas para Navidad, Howie inicia una cómica odisea por toda la ciudad a la caza y captura del preciado objeto.",
+  "duracion": "1h 34m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1996",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/7_32c3lt_"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 277,
+  "titulo": "Contracara",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/alizmPaRHq7sGHW5eoshoYzWjf9.jpg",
+  "categoria": ["Acción","Crimen","Ciencia ficción"],
+  "descripcion": "Para frustrar un complot terrorista, un agente del FBI se somete a una cirugía de transplante facial y asume la identidad de un cerebro criminal, que asesinó a su único hijo. El plan se torna agrio cuando el criminal se despierta prematuramente y busca venganza.",
+  "duracion": "2h 18m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1997",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/lbo5chYS5"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

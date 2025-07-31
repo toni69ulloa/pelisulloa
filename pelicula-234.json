@@ -1,0 +1,21 @@
+{
+  "id": 234,
+  "titulo": "Ace Ventura: Detective de Mascotas",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zByKfhPuFUEymc0uzHGdIfO7dx5.jpg",
+  "categoria": ["Comedia","Misterio","Crimen"],
+  "descripcion": "El detective Ace Ventura, especializado en rescatar animales secuestrados, recibe el encargo de localizar y rescatar el delfin Copo de Nieve, mascota del equipo de fútbol de Miami, que ha sido secuestrado el día anterior a la gran final que debe disputar el equipo.",
+  "duracion": "1h 25m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1994",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/QuJdOLWdk"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

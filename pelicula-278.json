@@ -1,0 +1,21 @@
+{
+  "id": 278,
+  "titulo": "Batman y Robin",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aW7SsLyTGAWvFN8nafWpcVaKjA4.jpg",
+  "categoria": ["Acción","Aventura","Ciencia ficción"],
+  "descripcion": "Los experimentos del doctor Victor Fries, mediante los cuales busca conservar criogénicamente la vida de su esposa, originan un error fatal que lo convierte en el señor Frío, un villano que necesita mantener su cuerpo a temperaturas glaciales y que intentará congelar a todos los habitantes de Ciudad Gótica. Además, en el transcurso de un experimento, la tímida botánica Pamela Isley se transforma en la terrible Hiedra Venenosa, que tratará de asesinar a todos los seres humanos para que las plantas recuperen su hegemonía sobre la Tierra. Batman y su compañero Robin deberán enfrentarse a ellos para hacer fracasar sus siniestros planes.",
+  "duracion": "2h 5m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1997",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/LMgE_T82K"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

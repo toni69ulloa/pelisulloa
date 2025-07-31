@@ -1,0 +1,21 @@
+{
+  "id": 273,
+  "titulo": "George de la Selva",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9oBSAKp65I9Xjmk7jZqJ2HmllTj.jpg",
+  "categoria": ["Aventura","Comedia","Familiar","Romance"],
+  "descripcion": "En lo más profundo de la jungla africana los gorilas han criado a un bebé, George. Crecerá para ser el más valiente rey de la jungla. George va de un árbol a otro llevándose por delante todo lo que está en su camino. Pero cuando una bella mujer llamada Úrsula, procedente de la civilización, irrumpe en el mundo de George, éste perderá definitivamente el control. Dejando atrás la jungla y todos sus salvajes amigos, incluidos Mono, un gorila que habla, y Shep, un elefante que aspira a ser un perro, George aterrizará en la ciudad de San Francisco.",
+  "duracion": "1h 32m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1997",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/EgU5WLqV-"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

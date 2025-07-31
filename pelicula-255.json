@@ -1,0 +1,21 @@
+{
+  "id": 255,
+  "titulo": "Misión: Imposible",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xCpmxw3UUjv4PGzbIPOHeoKAV0l.jpg",
+  "categoria": ["Aventura","Acción","Suspenso"],
+  "descripcion": "Un agente estadounidense, bajo la falsa sospecha de deslealtad, debe descubrir y exponer al verdadero espía sin la ayuda de su organización.",
+  "duracion": "1h 45m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1996",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/NEuRCC7M7"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

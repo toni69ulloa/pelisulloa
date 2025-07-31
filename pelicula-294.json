@@ -1,0 +1,21 @@
+{
+  "id": 294,
+  "titulo": "Arma Mortal 4",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fXlPJpyxlbFRz0WXhQDoFdYBfXq.jpg",
+  "categoria": ["Acción","Aventura","Comedia","Crimen","Suspenso"],
+  "descripcion": "La pareja de policías formada por Martin Riggs y Roger Murtaugh vuelve a la carga para enfrentarse a un capo de la mafia asiática que ha extendido sus actividades a Los Ángeles. En la investigación les ayudará un joven policía responsable de los quebraderos de cabeza familiares de Murtaugh, ya que ha dejado embarazada a su hija. En casa de Riggs, las cosas también se complican cuando su compañera se queda embarazada y amenaza con hacerlo pasar por el altar.",
+  "duracion": "2h 8m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1998",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/tIx2e9__4"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

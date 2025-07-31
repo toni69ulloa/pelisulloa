@@ -1,0 +1,21 @@
+{
+  "id": 210,
+  "titulo": "El último gran héroe",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wsqkU03Ujr4L6f0KoW1c5YTcjQP.jpg",
+  "categoria": ["Acción","Aventura","Comedia","Familiar","Fantasía"],
+  "descripcion": "Danny Madigan es un chico fantasioso, ferviente admirador de Jack Slater, el mayor héroe del cine de acción. Cuando se estrena su última película, el viejo acomodador del cine le regala una entrada para que la vea en primicia. Gracias a esa entrada, que resulta tener poderes mágicos, Danny consigue introducirse en la pantalla y vivir trepidantes aventuras con Jack.",
+  "duracion": "2h 10m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1993",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/8kG6YvyWi"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

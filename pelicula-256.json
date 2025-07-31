@@ -1,0 +1,21 @@
+{
+  "id": 256,
+  "titulo": "Matilda",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/icsytUzUc9f97a9SdafFG0eqijR.jpg",
+  "categoria": ["Comedia","Familiar","Fantasía"],
+  "descripcion": "La historia de una maravillosa niña, que resulta ser una genio, y su maravillosa profesora contra los peores padres de la historia y la peor directora de escuela que nadie se pueda imaginar.",
+  "duracion": "1h 39m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1996",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/Qg1ZOfAUv"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

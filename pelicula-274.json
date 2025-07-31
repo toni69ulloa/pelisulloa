@@ -1,0 +1,21 @@
+{
+  "id": 274,
+  "titulo": "El Quinto Elemento",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4IgMSK6ehZcfniZoWFRLSxEPcHS.jpg",
+  "categoria": ["Ciencia ficción","Acción","Aventura"],
+  "descripcion": "Cada 5.000 años se abre una puerta entre las dimensiones. En una dimensión existe el Universo y la vida. En la otra dimensión existe un elemento que no está hecho ni de tierra, ni de fuego, ni de aire, ni de agua, sino que es una anti-energía, la anti-vida: es el quinto elemento.",
+  "duracion": "2h 7m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1997",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/x7cnlqftRx"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

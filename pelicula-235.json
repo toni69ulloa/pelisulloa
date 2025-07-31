@@ -1,0 +1,21 @@
+{
+  "id": 235,
+  "titulo": " Toy Story",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jvn7wy3RSNEXnFSXLpH2of2LcV6.jpg",
+  "categoria": ["Animación","Aventura","Familiar","Comedia"],
+  "descripcion": "Un muñeco vaquero se siente profundamente amenazado y celoso cuando una nueva figura del hombre del espacio lo suplanta como juguete principal en el cuarto de un niño.",
+  "duracion": "1h 21m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1995",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/GBBljwVci"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}
