@@ -1,0 +1,21 @@
+{
+  "id": 178,
+  "titulo": "Depredador 2",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/92Lqy293CqAExYXlqDc456eYCWp.jpg",
+  "categoria": ["Acción","Ciencia ficción","Suspenso"],
+  "descripcion": "Un grupo de policías de Los Angeles se enfrenta a un misterioso asesino que descuartiza a sus víctimas con un salvajismo inusitado. Pronto, el jefe del grupo, el capitán Harrigan, descubrirá que su enemigo es un alienígena llegado a la Tierra con el único propósito de practicar la caza.",
+  "duracion": "1h 48m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1990",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/CRH6l1NFM"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

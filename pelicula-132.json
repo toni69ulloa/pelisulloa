@@ -1,0 +1,15 @@
+{
+  "id": 132,
+  "titulo": "Chucky, el muñeco diabólico",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7GfrMFZuxqq1FdSZRtKflPOwoAv.jpg",
+  "categoria": ["Terror"],
+  "descripcion": "Una madre soltera regala a su hijo un codiciado muñeco para su cumpleaños, solo para descubrir que está poseído por el alma de un asesino en serie.",
+  "duracion": "1h 27m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1988",
+  "iframes": [
+    { "nombre": "Upload", "url": "https://short.icu/bT6KSDCj1" },
+    { "nombre": "Streawish", "url": "" }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 163,
+  "titulo": "Un detective en el kinder",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zYwEZ7TWFAAuZucUJmWLktfLCEN.jpg",
+  "categoria": ["Comedia"],
+  "descripcion": "John Kimble es un rudo y veterano detective que lleva muchos años tras la pista de un narcotraficante. La única persona que puede testificar contra él es su ex-esposa. El problema es que ha desaparecido y la única pista que tiene es el nombre del colegio de Oregón en el que estudia su hijo. Para poder localizarla a ella, tendrá que hacerse pasar por maestro de guardería.",
+  "duracion": "1h 51m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1990",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/T-DUH8yRYo"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

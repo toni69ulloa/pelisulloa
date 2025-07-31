@@ -1,0 +1,15 @@
+{
+  "id": 135,
+  "titulo": "Tiempos De Gloria",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f2sKUHfBLTCUuGogGKUR7zqlk7D.jpg",
+  "categoria": ["Drama","Historia","Bélica"],
+  "descripcion": "Entre 1861 y 1865 tuvo lugar la Guerra de Secesión que enfrentó al ejército confederado (Sur) con las tropas de la Unión (Norte). Los militares del Norte eran reacios a reclutar negros y armarlos para luchar contra el Sur; pero, finalmente, se aprobó una ley que lo permitía. El regimiento 54 de Massachusetts fue el primero y el más valeroso de los batallones formados por negros, y el Coronel Robert Gould Shaw fue el encargado de organizarlo.",
+  "duracion": "2h 2m",
+  "calidad": "720",
+  "idioma": "Latino",
+  "estreno": "1989",
+  "iframes": [
+    { "nombre": "Upload", "url": "https://short.icu/CJ0o0d_lS" },
+    { "nombre": "Streawish", "url": "" }
+  ]
+}

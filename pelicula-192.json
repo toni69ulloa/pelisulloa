@@ -1,0 +1,21 @@
+{
+  "id": 192,
+  "titulo": "Querida, Agrandé al Bebé",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1mbjSOQz7tUTBKTE9jpgaISv2C9.jpg",
+  "categoria": ["Aventura","Comedia","Familiar","Ciencia ficción"],
+  "descripcion": "Una vez devuelto el tamaño normal a sus hijos, el despistado científico Wayne Szalinski reanuda sus investigaciones, pero en el sentido inverso: experimenta con un rayo capaz de aumentar el tamaño de las moléculas. Pero, de nuevo el pequeño Adam, un niño que tan sólo pretende jugar, interfiere catastróficamente en su trabajo.",
+  "duracion": "1h 29m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1992",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/u2ybkaUJC"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

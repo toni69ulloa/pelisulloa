@@ -1,0 +1,21 @@
+{
+  "id": 194,
+  "titulo": "Mi pobre angelito 2: Perdido en Nueva York",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7sdiRUyc0ANHJptPhsgb1KL6hoq.jpg",
+  "categoria": ["Comedia","Familiar","Aventura"],
+  "descripcion": "En plenas fiestas navideñas, el pequeño Kevin y su familia están a punto de coger un avión para disfrutar de unas pequeñas vacaciones, pero Kevin se equivoca y embarca en un avión que lo lleva a Nueva York, donde vuelve a encontrarse solo y desprotegido.",
+  "duracion": "2h 1m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1992",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/vuV53D0eK"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

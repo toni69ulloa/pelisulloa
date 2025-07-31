@@ -1,0 +1,15 @@
+{
+  "id": 102,
+  "titulo": "Juegos Diabólicos 2",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qnBacCgcGyyX7jmwDf4gemu9OuX.jpg",
+  "categoria": ["Suspenso","Terror"],
+  "descripcion": "",
+  "duracion": "1h 30m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1986",
+  "iframes": [
+    { "nombre": "Upload", "url": "https://short.icu/CDcG4rykV" },
+    { "nombre": "Streawish", "url": "" }
+  ]
+}

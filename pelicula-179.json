@@ -1,0 +1,21 @@
+{
+  "id": 179,
+  "titulo": "Chucky: el muñeco diabólico 2",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rdcVEs3Y6vkcXL2JfaUQLSFLvRX.jpg",
+  "categoria": ["Suspenso","Terror"],
+  "descripcion": "Mientras la madre de Andy es ingresada en un hospital psiquiátrico, el joven es colocado en una casa de acogida, y Chucky, decidido a reclamar el alma de Andy, no se queda atrás.",
+  "duracion": "1h 24m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1990",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/pVev3uVZM"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

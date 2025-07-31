@@ -1,0 +1,21 @@
+{
+  "id": 157,
+  "titulo": "El vengador del futuro",
+  "imagen": "",
+  "categoria": ["Acción","Aventura","Ciencia ficción"],
+  "descripcion": "La Tierra, año 2084. Doug Quaid, un hombre que lleva una vida aparentemente tranquila, vive atormentado por una pesadilla que todas las noches lo transporta a Marte. Decide entonces recurrir al laboratorio de Recall, una empresa de vacaciones virtuales que le ofrece la oportunidad de materializar su sueño gracias a un fuerte alucinógeno, pero la droga hace aflorar a su memoria una estancia verdadera en Marte cuando era el más temido agente del cruel Coohagen.",
+  "duracion": "1h 53m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1990",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/_Q67XBPBZ"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

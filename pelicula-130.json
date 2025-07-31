@@ -1,0 +1,15 @@
+{
+  "id": 130,
+  "titulo": "Duro de Matar",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m54tK4wKjc1w2dp7QInG0munGao.jpg",
+  "categoria": ["Acción","Suspenso"],
+  "descripcion": "En lo alto de la ciudad de Los Ángeles, un grupo terrorista se ha apoderado de un edificio, tomando a un grupo de personas como rehenes. Sólo un hombre, el policía de Nueva York John McClane, ha conseguido escapar del acoso terrorista. Aunque está solo y fuera de servicio, McClane se enfrentará a los secuestradores. Él es la única esperanza para los rehenes.",
+  "duracion": "2h 11m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1988",
+  "iframes": [
+    { "nombre": "Upload", "url": "https://short.icu/GoEQiHMpi" },
+    { "nombre": "Streawish", "url": "" }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 153,
+  "titulo": "Batman",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fpY5cNPIbKYpdBtukCMtBMMt1s3.jpg",
+  "categoria": ["Acción","Fantasía","Crimen"],
+  "descripcion": "La oscura y peligrosa Ciudad Gótica se halla protegida por su corrupto cuerpo de policía. A pesar de los esfuerzos del fiscal del distrito Harvey Dent y el comisionado de policía Jim Gordon, la ciudad es cada vez más insegura hasta que aparece Batman, el Señor de la Noche. La reconocida periodista Vicky Vale intentará descubrir el secreto que se oculta tras el hombre murciélago.",
+  "duracion": "2h 6m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1989",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/q4NE8SspL"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

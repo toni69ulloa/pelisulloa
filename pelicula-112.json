@@ -1,0 +1,15 @@
+{
+  "id": 112,
+  "titulo": "Depredador",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bzLLeqhNBNmO6WImHrrmLNyhMxi.jpg",
+  "categoria": ["Acción","Aventura","Suspenso","Ciencia ficción"],
+  "descripcion": "Un grupo de mercenarios es contratado por la CIA para rescatar a unos pilotos que han sido apresados por la guerrilla en la selva centroamericana. La misión es un éxito, pero durante el viaje de regreso se dan cuenta de que algo misterioso e invisible está dándoles caza uno a uno. Ese algo resulta ser un cazador alienígena que se queda con las calaveras de sus víctimas como trofeos.",
+  "duracion": "1h 47m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1987",
+  "iframes": [
+    { "nombre": "Upload", "url": "https://short.icu/kvfbwOlJa" },
+    { "nombre": "Streawish", "url": "" }
+  ]
+}

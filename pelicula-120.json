@@ -1,0 +1,15 @@
+{
+  "id": 120,
+  "titulo": "Dragon Ball: Una Aventura Mística",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7f2vIwxEXryqavvgVAcqUe2CG0Q.jpg",
+  "categoria": ["Acción","Animación"],
+  "descripcion": "Después que terminaran su entrenamiento con el Maestro Roshi, Goku y Krilin se dirigen a la ciudad Mifan para participar en el Torneo de las Artes Marciales, ala vez Ran Ran esposa del Emperador Chaoz se encuentra perdida, el Ministro Tsuru le aconseja recolectar las esferas del dragón para luego pedir como deseo encontrar a su esposa.",
+  "duracion": "45m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1988",
+  "iframes": [
+    { "nombre": "Upload", "url": "https://short.icu/fwmQFPyREz" },
+    { "nombre": "Streawish", "url": "" }
+  ]
+}

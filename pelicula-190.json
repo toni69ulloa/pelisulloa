@@ -1,0 +1,21 @@
+{
+  "id": 190,
+  "titulo": "Chucky: el muñeco diabólico 3",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/l1Jm1dlKI012OEKUgn8fubassSg.jpg",
+  "categoria": ["Terror","Suspenso"],
+  "descripcion": "Chucky regresa para vengarse de Andy, el joven que lo derrotó, y que ahora es un adolescente que vive en una academia militar.",
+  "duracion": "1h 30m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1991",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/O2KQgmKt1"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

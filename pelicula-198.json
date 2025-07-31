@@ -1,0 +1,21 @@
+{
+  "id": 198,
+  "titulo": "Batman Regresa",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i5xLIx2vkisiLPQqaeI3uiSaG1b.jpg",
+  "categoria": ["Acción","Fantasía"],
+  "descripcion": "Cuando un empresario corrupto y el grotesco Pingüino tratan de tomar el control de Ciudad Gótica, sólo Batman puede detenerlos, mientras que Gatúbela tiene sus propios planes.",
+  "duracion": "2h 6m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1992",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/SMz2RwxTQ"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

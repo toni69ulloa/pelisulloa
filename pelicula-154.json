@@ -1,0 +1,21 @@
+{
+  "id": 154,
+  "titulo": "Arma Mortal 2",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/60lsR1XuNjmA676sXUJtmEgiY4X.jpg",
+  "categoria": ["Acción","Aventura","Comedia","Crimen","Suspenso"],
+  "descripcion": "La pareja de policías formada por Martin Riggs y su compañero Roger Murtaugh se enfrenta ahora a una poderosa organización sudafricana de traficantes de droga que opera en Estados Unidos. Su misión principal es la de proteger al testigo Leo Getz, un alocado contable que ha blanqueado dinero para la banda y que en unos días va a testificar contra ellos.",
+  "duracion": "1h 53m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1989",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/ECLOP4TBa"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

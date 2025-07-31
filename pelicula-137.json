@@ -1,0 +1,15 @@
+{
+  "id": 137,
+  "titulo": "Kickboxer",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tzEOkUn5708fQvF0bOPB5bLLRNk.jpg",
+  "categoria": ["Acción","Suspenso","Drama"],
+  "descripcion": "Cuando Tong Po, el sanguinario campeón de Kickboxing, deja paralítico a su hermano, Eric jura vengarse del hombre a quienes todos consideran invencible, aunque le cueste la vida.",
+  "duracion": "1h 43m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "",
+  "iframes": [
+    { "nombre": "Upload", "url": "https://short.icu/Zgkl90CzN" },
+    { "nombre": "Streawish", "url": "" }
+  ]
+}

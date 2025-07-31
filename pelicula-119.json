@@ -1,0 +1,15 @@
+{
+  "id": 119,
+  "titulo": "El Regreso de los Muertos Vivientes 2",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pTHy3CdDAcpmg5AwOSXObm2AsfK.jpg",
+  "categoria": ["Terror","Comedia"],
+  "descripcion": "Unos misteriosos barriles caen de un camion del ejército cerca de un cementerio abandonado de un pequeño pueblo, donde unos chicos lo abren sin saber las consecuencias que ello concierne. Pues su contenido despertará a los muertos.",
+  "duracion": "1h 29m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1988",
+  "iframes": [
+    { "nombre": "Upload", "url": "https://short.icu/HpGFuFbMXh" },
+    { "nombre": "Streawish", "url": "" }
+  ]
+}

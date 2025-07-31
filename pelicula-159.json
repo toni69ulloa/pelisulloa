@@ -1,0 +1,21 @@
+{
+  "id": 159,
+  "titulo": "Dragon Ball Z: La Batalla más Grande de este Mundo está por Comenzar",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uGadvCa5w8X6zAWzdZlVQYNd6QR.jpg",
+  "categoria": ["Acción","Animación","Ciencia ficción"],
+  "descripcion": "Turles, otro Saiyajin que se salvó de la destrucción del planeta Vegeta, llega a la Tierra. Él siembra la semilla de un árbol sagrado que consume toda la vida del planeta para luego comerse sus frutos y obtener más poder. Goku y los Guerreros Z pelean ante Turles y sus hombres para poder impedir lo que planean.",
+  "duracion": "1h",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1990",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/pONLAe7U8"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

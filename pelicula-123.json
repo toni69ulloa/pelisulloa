@@ -1,0 +1,15 @@
+{
+  "id": 123,
+  "titulo": "Historia Policiaca 2",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zrOStRuxjRHSql743lk3eEBvn39.jpg",
+  "categoria": ["Acción","Crimen","Suspenso"],
+  "descripcion": "Kevin Chan es un brillante policía encargado de atrapar criminales, pero sus métodos poco ortodoxos provocan que acabe relegado al departamento de tráfico. Sin embargo, un criminal que había jurado vengarse de él sale de la cárcel y los persigue a él y a su chica. Al mismo tiempo, el jefe de la policía estudia la posibilidad de devolver a Kevin su destino anterior para que les ayude a atrapar a unos criminales que extorsionan diversos constructores, a quienes amenazan con hacer explotar bombas en sus edificios.",
+  "duracion": "1h 41m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1988",
+  "iframes": [
+    { "nombre": "Upload", "url": "https://short.icu/vX4XSaKSF" },
+    { "nombre": "Streawish", "url": "" }
+  ]
+}

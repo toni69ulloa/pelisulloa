@@ -1,0 +1,15 @@
+{
+  "id": 111,
+  "titulo": "Pesadilla en la calle del infierno 3",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ekWAcoQLZuXKh96tDJTQe5SFBsd.jpg",
+  "categoria": ["Terror","Suspenso","Fantasía"],
+  "descripcion": "Años después de los incidentes, Nancy se ha convertido en una psiquiatra especializado en terapia del sueño, pero Freddy también sigue en activo, y comienza a parecerse en los sueños de varios de los pacientes. Nancy los reúne a todos en busca de una forma de parar al monstruo.",
+  "duracion": "1h 36m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1987",
+  "iframes": [
+    { "nombre": "Upload", "url": "https://short.icu/lpItHQMoG" },
+    { "nombre": "Streawish", "url": "" }
+  ]
+}

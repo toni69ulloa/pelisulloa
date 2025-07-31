@@ -1,0 +1,15 @@
+{
+  "id": 116,
+  "titulo": "Hellraiser II",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xS7qm6Tosxs0Q5o1b62C9nVbOqQ.jpg",
+  "categoria": ["Terror","Suspenso","Fantasía"],
+  "descripcion": "Kirsty Cotton acaba recluida en un sanatorio donde intenta olvidar la pesadilla vivida con la muerte de sus padres. Sin embargo, allí coincide con el siniestro Doctor Channard, quien encuentra en la joven la pieza que necesita para llegar al éxito en sus intentos de encontrar la puerta a una dimensión oculta.",
+  "duracion": "1h 45m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1988",
+  "iframes": [
+    { "nombre": "Upload", "url": "https://short.icu/a6FMfidVW" },
+    { "nombre": "Streawish", "url": "" }
+  ]
+}

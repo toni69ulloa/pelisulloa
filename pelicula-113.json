@@ -1,0 +1,15 @@
+{
+  "id": 113,
+  "titulo": "Arma Mortal",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bOmKVohi6yjxBnoP7XvX6tpXR56.jpg",
+  "categoria": ["Acción","Aventura","Comedia","Suspenso","Crimen"],
+  "descripcion": "Martin Riggs es un policía de Los Ángeles con tendencias suicidas. Su compañero Roger Murtaugh es un veterano y responsable policía y padre de familia. Juntos intentan frustrar una operación de contrabando de droga. Al mismo tiempo, a pesar de sus diferentes caracteres, se harán buenos amigos.",
+  "duracion": "1h 50m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1987",
+  "iframes": [
+    { "nombre": "Upload", "url": "https://short.icu/oBGcx_c5U" },
+    { "nombre": "Streawish", "url": "" }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 103,
+  "titulo": "Karate Kid II: La Historia Continúa",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fOfjKdFdzDbbArgxk1sOLpQ211g.jpg",
+  "categoria": ["Aventura","Drama","Acción","Romance","Familiar"],
+  "descripcion": "Daniel y el señor Miyagi viajan a Okinawa, a la pequeña aldea en la que el anciano nació y de la que tuvo que marcharse por un asunto de honor. Su padre está gravemente enfermo y quiere verlo, pero también le espera su antiguo amor de juventud. La llegada del señor MIyagi reabre unas heridas que el tiempo y la distancia parecían haber borrado.",
+  "duracion": "1h 53m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1986",
+  "iframes": [
+    { "nombre": "Upload", "url": "https://short.icu/Fre4FTLLi" },
+    { "nombre": "Streawish", "url": "" }
+  ]
+}

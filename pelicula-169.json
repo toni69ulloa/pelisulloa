@@ -1,0 +1,21 @@
+{
+  "id": 169,
+  "titulo": "Mira Quién Habla 2",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tY9cqNnlMnc3vR11LdSxvBl3ERe.jpg",
+  "categoria": ["Romance","Comedia"],
+  "descripcion": "John, el taxista que quiere ser piloto de aviones, se ha casado con Molly, la madre de Mickey. Éste ha aprendido a dar sus primeros pasos y a pronunciar sus primeras palabras. También posee la clásica habilidad infantil para tirar cualquier objeto que encuentre a su paso. Por si fuera poco, nace Julie, su hermanita, dotada con idéntico sarcasmo.",
+  "duracion": "1h 17m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1990",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/5x76j4r5g"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

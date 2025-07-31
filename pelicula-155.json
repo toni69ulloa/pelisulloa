@@ -1,0 +1,21 @@
+{
+  "id": 155,
+  "titulo": "007: Licencia para matar",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pwPSNqyZqrxV4tWpgQFnRjAeRD1.jpg",
+  "categoria": ["Acción","Aventura","Suspenso"],
+  "descripcion": "El agente 007 a la caza y captura de un peligroso narcotraficante latinoamericano, con implicaciones personales de por medio: el capo de la droga mató a un amigo suyo, y Bond desea vengarse.",
+  "duracion": "2h 12m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1989",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/rmEAN0lF3"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 149,
+  "titulo": "Halloween 5: La venganza de Michael Myers",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aYW5YLdTQQ8taHCo8ezblLATCOB.jpg",
+  "categoria": ["Suspenso","Terror"],
+  "descripcion": "",
+  "duracion": "1h 37m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1989",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/tmLmP4Ja7"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

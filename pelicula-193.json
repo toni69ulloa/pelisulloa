@@ -1,0 +1,21 @@
+{
+  "id": 193,
+  "titulo": "Pasajero 57",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ujcmYXf2D29kCYbmFeDdYeHcUi5.jpg",
+  "categoria": ["Acción","Aventura","Suspenso"],
+  "descripcion": "Charles Rane está considerado uno de los más peligrosos terroristas del mundo. Custodiado por agentes federales, Rane es trasladado a Los Angeles en avión para ser juzgado por los crímenes cometidos. A pesar de las medidas de seguridad, Rane consigue liberarse y se hace con el mando del avión, pero no cuenta con que en el mismo vuelo, sentado en el asiento número 57, viaja John Cutter, un especialista en lucha antiterrorista.",
+  "duracion": "1h 24m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1992",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/0-c0NfMw5"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

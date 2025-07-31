@@ -1,0 +1,21 @@
+{
+  "id": 175,
+  "titulo": "El Joven Manos de Tijera",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vd8tCekihFx82bzmENaASvbhNmx.jpg",
+  "categoria": ["Fantasía","Drama","Romance"],
+  "descripcion": "Un hombre artificial, que fue construido incompletamente y tiene tijeras por manos, lleva una vida solitaria. Un día, una dama de los suburbios lo conoce y lo introduce a su mundo.",
+  "duracion": "1h 45m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1990",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/LQRnFNahR"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

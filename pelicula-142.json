@@ -1,0 +1,21 @@
+{
+  "id": 142,
+  "titulo": "Viaje a las estrellas V: La última frontera",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6AFpvYk8uxXoRkg6r47AWuLqJxo.jpg",
+  "categoria": ["Acción","Aventura","Suspenso","Ciencia ficción"],
+  "descripcion": "La nave Enterprise se dirige al planeta Nimbus III para negociar la liberación de unos embajadores secuestrados. Allí descubrirán que el jefe de la banda es un pariente de Spock obsesionado por encontrar el planeta que es considerado la fuente de la vida.",
+  "duracion": "1h 42m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1989",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/rdmBDnqAN"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

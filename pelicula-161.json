@@ -1,0 +1,21 @@
+{
+  "id": 161,
+  "titulo": "48 horas más",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lUGPsNtNRbghp9KVmbsZu7jAaOb.jpg",
+  "categoria": ["Acción","Comedia","Crimen","Suspenso"],
+  "descripcion": "El agente Jack de la policía de San Francisco lleva cinco años investigando a un presunto jefe del crimen organizado llamado El Témpano, pero, después de un tiroteo en el que resulta muerto un inocente, es suspendido del servicio por Asuntos Internos. Entonces sólo tendrá 48 horas para encontrar a El Témpano.",
+  "duracion": "1h 35m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1990",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/Bo_ytNObX"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

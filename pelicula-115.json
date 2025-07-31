@@ -1,0 +1,15 @@
+{
+  "id": 115,
+  "titulo": "¡Sobreviven!",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/KI0X2vFzWOaMF32TnW6zIpronv.jpg",
+  "categoria": ["Acción","Ciencia ficción"],
+  "descripcion": "",
+  "duracion": "1h 31Q1tTbmXzEu5i1Xqet75kZJRnG",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1988",
+  "iframes": [
+    { "nombre": "Upload", "url": "https://short.icu/BdVYq-zgZ" },
+    { "nombre": "Streawish", "url": "" }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 185,
+  "titulo": "Terminator 2: El Juicio Final",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/10xtoK2SFv6ADIeWxr3mcrjko72.jpg",
+  "categoria": ["Acción","Ciencia ficción","Suspenso"],
+  "descripcion": "Sarah Connor, la madre soltera del rebelde John Connor, está ingresada en un psiquiátrico. Algunos años antes, un viajero del tiempo le había revelado que su hijo sería el salvador de la humanidad en un futuro dominado por las máquinas. Se convirtió entonces en una especie de guerrera y educó a su hijo John en tácticas de supervivencia. Esta es la razón por la que está recluida en un manicomio. Cuando un nuevo androide mejorado, un T-1000, llega del futuro para asesinar a John, un viejo modelo T-800 será enviado para protegerle.",
+  "duracion": "2h 34m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1991",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/6CZskiQzB"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

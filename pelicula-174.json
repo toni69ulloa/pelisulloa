@@ -1,0 +1,21 @@
+{
+  "id": 174,
+  "titulo": "El Padrino III",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/l2D8Gzuzw8hN41UthdqM9Osu9I3.jpg",
+  "categoria": ["Crimen","Drama","Suspenso"],
+  "descripcion": "Michael Corleone, heredero del imperio de don Vito Corleone, intenta rehabilitarse socialmente y legitimizar todas las posesiones de la familia negociando con el Vaticano. Después de luchar toda su vida se encuentra cansado y centra todas sus esperanzas en encontrar a un sucesor que se haga cargo de los negocios.",
+  "duracion": "2h 42m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1990",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/C6vQ0uFQz2"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

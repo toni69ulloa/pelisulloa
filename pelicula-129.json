@@ -1,0 +1,15 @@
+{
+  "id": 129,
+  "titulo": "Gemelos",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z17mNScwFyZ9sOplnd2R9aQOmlr.jpg",
+  "categoria": ["Comedia"],
+  "descripcion": "Dos gemelos que vinieron al mundo por un experimento de carácter científico se encuentran al cabo de los años, tras haber pasado la mayor parte de sus vidas separados. Una vez juntos tratan de encontrar a su madre que según parece reside cerca de la frontera de México. El viaje hasta allí será aprovechado por uno de ellos para entregar una valiosa mercancía.",
+  "duracion": "1h 46m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1988",
+  "iframes": [
+    { "nombre": "Upload", "url": "https://short.icu/0y_TntXfs" },
+    { "nombre": "Streawish", "url": "" }
+  ]
+}

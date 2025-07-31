@@ -1,0 +1,15 @@
+{
+  "id": 136,
+  "titulo": "Tango y Cash",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hcrhz0UP90Qz7b2TzRE01X6pJnS.jpg",
+  "categoria": ["Acción","Suspenso","Comedia","Drama","Crimen"],
+  "descripcion": "Ray Tango y Gabriel Cash son dos exitosos detectives de narcóticos que no se soportan. El señor del crimen Yves Perret, furioso por la pérdida de ingresos que ambos le han causado, trama contra ellos una elaborada venganza.",
+  "duracion": "1h 44m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1989",
+  "iframes": [
+    { "nombre": "Upload", "url": "https://short.icu/nbKa6wUIr" },
+    { "nombre": "Streawish", "url": "" }
+  ]
+}

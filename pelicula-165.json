@@ -1,0 +1,21 @@
+{
+  "id": 165,
+  "titulo": "Marcado para la muerte",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nO0PZLiOlyaLuO6t29pxMNFS5sq.jpg",
+  "categoria": ["Acción","Crimen","Drama","Suspenso"],
+  "descripcion": "El agente John Hatcher (Steven Seagal), de la división antidroga de Chicago, acaba de volver de Colombia, en donde su compañero ha sido asesinado en acto de servicio por un narcotraficante. A causa de ello ha decidido retirarse, pero después de un tiroteo con un traficante de drogas jamaicano llamado Screwface (Basil Wallace), éste intenta matar a su hermana y a la hija de ésta. John y su amigo Max intentarán atrapar al villano en su país natal.",
+  "duracion": "1h 34m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1990",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/_hJrxj9nV"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

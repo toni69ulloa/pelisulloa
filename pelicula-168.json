@@ -1,0 +1,21 @@
+{
+  "id": 168,
+  "titulo": "Mujer Bonita",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iKaKr8aUqOy1aojENu5XuwBI8Uj.jpg",
+  "categoria": ["Romance","Comedia"],
+  "descripcion": "Un acaudalado y frío hombre de negocios conoce en Hollywood Boulevard a una joven y atractiva prostituta a la que alquila durante una semana para que sea su acompañante en sus cenas con los clientes. Para ello la chica se verá sometida a todo un cambio de look tras el que nadie podrá ver, a simple vista, que es una chica de la calle.",
+  "duracion": "1h 59m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1990",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/9BLVEIv-A"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

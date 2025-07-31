@@ -1,0 +1,15 @@
+{
+  "id": 124,
+  "titulo": "Rambo III",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/69iGRVnOi62ZK2ExoJl12tnvH0T.jpg",
+  "categoria": ["Acción","Aventura","Suspenso","Bélica"],
+  "descripcion": "Cuando descubre que el coronel Trautman ha caído en manos soviéticas en Afganistán, Rambo regresa al servicio para intentar liberar a su amigo. Después de contactar a la resistencia afgana, entra en la zona sitiada por las tropas enemigas.",
+  "duracion": "1h 41m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1988",
+  "iframes": [
+    { "nombre": "Upload", "url": "https://short.icu/z6LBB2E4J" },
+    { "nombre": "Streawish", "url": "" }
+  ]
+}
