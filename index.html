@@ -1,93 +1,34 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pelisulloa</title>
-    <link rel="stylesheet" href="style.css">
-    <link rel="icon" href="https://www.google.com/s2/favicons?domain=pelisula.com" type="image/x-icon">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Pelisulloa</title>
+  <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-    <header>
-        <div class="container header-content">
-            <div class="logo">
-                <h1>pelisulloa</h1></div>
-            <nav>
-                <ul>
-                    <li><a href="index.html">Página Principal</a></li>
-                    <li><a href="#">Películas</a></li>
-                    <li><a href="#">Series</a></li>
-                </ul>
-            </nav>
-            <div class="search-bar">
-                <input type="text" id="searchInput" placeholder="Busca tu Película">
-                <button id="searchButton">🔍</button>
-            </div>
-        </div>
-    </header>
+  <header class="menu-principal">
+  <div class="contenedor-header">
+    <div class="botones-header">
+      <a href="index.html" class="btn-menu">Inicio</a>
+      <a href="series.html" class="btn-menu">Series</a>
+    </div>
+    <h1 class="titulo">Pelisulloa</h1>
+  </div>
+  <input type="text" id="buscador" placeholder="Buscar película..." />
+</header>
 
-    <main class="container">
-        <aside class="sidebar">
-            <section class="labels-section">
-                <h2>Categorías</h2>
-                <ul class="labels-list">
-                    <li><a href="#">Acción</a></li>
-                    <li><a href="#">Aventura</a></li>
-                    <li><a href="#">Ciencia Ficción</a></li>
-                    <li><a href="#">Crimen</a></li>
-                    <li><a href="#">Drama</a></li>
-                    <li><a href="#">Familiar</a></li>
-                    <li><a href="#">Historia</a></li>
-                    <li><a href="#">Misterio</a></li>
-                    <li><a href="#">Romance</a></li>
-                    <li><a href="#">Suspense</a></li>
-                    <li><a href="#">Terror</a></li>
-                    <li><a href="#">Western</a></li>
-                    <li><a href="#">Animación</a></li>
-                    <li><a href="#">Bélica</a></li>
-                    <li><a href="#">Comedia</a></li>
-                    <li><a href="#">Documental</a></li>
-                    <li><a href="#">Fantasía</a></li>
-                    <li><a href="#">Melodrama</a></li>
-                    <li><a href="#">Musical</a></li>
-                </ul>
-            </section>
+  <main>
+    <aside id="categorias"></aside>
+    <section id="galeria"></section>
+  </main>
 
-            <section class="popular-posts-section">
-                <h2>Popular Posts</h2>
-                <div class="post">
-                    <h3>Los Caballeros del Zodíaco: Contratacus (1988)</h3>
-                    <p>Fabo Abel, dios del Sol y hermano de Atena. retorna a la tierra y resucita a los Caballeros de Oro muertos en la batalla de las doce casas...</p>
-                </div>
-                <div class="post">
-                    <h3>Ahí está el detalle (1940)</h3>
-                    <p>La confusión entre el perro "Bobby" y un gángster del mismo nombre desencadena una serie de enredos entre un celoso marido, su n...</p>
-                </div>
-                <div class="post">
-                    <h3>007: El hombre del revólver de oro (1974)</h3>
-                    <p>El superagente británico 007 habrá de vérselas ahora con el más peligroso asesino a sueldo del momento: un hombre llamado Scaramanga, mas...</p>
-                </div>
-            </section>
-        </aside>
+  <div id="paginacion"></div>
 
-        <section class="movies-section">
-            <div class="view-toggle">
-                <button id="gridView" class="active">Grid</button>
-                <button id="listView">List</button>
-            </div>
-            <div id="moviesContainer" class="movies-grid">
-                </div>
-            <div id="pagination" class="pagination">
-                </div>
-        </section>
-    </main>
+  <footer>
+    <p>Pelis Ulloa © 2025</p>
+  </footer>
 
-    <footer>
-        <div class="container">
-            <p>&copy; 2025 Pelisulloa. Todos los derechos reservados.</p>
-        </div>
-    </footer>
-
-    <script src="script.js"></script>
+  <script src="script.js"></script>
 </body>
 </html>
