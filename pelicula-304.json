@@ -1,0 +1,21 @@
+{
+  "id": 304,
+  "titulo": "Toy Story 2",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8OTDKkJv2jXg5ZHKazFxBAttKkR.jpg",
+  "categoria": ["Animación","Comedia","Familiar"],
+  "descripcion": "Cuando Woody es robado por un coleccionista de juguetes, Buzz y sus amigos emprenden una misión de rescate para salvar a Woody antes de que se convierta en una propiedad de un museo de juguetes con su pandilla de redadas Jessie, el oloroso Pete y Tiro al blanco.",
+  "duracion": "1h 39m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1999",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/n1vLKVUDu"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

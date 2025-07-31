@@ -1,0 +1,21 @@
+{
+  "id": 315,
+  "titulo": "Pollitos en fuga",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4Enrlqg9FMirWTIHKHexfJd4hdv.jpg",
+  "categoria": ["Animación","Comedia","Familiar"],
+  "descripcion": "Cuando un gallo entra aparentemente volando a una granja de pollos, las gallinas lo ven como una oportunidad para escapar de sus malvados dueños.",
+  "duracion": "1h 24m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "2000",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/mKnG1KLfn"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

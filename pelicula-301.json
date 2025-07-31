@@ -1,0 +1,21 @@
+{
+  "id": 301,
+  "titulo": "El Día Final",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tEhKjNdD7fgc6zkVx8mwTEH1eeN.jpg",
+  "categoria": ["Acción","Terror","Fantasía"],
+  "descripcion": "Nueva York, 1979. En un hospital de Manhattan acaba de nacer Christine, una niña preciosa. Ese mismo día, en el Vaticano, un joven sacerdote informa al Papa del nacimiento de la niña, que lleva la marca del Anticristo. En 1999, Jericho Cane, un ex-policía amargado, salva a una joven del asalto de unos ladrones: es Christine. Desde entonces Cane será víctima de la persecución de terribles fuerzas sobrenaturales.",
+  "duracion": "2h 1m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1999",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/Tl1b_VWTM"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

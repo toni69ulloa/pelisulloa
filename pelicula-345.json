@@ -1,0 +1,21 @@
+{
+  "id": 345,
+  "titulo": "El próximo viernes",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dP4fYCGQZzg17ta7FvLwJVCwwt9.jpg",
+  "categoria": ["Comedia"],
+  "descripcion": "Secuela de Todo en un viernes. Tras la inminente venganza por parte de Deebo tras su fuga carcelaria, Craig decide pasar una temporada mientras se calmen las cosas con su tío y su primo, que viven en Rancho Cucamonga tras haber ganado la lotería.",
+  "duracion": "1h 38m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "2000",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/eGK-jJlna"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

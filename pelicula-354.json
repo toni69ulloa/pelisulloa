@@ -1,0 +1,21 @@
+{
+  "id": 354,
+  "titulo": "Romeo Debe Morir",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qiN9QGs9XZQ0R5D02hwNE66CXpB.jpg",
+  "categoria": ["Acción","Crimen","Suspenso"],
+  "descripcion": "Dos bandas (Asiática y afroamericana) enzarzadas en una guerra de mafias están disputándose el control de los muelles. La situación se vuelve aún más peligrosa cuando el hijo del capo asiático es asesinado; es entonces cuando su hermano Han, ex policía encarcelado en Hong Kong, escapa de la cárcel para vengar su muerte, convirtiéndose él en objetivo de las bandas, lo que le lleva a declarar la guerra por su cuenta.",
+  "duracion": "1h 55m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "2000",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/h_SFIryiD"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

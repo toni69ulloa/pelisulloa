@@ -1,0 +1,21 @@
+{
+  "id": 317,
+  "titulo": "Miss Simpatía",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4z0pHg1zSVIbUXaal1Y0SWHYlkg.jpg",
+  "categoria": ["Acción","Comedia","Crimen"],
+  "descripcion": "Cuando un asesino amenaza el concurso de Miss Estados Unidos, el FBI decide enviar a una agente infiltrada como participante. La mejor candidata que encuentran para la misión es Gracie Hart, una agente de modales toscos y poco femeninos. Ante su total falta de glamour, el FBI decide buscarle un representante que le enseñe todos los trucos del mundo de la pasarela.",
+  "duracion": "1h 50m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "2000",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/EhwgLmi6p"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

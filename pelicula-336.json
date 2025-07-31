@@ -1,0 +1,21 @@
+{
+  "id": 336,
+  "titulo": "Hombres de Honor",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bnsEO5HeS5AgS8OWIZ8BYGHyKNQ.jpg",
+  "categoria": ["Drama"],
+  "descripcion": "Carl Brashear nació en Kentucky en el seno de una familia de campesinos negros cuya vida ha estado siempre marcada por el racismo. Mac, el padre de Carl, le enseñó desde niño el valor de la perseverancia como arma para vencer los obstáculos y alcanzar sus sueños. Carl sueña con ingresar en la escuela de buzos de la marina de los Estados Unidos.",
+  "duracion": "2h 3m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "2000",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/WIt2PF-0b"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

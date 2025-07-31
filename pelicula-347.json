@@ -1,0 +1,21 @@
+{
+  "id": 347,
+  "titulo": "Las locuras del emperador",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jdfrjrmvUlbg4MsWHAjFzUhsvaV.jpg",
+  "categoria": ["Aventura","Animación","Comedia","Familiar","Fantasía"],
+  "descripcion": "El emperador Kuzco es convertido en llama por su exadministradora Yzma, y ahora debe recuperar su trono con la ayuda de Pacha, el amable pastor de llamas.",
+  "duracion": "1h 18m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "2000",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/IhP1rtEoN"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

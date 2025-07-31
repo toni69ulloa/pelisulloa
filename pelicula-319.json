@@ -1,0 +1,21 @@
+{
+  "id": 319,
+  "titulo": "La familia de mi novia",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yJioJIJn3cWZhK1mj4SYP44enUh.jpg",
+  "categoria": ["Comedia","Romance"],
+  "descripcion": "El enfermero Greg Focker conoce a los padres de su novia antes de proponerle matrimonio, pero el desconfiado padre de su novia es la peor pesadilla de cualquier cita.",
+  "duracion": "1h 48m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "2000",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/13NmJAFks"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

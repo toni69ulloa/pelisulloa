@@ -1,0 +1,21 @@
+{
+  "id": 335,
+  "titulo": "60 Segundos",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/48a89gSBAu52u6VpcAdRyV5sNJI.jpg",
+  "categoria": ["Acción","Crimen","Suspenso"],
+  "descripcion": "El robo de autos en Long Beach se redujo en un 47% cuando Randall Memphis Raines se alejó de esta vida. Sin embargo, se ve obligado a regresar a este mundo, tomando las riendas del trabajo que su hermano Kip arruinó para el negociante de autos robados Raymond Calitri: robar 50 autos exóticos y tenerlos listo en un barco de contenedores a las 8:00 de la mañana del viernes, siendo avisado un lunes. Con Calitri amenazando con matarlo a él y a Kip, y a la unidad GRAB de la policía respirándole en la nuca, Memphis vuelve a reunir a su antiguo equipo para llevar a cabo algo logísticamente imposible.",
+  "duracion": "1h 58m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "2000",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/P0OuKRVAI"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

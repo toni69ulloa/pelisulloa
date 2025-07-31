@@ -1,0 +1,21 @@
+{
+  "id": 313,
+  "titulo": "Alerta en lo Profundo",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xNa8pcnF1oQUav6h3Sh6jEClmD0.jpg",
+  "categoria": ["Acción","Terror","Ciencia ficción"],
+  "descripcion": "Los investigadores del laboratorio submarino Aquatica han alterado la genética de los cerebros de varios tiburones que tienen cautivos para desarrollar una cura para la enfermedad del Alzheimer. El cambio, inesperadamente, trae consigo un efecto secundario, los tiburones se están volviendo más inteligentes. Esto podría causar problemas... y facilitarles comida a los tiburones.",
+  "duracion": "1h 45m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1999",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/UR-N-CztUo"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

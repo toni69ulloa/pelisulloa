@@ -1,0 +1,21 @@
+{
+  "id": 350,
+  "titulo": "Billy Elliot",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lN6JppeFXbPFXFREickSSeHOjCz.jpg",
+  "categoria": ["Drama","Comedia"],
+  "descripcion": "Un joven con talento se ve enfrentado entre su inesperado amor por la danza y la desintegración de su familia.",
+  "duracion": "1h 51m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "2000",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/V7V8NIuT5"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

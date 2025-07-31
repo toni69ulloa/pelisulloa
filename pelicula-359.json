@@ -1,0 +1,21 @@
+{
+  "id": 359,
+  "titulo": "Y tu mamá también",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/izw41PkE8y891yraO6fN1tCNmOG.jpg",
+  "categoria": ["Drama","Romance"],
+  "descripcion": "Aunque pertenecen a clases sociales muy distintas, Julio y Tenoch son grandes amigos. En una fiesta conocen a Luisa, una deprimida chica española casada con un primo de Tenoch. Para superar la crisis, Luisa decide acompañar a los dos chicos en un viaje sin rumbo fijo. La aventura pondrá a prueba su amistad y marcará sus vidas para siempre.",
+  "duracion": "1h 46m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "2000",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/GQCgedn1I"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 357,
+  "titulo": "X-Men",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aF170xLGytZcC0xeSlSamImgIi4.jpg",
+  "categoria": ["Acción","Aventura","Ciencia ficción"],
+  "descripcion": "En un mundo en el que los mutantes (humanos superpotentes evolucionados) existen y son discriminados, se forman dos grupos para un choque inevitable: la Hermandad supremacista, y los X-Men pacifistas.",
+  "duracion": "1h 44m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "2000",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/tltRtNhTb"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

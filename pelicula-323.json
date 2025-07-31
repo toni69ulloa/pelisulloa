@@ -1,0 +1,21 @@
+{
+  "id": 323,
+  "titulo": "Una película de miedo",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kfAiQqJGnfbQj52Bna7Ohlu04y3.jpg",
+  "categoria": ["Comedia"],
+  "descripcion": "Siguiendo los talones de las populares películas de terror adolescente-grito, con una comedia espeluznante y sátira mordaz. Marlon y Shawn Wayans, Shannon Elizabeth y Carmen Electra participan en el lanzamiento de algunos de los éxitos de taquilla más grandes de Hollywood, como Scream, Sé lo que hiciste el verano pasado, The Matrix, American Pie y The Blair Witch Project.",
+  "duracion": "1h 28h",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "2000",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/1TwYqbtC5"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

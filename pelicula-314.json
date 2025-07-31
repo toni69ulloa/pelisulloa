@@ -1,0 +1,21 @@
+{
+  "id": 314,
+  "titulo": "007: El mundo no basta",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zOfcghObIuDXmiPyGzaRDXWrxWu.jpg",
+  "categoria": ["Acción","Aventura","Suspenso"],
+  "descripcion": "Tras la muerte del magnate británico del petróleo Sir Robert King en un atentado en el cuartel general del MI6, su hija Elektra hereda sus fabulosos yacimientos petrolíferos del mar Caspio. El agente 007, que se siente culpable de la muerte de King, se convierte en el guardaespaldas de Elektra. Su astronómica fortuna atrae no sólo la atención de la prensa internacional, sino también la del asesino, un hombre con una bala alojada en el cerebro que le impide sentir dolor físico y cuya única obsesión es la venganza.",
+  "duracion": "2h 8m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1999",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/4wly7ccGrG"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

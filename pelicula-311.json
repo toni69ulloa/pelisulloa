@@ -1,0 +1,21 @@
+{
+  "id": 311,
+  "titulo": "El Coleccionista de Huesos",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rKJHQVzmFtmmGcdQPqShwAdvJ1G.jpg",
+  "categoria": ["Drama","Misterio","Suspenso","Crimen"],
+  "descripcion": "Un psicópata va dejando pistas de sus crímenes, pero sólo Lincoln Rhyme, un agente de homicidios tetrapléjico, puede descifrarlas. La novata policía Amelia Donaghy es la encargada de inspeccionar los escenarios del crimen.",
+  "duracion": "1h 58m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1999",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/9CmblbnRI"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

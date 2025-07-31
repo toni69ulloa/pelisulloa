@@ -1,0 +1,21 @@
+{
+  "id": 358,
+  "titulo": "Alí",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/psCjNaWvssNxaJCpDERKKwQEThn.jpg",
+  "categoria": ["Drama"],
+  "descripcion": "En 1964, un nuevo e impetuoso boxeador profesional, que acaba de ganar la medalla de oro olímpica, irrumpe en escena: Cassius Clay. Audaz y franco, crea una imagen completamente nueva para los afroamericanos en el deporte con su orgullosa confianza pública en sí mismo y su creencia sin disculpas de que es el mejor boxeador de todos los tiempos. Sin embargo, en la cima de su carrera, tanto la vida personal como la profesional de Ali se enfrentan a la prueba definitiva.",
+  "duracion": "2h 37m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "2001",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/y-DtWG9PR"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 353,
+  "titulo": "Malena",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zdnjZa9HfBxlQnCX4dqCbbzxsLI.jpg",
+  "categoria": ["Drama"],
+  "descripcion": "Malena es la belleza más encantadora e irresistible de Castelcuto, un tranquilo pueblo de la soleada costa siciliana. Es nueva en el pueblo y, estando su marido en la guerra, cada paseo que da se convierte en un espectáculo que va acompañado de las lujuriosas miradas de los hombres y de los resentidos cotilleos de sus envidiosas esposas. Un ejército de flacos adolescentes en bicicleta la sigue allí donde vaya, con la única intención de observar su exquisita y arquetípica belleza. Pero entre ellos se encuentra Renato, un chico de trece años con mucha imaginación que lleva su deseo a unos límites de obsesiva fantasía.",
+  "duracion": "1h 40m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "2000",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/gwmJOSjr6"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 321,
+  "titulo": "Mi abuela es un peligro",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/svzVjVV8QUpfYItr3PH5bMzRPer.jpg",
+  "categoria": ["Crimen","Comedia"],
+  "descripcion": "El agente del FBI Malcolm Turner es un hombre duro y astuto, pero sobre todo un consumado maestro del arte del disfraz. Su última misión lo lleva a una pequeña ciudad del sur de los Estados Unidos, donde debe atrapar a un sanguinario ladrón de bancos que se acaba de fugar de prisión. Malcolm monta un puesto de vigilancia en la casa de una arisca anciana, la Gran Abuela, que está a punto de recibir la visita de su nieta Sherry, ex-novia del presidiario, y de su hijo. Aunque el plan es muy sencillo, surge una dificultad nada desdeñable: Big Mamma's se ha ido inesperadamente la ciudad, así que Malcolm tendrá que ingeniárselas para hacerse pasar por ella.",
+  "duracion": "1h 39m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "2000",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/AomWifxQw"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

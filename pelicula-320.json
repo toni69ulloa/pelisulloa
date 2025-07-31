@@ -1,0 +1,21 @@
+{
+  "id": 320,
+  "titulo": "Misión: Imposible 2",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mskE3W88cjMRrnKQye8pjmJu3O1.jpg",
+  "categoria": ["Acción","Aventura","Suspenso"],
+  "descripcion": "El agente del FMI Ethan Hunt es enviado a Sydney para encontrar y destruir una enfermedad genéticamente modificada llamada «Quimera».",
+  "duracion": "1h 58m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "2000",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/HBSko4QL7"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

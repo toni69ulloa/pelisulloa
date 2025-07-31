@@ -1,0 +1,21 @@
+{
+  "id": 339,
+  "titulo": "Tigerland ",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tZ5XU1OUXQohVjvov35VkmHBck3.jpg",
+  "categoria": ["Drama","Bélica"],
+  "descripcion": "Un grupo de reclutas pasa por el Entrenamiento Avanzado de Infantería en Fort Polk, la infame Tigerland de Louisiana, la última parada antes de Vietnam para decenas de miles de jóvenes en 1971.",
+  "duracion": "1h 41m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "2000",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/Db1PWFG11z"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

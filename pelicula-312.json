@@ -1,0 +1,21 @@
+{
+  "id": 312,
+  "titulo": "De Ladrón a Policía",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/buUQCdQrJM8itUd0MmtIikjJyEl.jpg",
+  "categoria": ["Acción","Comedia","Crimen"],
+  "descripcion": "Un ladrón en libertad condicional se hace pasar por policía para recuperar un diamante que escondió en una estación policíaca.",
+  "duracion": "1h 33m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1999",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/q2Q96iQt8"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

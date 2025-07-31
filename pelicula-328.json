@@ -1,0 +1,21 @@
+{
+  "id": 328,
+  "titulo": "El Grinch",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yCZ3xAPM5009ltBUUwPtCeWKQWy.jpg",
+  "categoria": ["Familiar","Fantasía","Comedia"],
+  "descripcion": "Dentro de un copo de nieve existe la tierra mágica de Villa Quien. En Villa Quien, viven los Quienes, que aman la Navidad, pero justo fuera de su querida villa quien vive el Grinch. El Grinch es una criatura desagradable que odia la Navidad, y trama robarla de los Quien, a quienes igualmente aborrece. Sin embargo, una niña pequeña, Cindy Lou Quien, decide intentar hacer amistad con el Grinch.",
+  "duracion": "1h 44m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "2000",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/oyjybeUtp"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

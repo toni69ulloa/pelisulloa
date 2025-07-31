@@ -1,0 +1,21 @@
+{
+  "id": 324,
+  "titulo": " El hombre sin sombra",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qjOKPS0iLuYM9UArcUIcL5jsA5x.jpg",
+  "categoria": ["Acción","Ciencia ficción","Suspenso"],
+  "descripcion": "Un grupo de científicos descubre una fórmula para volver invisibles a los animales. El Dr. Sebastian Caine, quien está a cargo de la investigación, decide probar el suero en sí mismo, pero los efectos colaterales incluyen cambios en la personalidad.",
+  "duracion": "1h 53m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "2000",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/-wIbcv68T"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

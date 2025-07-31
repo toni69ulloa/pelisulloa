@@ -1,0 +1,21 @@
+{
+  "id": 334,
+  "titulo": "El patriota",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cizgIaq65fpq2Ft08dPmZtUxDYv.jpg",
+  "categoria": ["Drama","Historia","Bélica","Acción"],
+  "descripcion": "En 1776, Carolina del Sur, Benjamin Martin (Mel Gibson), viudo y héroe de guerra, se encuentra en medio de la Revolución Estadounidense mientras observa impotentemente cómo las salvajes fuerzas de los casacas rojas británicos separan a su familia. Incapaz de permanecer en silencio, recluta un grupo de reticentes voluntarios, incluyendo su idealista hijo patriota, Gabriel (Heath Ledger), para levantarse en armas contra los británicos. Luchando por la libertad de su familia y la independencia de su país, Martin descubre el dolor de la traición, la redención de la venganza y la pasión del amor.",
+  "duracion": "2h 45m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "2000",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/b43iRx5cM"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

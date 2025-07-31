@@ -1,0 +1,21 @@
+{
+  "id": 356,
+  "titulo": "Cadena de favores",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8MFVGTbYnOqAmwq6tLz8NUE5bZC.jpg",
+  "categoria": ["Drama"],
+  "descripcion": "Un niño imagina un curioso sistema para mejorar el mundo; hacer favores desinteresadamente. Para sorpresa de todos, la generosa propuesta causa furor entre la gente. Entretenida comedia con toques dramáticos y un eficaz reparto.",
+  "duracion": "2h 2m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "2000",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/-iV3XBpFk"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 349,
+  "titulo": "Casi famosos",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2fEy9iTquhFy3aB2XACKjQ6wGRh.jpg",
+  "categoria": ["Drama"],
+  "descripcion": "Homenaje al rock de los 70. Gracias a sus buenas críticas musicales, un adolescente que aspira a ser periodista es contratado por la revista Rolling Stone para cubrir la gira de una famosa banda. A pesar de su juventud y de la oposición de su madre, el chico vivirá con los músicos y sus fans una aventura inolvidable. Basada en la propia experiencia de Crowe.",
+  "duracion": "2h 2m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "2000",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/Cd5C9LzVC"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

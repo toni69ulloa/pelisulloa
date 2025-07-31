@@ -1,0 +1,21 @@
+{
+  "id": 305,
+  "titulo": "Stuart Little",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wFcrKqCdQRQxZCkBILhX949lXo2.jpg",
+  "categoria": ["Familiar","Fantasía","Comedia","Aventura"],
+  "descripcion": "Las aventuras de un ratón heroico y elegante llamado Stuart Little con cualidades humanas, que enfrenta algunas desventuras cómicas mientras busca a su amigo pájaro perdido y vive con una familia humana como su hijo.",
+  "duracion": "1h 24m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1999",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/XF62YKFDCo"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 309,
+  "titulo": "Gigoló por accidente",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/LlFLmp7KYnN3na68PhkMYYYtHv.jpg",
+  "categoria": ["Comedia","Romance"],
+  "descripcion": "Deuce, un limpiador de pecera profesional, necesita dinero para reparar los daños que ha hecho al lujoso apartamento de un cliente. Entonces, decide que la única manera de salir de este atasco es cambiar a la profesión más antigua del mundo, y ofrecer sus servicios a las damas como un amante de alquiler.",
+  "duracion": "1h 29m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1999",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/-IT_-GJyTY"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 316,
+  "titulo": "Los suplentes",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o195zE5s6Jz1d8TFw9IVw8QqNGD.jpg",
+  "categoria": ["Comedia"],
+  "descripcion": "Una brutal huelga de la Liga Nacional de Fútbol americano, deja en el aire los anhelados play-off. Los Washington Sentinels tenían al alcance de la mano llegar a la final, pero como no pueden contar con sus estrellas deciden contratar temporalmente a un grupo de aficionados para quienes ésta es la gran oportunidad de sus grises y anodinas vidas.",
+  "duracion": "1h 58m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "2000",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/v6wgcA-Tz"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

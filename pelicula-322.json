@@ -1,0 +1,21 @@
+{
+  "id": 322,
+  "titulo": "Amores perros",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bVK4CPluBY9LFkzCAwhG5Fs04HE.jpg",
+  "categoria": ["Drama","Suspenso"],
+  "descripcion": "En Ciudad de México, un fatal accidente automovilístico afecta trágicamente a tres personas. Octavio, un adolescente, decide escaparse con Susana, la esposa de su hermano; el Cofí, su perro, se convierte en el instrumento para conseguir el dinero necesario para la fuga. Al mismo tiempo, Daniel, un hombre maduro deja a su esposa y a sus hijos para irse a vivir con Valeria, una hermosa modelo. El mismo día en que celebran su nueva vida, el destino hace que Valeria sea víctima de un trágico accidente.",
+  "duracion": "2h 34m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "2000",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/Y1dpEWqjQ"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

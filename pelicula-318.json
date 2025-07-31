@@ -1,0 +1,21 @@
+{
+  "id": 318,
+  "titulo": "Mi Encuentro Conmigo",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fkfSJooU4fMhJzT3LKfzmC6CHqH.jpg",
+  "categoria": ["Fantasía","Comedia","Familiar"],
+  "descripcion": "Un consultor de imagen infeliz y disgustado tiene una segunda oportunidad en la vida cuando se enfrenta misteriosamente a una versión de sí mismo de ocho años.",
+  "duracion": "1h 45m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "2000",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/t6MgVpCfv"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 332,
+  "titulo": "Destino final",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6F3MEcGHeMAMxledi7vQfqkZRkc.jpg",
+  "categoria": ["Terror"],
+  "descripcion": "Un joven estudiante tiene una premonición al subirse al avión en el que se dispone a ir a París con sus compañeros. Presintiendo que algo grave va a pasar, él y sus amigos desembarcan antes del despegue. Efectivamente, el avión sufre un trágico accidente, y los jóvenes piensan que se han librado de una muerte segura gracias a la premonición de su amigo. Pero el destino no ha sido vencido todavía.",
+  "duracion": "1h 38m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "2000",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/MiA6bIzmw"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

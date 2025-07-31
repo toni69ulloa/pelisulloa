@@ -1,0 +1,21 @@
+{
+  "id": 333,
+  "titulo": "Irene, Yo y Mi Otro Yo",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9Jx2FzdKUYqF3BojG65xjqIG9aj.jpg",
+  "categoria": ["Comedia"],
+  "descripcion": "Charlie Baileygates es un agente de policía con un trastorno de identidad disociativo. Cuando su otra personalidad, Hank, toma el control, la vida de Charlie se convierte en un caos cómico.",
+  "duracion": "1h 52m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "2000",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/q-Y1kWc42"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

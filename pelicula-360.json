@@ -1,0 +1,21 @@
+{
+  "id": 360,
+  "titulo": "Vanilla sky",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cAh2pCiNPftsY3aSqJuIOde7uWr.jpg",
+  "categoria": ["Misterio","Romance","Ciencia ficción"],
+  "descripcion": "David Aames lo tiene todo: Riqueza, buena apariencia y mujeres hermosas. Pero justo cuando comienza a enamorarse de la cálida Sofía, queda desfigurado en un accidente automovilístico. Ese es solo el comienzo de sus problemas, ya que las líneas entre la ilusión y la realidad, entre la vida y la muerte, se desdibujan.",
+  "duracion": "2h 17m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "2000",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/nrJVfos-W"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

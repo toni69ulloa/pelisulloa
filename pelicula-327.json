@@ -1,0 +1,21 @@
+{
+  "id": 327,
+  "titulo": "Shanghai Kid",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1HTFEi2aifnmNMWYb5amvyAG86z.jpg",
+  "categoria": ["Acción","Aventura","Comedia","Western"],
+  "descripcion": "Chon Wang es un guardián del emperador chino. Cuando la princesa Pei Pei es secuestrada de la Ciudad Prohibida imperial, Wang se siente personalmente responsable e insiste en unirse a los guardas encargados de rescatarla. Pero ella ha sido llevada a los EE.UU. Tras una persecución en Nevada, Wang se separa del grupo y pronto se encuentra junto al timador Roy O´Bannon, que le ayudará mal que bien a conseguir cumplir su misión.",
+  "duracion": "1h 51m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "2000",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/86LrqikAO"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

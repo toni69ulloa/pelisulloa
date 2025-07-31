@@ -1,0 +1,21 @@
+{
+  "id": 348,
+  "titulo": "Drácula 2000",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/edvsj9K8CHRKrJ1Ir2rYNiN9R1m.jpg",
+  "categoria": ["Suspenso","Terror","Acción","Fantasía"],
+  "descripcion": "Cuando, tras cien años de confinamiento, Drácula es al fin liberado, se encuentra en un mundo dominado por la tentación y el caos, donde encaja a la perfección: es el siglo XXI. Decide viajar a los Estados Unidos, un lugar perfecto para seducir bellas jóvenes y luchar por la conquista del poder. Pero lo mueve también otra razón: sabe que en algún lugar de Nueva Orleans hay una joven que es la única persona del mundo que comparte su oscuro legado.",
+  "duracion": "1h 39m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "2000",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/uR6OAkdz_"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 303,
+  "titulo": "Un Papá Genial",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iD5mbxxy5SPCgsp5qzyS6k2QQrn.jpg",
+  "categoria": ["Comedia","Drama"],
+  "descripcion": "Un irresponsable neoyorquino trata de darle estabilidad a su vida al adoptar a un niño rebelde de cinco años.",
+  "duracion": "1h 35m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "1999",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/JqnSOn8SC"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}
