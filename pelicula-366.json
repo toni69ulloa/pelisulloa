@@ -1,0 +1,21 @@
+{
+  "id": 366,
+  "titulo": "Rápido y furioso",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6et0SLxB17fCEjWgGssCzqOsmiJ.jpg",
+  "categoria": ["Acción","Crimen","Suspenso"],
+  "descripcion": "El policía de Los Ángeles, Brian O'Conner, debe decidir dónde está realmente su lealtad cuando se enamore del mundo de las carreras callejeras al que ha sido enviado de incógnito para destruir.",
+  "duracion": "1h 46m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "2001",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/NG6LCrnSRf"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

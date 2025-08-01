@@ -1,0 +1,21 @@
+{
+  "id": 382,
+  "titulo": "La Momia Regresa",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x5CeEQ2iq9A20LbU0K4Q1TMxFDs.jpg",
+  "categoria": ["Acción","Aventura","Fantasía"],
+  "descripcion": "Rick O'Connell está ahora casado con Evelyn, y se han establecido en Londres, donde crían a su hijo Alex de 8 años. Cuando una cadena de eventos propicia la resurrección de Imhotep, la Momia camina de nuevo sobre la Tierra, determinada a conquistar su búsqueda por la inmortalidad.",
+  "duracion": "2h 5m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "2001",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/kBAHI1OdC"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

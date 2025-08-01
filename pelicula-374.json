@@ -1,0 +1,21 @@
+{
+  "id": 374,
+  "titulo": "Lara Croft: Tomb Raider",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lB560d77wXnzN1vjcretRP2voMC.jpg",
+  "categoria": ["Aventura","Fantasía","Acción","Suspenso"],
+  "descripcion": "La intrépida arqueóloga Lara Croft está en una carrera contra el tiempo para encontrar un antiguo artefacto con poderes cósmicos antes de que caiga en manos equivocadas. Con impresionantes acrobacias, emocionantes escenas de acción y un toque de misterio, Lara se embarca en una aventura global llena de peligros y revelaciones sobre su propio pasado.",
+  "duracion": "1h 40m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "2001",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/nK9n3mxkM"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

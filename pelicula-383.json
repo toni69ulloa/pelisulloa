@@ -1,0 +1,21 @@
+{
+  "id": 383,
+  "titulo": "El Planeta De Los Simios",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rRvUkYCByrlVMy4GMME3iDAe6er.jpg",
+  "categoria": ["Suspenso","Ciencia ficción","Acción","Aventura"],
+  "descripcion": "Luego de un espectacular aterrizaje forzoso en un planeta inexplorado, el intrépido astronauta Leo Davidson se encuentra atrapado en un mundo salvaje donde los monos parlantes dominan a la raza humana. Desesperado por encontrar un camino a casa, Leo debe evadir al invencible ejército de gorilas liderado por el despiadado general Thade.",
+  "duracion": "1h 59m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "2001",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/5ZHF6dJgp"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

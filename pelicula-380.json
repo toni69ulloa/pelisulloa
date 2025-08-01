@@ -1,0 +1,21 @@
+{
+  "id": 380,
+  "titulo": "Animal",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yLhWZ5MdajTrS5PisgVVFSW6nJ7.jpg",
+  "categoria": ["Comedia","Ciencia ficción"],
+  "descripcion": "Un policía tiene un accidente de tráfico. Cuando despierta una semana después descubre que un científico ha utilizado órganos de animales para reconstruir su cuerpo destrozado. Con esta mentalidad, Marvin se convierte en un héroe hasta que sus instintos animales se apoderan de él en los momentos más inoportunos.",
+  "duracion": "1h 23m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "2001",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/a0r6rsS_T"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

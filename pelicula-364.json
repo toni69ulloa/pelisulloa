@@ -1,0 +1,21 @@
+{
+  "id": 364,
+  "titulo": "Shrek",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5G1RjHMSt7nYONqCqSwFlP87Ckk.jpg",
+  "categoria": ["Animación","Comedia","Familiar","Fantasía","Aventura"],
+  "descripcion": "Un malvado lord exilia a las criaturas de cuentos de hadas al pantano de un ogro gruñón, que debe ir en busca y rescatar a una princesa para el lord con el fin de recuperar su tierra.",
+  "duracion": "1h 30m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "2001",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/EQZwK-4BK"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

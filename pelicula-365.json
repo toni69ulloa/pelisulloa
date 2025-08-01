@@ -1,0 +1,21 @@
+{
+  "id": 365,
+  "titulo": "Scary Movie 2: Otra película de miedo",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/90G7YLxKXbEdfcRvlOSRBwbTLS6.jpg",
+  "categoria": ["Comedia"],
+  "descripcion": "Mientras que el original parodiado slasher películas como Scream, Keenen Ivory Wayans de la secuela de película de miedo toma comedic objetivo de películas de casa embrujada. Un grupo de estudiantes visita una mansión llamada Casa del infierno, y se suceden asesinos.",
+  "duracion": "1h 22m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "2001",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/bTO5e7hWK"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

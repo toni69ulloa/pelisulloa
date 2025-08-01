@@ -1,0 +1,21 @@
+{
+  "id": 375,
+  "titulo": "La caída del halcón negro",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5chWdaHyaHWd5KaVxK94lbTDCdC.jpg",
+  "categoria": ["Acción","Bélica","Historia"],
+  "descripcion": "En octubre de 1993, una unidad de élite del Ejército de Estados Unidos es enviada a Mogadiscio, la capital de Somalia, para realizar una misión en plena guerra civil. Sin embargo, lo que parecía ser una misión sencilla se convierte en una pesadilla.",
+  "duracion": "2h 25m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "2001",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/B4DDAjlZi"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

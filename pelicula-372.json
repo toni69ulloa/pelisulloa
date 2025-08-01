@@ -1,0 +1,21 @@
+{
+  "id": 372,
+  "titulo": "Los otros",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/u03kblxsv3zar3Uqt6sRfICU9L6.jpg",
+  "categoria": ["Terror","Misterio","Suspenso"],
+  "descripcion": "Grace es una mujer religiosa que vive en una vieja casa mantenida oscura porque sus dos hijos, Anne y Nicholas, tienen una rara sensibilidad a la luz. Cuando la familia comienza a sospechar que la casa está embrujada, Grace lucha para proteger a sus hijos a cualquier costo ante los extraños acontecimientos y las visiones inquietantes.",
+  "duracion": "1h 44m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "2001",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/NuX0zaPPe"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

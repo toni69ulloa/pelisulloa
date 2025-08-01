@@ -1,0 +1,21 @@
+{
+  "id": 378,
+  "titulo": "Harry Potter y la piedra filosofal",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3MKK7vAJLtSkBTABMTjxf6TOCo3.jpg",
+  "categoria": ["Aventura","Fantasía"],
+  "descripcion": "El día en que cumple once años, Harry Potter se entera de que es hijo de dos destacados hechiceros, de los que ha heredado poderes mágicos. En la escuela Hogwarts de Magia y Hechicería, donde se educa con otros niños que también tienen poderes especiales, aprenderá todo lo necesario para ser mago.",
+  "duracion": "2h 32m",
+  "calidad": "720p",
+  "idioma": "Latino",
+  "estreno": "2001",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/-P9BIV_fX"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}
