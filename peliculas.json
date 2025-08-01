@@ -1,4 +1,160 @@
-[ {
+[ 
+  {
+    "id": 386,
+    "titulo": "13 fantasmas",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tobmCmAgCNVhqxUN7r58cnoYOco.jpg",
+    "categoria": ["Terror","Suspenso"]
+  },
+  {
+    "id": 385,
+    "titulo": "American Pie 2: Tu Segunda Vez Es Mejor",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ap9SAk1FgcoPETCn60QUGw9jbbp.jpg",
+    "categoria": ["Comedia","Romance"]
+  },
+  {
+    "id": 384,
+    "titulo": "Dr. Dolittle 2",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/asYjHXBoD44B6mLOcZtMfMV3hm1.jpg",
+    "categoria": ["Comedia","Familiar","Romance","Fantasía"]
+  },
+  {
+    "id": 383,
+    "titulo": "El Planeta De Los Simios",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rRvUkYCByrlVMy4GMME3iDAe6er.jpg",
+    "categoria": ["Suspenso","Ciencia ficción","Acción","Aventura"]
+  },
+  {
+    "id": 382,
+    "titulo": "La Momia Regresa",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x5CeEQ2iq9A20LbU0K4Q1TMxFDs.jpg",
+    "categoria": ["Acción","Aventura","Fantasía"]
+  },
+  {
+    "id": 381,
+    "titulo": "El señor de los anillos: La comunidad del anillo",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9xtH1RmAzQ0rrMBNUMXstb2s3er.jpg",
+    "categoria": ["Acción","Aventura","Fantasía"]
+  },
+  {
+    "id": 380,
+    "titulo": "Animal",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yLhWZ5MdajTrS5PisgVVFSW6nJ7.jpg",
+    "categoria": ["Comedia","Ciencia ficción"]
+  },
+  {
+    "id": 379,
+    "titulo": "Experta en Bodas",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oVa0CpOy33np4BD3seuE6HtLDEx.jpg",
+    "categoria": ["Comedia","Romance"]
+  },
+  {
+    "id": 378,
+    "titulo": "Harry Potter y la piedra filosofal ",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3MKK7vAJLtSkBTABMTjxf6TOCo3.jpg",
+    "categoria": ["Aventura","Fantasía"]
+  },
+  {
+    "id": 377,
+    "titulo": "Hannibal",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/v5wAZwRqpGWmyAaaJ8BBHYuNXnj.jpg",
+    "categoria": ["Crimen","Drama","Suspenso"]
+  },  {
+    "id": 376,
+    "titulo": "Viernes 13 Parte 10: Jason X - Al Espacio",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hvu9h9BlK3gJPuerFyQNR6zTvBD.jpg",
+    "categoria": ["Terror","Ciencia ficción"]
+  },
+  {
+    "id": 375,
+    "titulo": "La caída del halcón negro",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5chWdaHyaHWd5KaVxK94lbTDCdC.jpg",
+    "categoria": ["Acción","Bélica","Historia"]
+  },
+  {
+    "id": 374,
+    "titulo": "Lara Croft: Tomb Raider",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lB560d77wXnzN1vjcretRP2voMC.jpg",
+    "categoria": ["Aventura","Fantasía","Acción","Suspenso"]
+  },
+  {
+    "id": 373,
+    "titulo": "Legalmente rubia",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/niib9aVXTSKt8YOr9sHaMGkpJHZ.jpg",
+    "categoria": ["Comedia","Romance"]
+  },
+  {
+    "id": 372,
+    "titulo": "Los otros",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/u03kblxsv3zar3Uqt6sRfICU9L6.jpg",
+    "categoria": ["Terror","Misterio","Suspenso"]
+  },
+  {
+    "id": 371,
+    "titulo": "Monstruos, S.A.",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g3SgHEb5ej2MioGfYLrZVshF909.jpg",
+    "categoria": ["Animación","Comedia","Familiar"]
+  },
+  {
+    "id": 370,
+    "titulo": "No es otra tonta película americana",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hSnvrM0rY4sBA2s8XygP76YBDJJ.jpg",
+    "categoria": ["Comedia"]
+  },
+  {
+    "id": 369,
+    "titulo": "La Gran Estafa",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rDWIeM3bOOxh0uP9wd9baGOtx2p.jpg",
+    "categoria": ["Suspenso","Crimen"]
+  },
+  {
+    "id": 368,
+    "titulo": "Parque Jurásico III",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5GM4Nqc79PFE3IOqNKwmOxAWkX1.jpg",
+    "categoria": ["Aventura","Acción","Suspenso","Ciencia ficción"]
+  },
+  {
+    "id": 367,
+    "titulo": "Pearl Harbor",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ftkKVbk4sQEcekuaGJvpvXcNs32.jpg",
+    "categoria": ["Bélica","Romance","Historia","Acción"]
+  },
+    {
+    "id": 366,
+    "titulo": "Rápido y furioso",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6et0SLxB17fCEjWgGssCzqOsmiJ.jpg",
+    "categoria": ["Acción","Crimen","Suspenso"]
+  },
+  {
+    "id": 365,
+    "titulo": "Scary Movie 2: Otra película de miedo",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/90G7YLxKXbEdfcRvlOSRBwbTLS6.jpg",
+    "categoria": ["Comedia"]
+  },
+  {
+    "id": 364,
+    "titulo": "Shrek",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5G1RjHMSt7nYONqCqSwFlP87Ckk.jpg",
+    "categoria": ["Animación","Comedia","Familiar","Fantasía","Aventura"]
+  },
+  {
+    "id": 363,
+    "titulo": "Mini Espías",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jWIsfU9NXiOBsGy0WUx8T3Kiaw.jpg",
+    "categoria": ["Familiar","Acción","Comedia","Aventura","Ciencia ficción"]
+  },
+  {
+    "id": 362,
+    "titulo": "Terror bajo la Tierra 3: De vuelta a Perfección",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aJVaLsVY11U3Wh1BpCWPgkplRVu.jpg",
+    "categoria": ["Acción","Comedia","Terror","Ciencia ficción","Suspenso"]
+  },
+  {
+    "id": 361,
+    "titulo": "Una pareja explosiva 2",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/no3uHLYK0lQyjXiIXIj82fgUsZX.jpg",
+    "categoria": ["Acción","Comedia","Crimen"]
+  },
+  {
     "id": 360,
     "titulo": "Vanilla sky",
     "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cAh2pCiNPftsY3aSqJuIOde7uWr.jpg",
