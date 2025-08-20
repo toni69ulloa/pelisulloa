@@ -296,3 +296,15 @@ footer {
     font-size: 0.8rem;
   }
 }
+
+.badge-calidad {
+  display: inline-block;
+  padding: 4px 10px;            /* Espaciado interno */
+  font-size: 13px;              /* Tamaño de texto */
+  font-weight: bold;            /* Negrita */
+  color: #0f5132;               /* Texto verde oscuro */
+  background-color: #d1e7dd;    /* Verde suave de fondo */
+  border: 1px solid #badbcc;    /* Borde verde claro */
+  border-radius: 6px;           /* Esquinas ligeramente redondeadas */
+  text-transform: uppercase;    /* Texto en mayúsculas */
+}
