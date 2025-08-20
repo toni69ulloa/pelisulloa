@@ -5,7 +5,7 @@
   "categoria": ["Acción","Crimen","Drama","Suspenso"],
   "descripcion": "Gino Felino (Steven Seagal) es un detective de policía de Brooklyn, que un día recibe una llamada comunicándole que su mejor amigo Bobby Lupo (Joe Spataro) ha sido asesinado, a plena luz del día, en la calle y delante de su esposa e hijos, por el capo mafioso Richie Madano (William Forsythe), enemigo de ambos desde su juventud. Gino emprenderá una furiosa caza de Madano, que campa descontrolado por la ciudad.",
   "duracion": "1h 30m",
-  "calidad": "720p",
+  "calidad": "SD",
   "idioma": "Latino",
   "estreno": "1991",
   "iframes": [
@@ -18,4 +18,5 @@
       "url": ""
     }
   ]
+
 }
