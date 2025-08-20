@@ -5,7 +5,7 @@
   "categoria": ["Aventura","Ciencia ficción","Misterio"],
   "descripcion": "El único sobreviviente de una misión de rescate interplanetario busca al único sobreviviente de la expedición anterior. Descubre un planeta gobernado por simios y una ciudad subterránea dirigida por humanos telepáticos.",
   "duracion": "1h 35m",
-  "calidad": "720p",
+  "calidad": "HD",
   "idioma": "Latino",
   "estreno": "1970",
   "iframes": [
@@ -15,4 +15,5 @@
       "url": "" 
     }
   ]
+
 }
