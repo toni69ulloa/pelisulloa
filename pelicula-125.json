@@ -5,11 +5,12 @@
   "categoria": ["Acción","Crimen","Suspenso"],
   "descripcion": "Nico Toscani es un inmigrante italiano, patriota estadounidense, ex agente de la CIA, especialista en aikido y policía poco ortodoxo de Chicago. Está tan comprometido con su trabajo como lo está con su marca personalizada de justicia: experto y minucioso.",
   "duracion": "1h 39m",
-  "calidad": "720p",
+  "calidad": "FHD",
   "idioma": "Latino",
   "estreno": "1988",
   "iframes": [
     { "nombre": "Upload", "url": "https://short.icu/XZN8zsEYI" },
     { "nombre": "Streawish", "url": "" }
   ]
+
 }
