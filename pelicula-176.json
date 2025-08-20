@@ -5,7 +5,7 @@
   "categoria": ["Terror"],
   "descripcion": "Una mujer que se arrastra por el techo. Un criminal muerto hace tiempo que asesina víctima tras víctima. Las llamas estallan, las serpientes se deslizan, la tierra se abre revelando el tormentoso infierno. El demonio ha vuelto... pero el sacerdote Damien Karras vuelve a notar la presencia del maligno, y pedirá la ayuda del escéptico detective Kinderman para derrotarlo.",
   "duracion": "1h 49m",
-  "calidad": "720p",
+  "calidad": "FHD",
   "idioma": "Latino",
   "estreno": "1990",
   "iframes": [
@@ -18,4 +18,5 @@
       "url": ""
     }
   ]
+
 }
