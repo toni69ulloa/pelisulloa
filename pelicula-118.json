@@ -5,11 +5,12 @@
   "categoria": ["Acción","Animación","Fantasía"],
   "descripcion": "Hyōga desaparece en tierras nórdicas y lo último que saben de él es que se dirigía a Asgard. Mientras tanto, un clima glaciar invade la Tierra. Atena y sus Caballeros de bronce van a hacia allá pensando en que los cambios climáticos provienen de ese lugar. Sin embargo Dolvar, el patriarca de Asgard, captura a Atena. Los Caballeros de Bronce deberán enfrentarse a Dolvar y sus dioses guerreros. Lo que no esperaban era que uno de sus enemigos será el propio Hyōga, que se encuentra bajo el control de Dolvar. Segunda película basada en el manga/anime Saint Seiya.",
   "duracion": "45m",
-  "calidad": "720p",
+  "calidad": "HD",
   "idioma": "Latino",
   "estreno": "1988",
   "iframes": [
     { "nombre": "Upload", "url": "https://short.icu/HPnvRlH_R" },
     { "nombre": "Streawish", "url": "" }
   ]
+
 }
