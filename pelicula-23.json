@@ -5,7 +5,7 @@
   "categoria": ["Acción","Aventura","Ciencia ficción","Drama"],
   "descripcion": "Una tripulación de astronautas se estrelló en un planeta en un futuro lejano donde los simios parlantes inteligentes son la especie dominante, y los humanos son los oprimidos y esclavos.",
   "duracion": "1h 53m",
-  "calidad": "720p",
+  "calidad": "SD",
   "idioma": "Latino",
   "estreno": "1968",
   "iframes": [
@@ -15,4 +15,5 @@
       "url": "" 
     }
   ]
+
 }
