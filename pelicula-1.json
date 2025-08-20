@@ -5,9 +5,9 @@
   "categoria": ["Comedia"],
   "descripcion": "La confusión entre el perro Bobby y un gángster del mismo nombre desencadena una serie de enredos entre un celoso marido, su nerviosa esposa, una pícara criada, una esposa abandonada con ocho hijos y el singular Cantinflas.",
   "duracion": "1h 52m",
-  "calidad": "720p",
+  "calidad": "HD",
   "idioma": "Latino",
-  "estreno": "1940-09-11",
+  "estreno": "1940",
   "iframes": [
     {
       "nombre": "Upload",
@@ -18,4 +18,5 @@
       "url": ""
     }
   ]
+
 }
