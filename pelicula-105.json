@@ -5,11 +5,12 @@
   "categoria": ["Terror","Suspenso","Fantasía"],
   "descripcion": "Frank Cotton tiene en su poder un enigmático cubo dotado de poderes extraordinarios. Según antiguas leyendas, es una especie de puerta a seres de otra dimensión que pueden proporcionar placeres sensuales inimaginables. Cotton convoca a estas criaturas, pero sólo le inflingirán tormentos y dolor hasta acabar con él. 20 años después, dos nuevos inquilinos se instalan en la antigua casa de Frank: su hermano y su esposa. La aparición del espíritu de Frank es el principio de una vorágine de horror en estado puro.",
   "duracion": "1h 30m",
-  "calidad": "720p",
+  "calidad": "HD",
   "idioma": "Latino",
   "estreno": "1987",
   "iframes": [
     { "nombre": "Upload", "url": "https://short.icu/0FVQ0O0Aa" },
     { "nombre": "Streawish", "url": "" }
   ]
+
 }
