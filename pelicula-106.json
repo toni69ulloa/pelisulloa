@@ -5,11 +5,12 @@
   "categoria": ["Acción","Animación","Fantasía"],
   "descripcion": "Eris, la diosa de la discordia, ha vuelto a la Tierra bajo la forma de una manzana de oro, tomando posesión del cuerpo de Erii Aizawa, una joven maestra del orfanato de la Fundación Graude. Capturando a Saori Kido, la reencarnación de Atena, Eris desafía a los Caballeros de bronce a enfrentar a su ejército de los Caballeros, los Guerreros Fantasma, para rescatar a Atena, antes de la puesta de sol . Primera película basada en el manga/anime Saint Seiya.",
   "duracion": "46m",
-  "calidad": "720p",
+  "calidad": "HD",
   "idioma": "Latino",
   "estreno": "1987",
   "iframes": [
     { "nombre": "Upload", "url": "https://short.icu/1LkNu2xzV" },
     { "nombre": "Streawish", "url": "" }
   ]
+
 }
