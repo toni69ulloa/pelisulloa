@@ -5,11 +5,12 @@
   "categoria": ["Acción","Animación","Fantasía"],
   "descripcion": "Febo Abel, dios del Sol y hermano de Atena, retorna a la Tierra y resucita a los Caballeros de Oro muertos en la batalla de las doce casas, a fin de llevarse a su hermana y extinguir a la humanidad, considerando que ha llegado a un estado decadente. No obstante, los Caballeros de Bronce, quienes aparentemente son abandonados por Saori, evitarán que Abel cumpla su propósito, por lo que deberán enfrentarse a los Caballeros de Oro y a los tres misteriosos Caballeros de la Corona. Tercera película basada en el manga/anime Saint Seiya.",
   "duracion": "1h 10m",
-  "calidad": "720p",
+  "calidad": "HD",
   "idioma": "Latino",
   "estreno": "1988",
   "iframes": [
     { "nombre": "Upload", "url": "https://short.icu/SBPInCRa7" },
     { "nombre": "Streawish", "url": "" }
   ]
+
 }
