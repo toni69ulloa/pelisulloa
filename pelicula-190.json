@@ -5,7 +5,7 @@
   "categoria": ["Terror","Suspenso"],
   "descripcion": "Chucky regresa para vengarse de Andy, el joven que lo derrotó, y que ahora es un adolescente que vive en una academia militar.",
   "duracion": "1h 30m",
-  "calidad": "720p",
+  "calidad": "HD",
   "idioma": "Latino",
   "estreno": "1991",
   "iframes": [
@@ -18,4 +18,5 @@
       "url": ""
     }
   ]
+
 }
