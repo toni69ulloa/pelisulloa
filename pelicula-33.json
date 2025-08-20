@@ -5,7 +5,7 @@
   "categoria": ["Acción","Ciencia ficción"],
   "descripcion": "Diez años después de una serie mundial de revoluciones de simios y una brutal guerra nuclear entre humanos, César debe proteger a los sobrevivientes de ambas especies de un insidioso culto humano y de una facción de simios militantes por igual.",
   "duracion": "1h 33m",
-  "calidad": "720p",
+  "calidad": "SD",
   "idioma": "Latino",
   "estreno": "1973",
   "iframes": [
@@ -15,4 +15,5 @@
       "url": ""
     }
   ]
+
 }
