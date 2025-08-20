@@ -5,7 +5,7 @@
     "categoria": ["Drama"],
     "descripcion": "Cuando el campeón mundial de boxeo de peso pesado, Apollo Creed quiere darle a un luchador desconocido una oportunidad por el título como un truco publicitario, sus manejadores eligen a Rocky Balboa, un coleccionista sin educación para un prestamista de Filadelfia. Rocky se une con el entrenador Mickey Goldmill para aprovechar al máximo esta vez en un descanso de por vida.",
     "duracion": "1h 59m",
-    "calidad": "720p",
+    "calidad": "HD",
     "idioma": "Latino",
     "estreno": "1976",
     "iframes": [
@@ -15,4 +15,5 @@
         "url": "" 
     }
   ]
+
 }
