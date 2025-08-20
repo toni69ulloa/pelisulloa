@@ -5,7 +5,7 @@
   "categoria": ["Terror"],
   "descripcion": "Deseosa de comenzar de nuevo, la desprevenida pareja de Anthony y Dolores Montelli, junto con sus cuatro hijos, se mudan a la casa de sus sueños en Amityville. Sin embargo, desde la primera noche, extrañas experiencias paranormales rompen la fantasía de los Montellis, mientras los espíritus inquietos de los muertos y los oscuros secretos del nuevo hogar abren el insondable portal negro del infierno. Ahora, el hijo mayor de la familia, Sonny, se ha convertido en el recipiente perfecto de destrucción, ya que las fuerzas demoníacas invisibles reclaman su alma. ¿Puede el padre Frank Adamsky limpiar la infernal Casa Amityville?",
   "duracion": "1h 44m",
-  "calidad": "720p",
+  "calidad": "mHD",
   "idioma": "Latino",
   "estreno": "1982",
   "iframes": [
@@ -15,4 +15,5 @@
       "url": "" 
     }
   ]
+
 }
