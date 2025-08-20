@@ -5,7 +5,7 @@
   "categoria": ["Suspenso","Terror"],
   "descripcion": "Un verano idílico se convierte en una pesadilla de terror indescriptible para otro grupo de consejeros ingenuos. Ignorando el legado sangriento del Campamento Crystal Lake, uno por uno son víctimas del Jason maniático que los acecha en cada vuelta.",
   "duracion": "1h 36m",
-  "calidad": "720p",
+  "calidad": "HD",
   "idioma": "Latino",
   "estreno": "1982",
   "iframes": [
@@ -15,4 +15,5 @@
       "url": "" 
     }
   ]
+
 }
