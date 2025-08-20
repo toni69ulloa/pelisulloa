@@ -297,16 +297,36 @@ footer {
   }
 }
 
+/* === BADGE DE CALIDAD === */
 .badge-calidad {
   display: inline-block;
-  padding: 4px 12px;            /* Espaciado interno */
-  margin-left: 8px;             /* Espacio respecto a "Calidad:" */
-  font-size: 13px;              /* Tamaño de texto */
-  font-weight: bold;            /* Negrita */
-  color: #0f5132;               /* Texto verde oscuro */
-  background-color: #d1e7dd;    /* Verde suave de fondo */
-  border: 1px solid #badbcc;    /* Borde verde claro */
-  border-radius: 6px;           /* Esquinas ligeramente redondeadas */
-  text-transform: uppercase;    /* Texto en mayúsculas */
+  padding: 3px 10px;
+  font-size: 13px;
+  font-weight: bold;
+  color: white;
+  border-radius: 6px;
+  margin-left: 6px;
+  text-transform: uppercase;
+  min-width: 40px;
+  text-align: center;
 }
+
+/* Colores por calidad */
+.badge-fhd {
+  background: #28a745; /* Verde */
+}
+
+.badge-hd {
+  background: #007bff; /* Azul */
+}
+
+.badge-sd {
+  background: #ffc107; /* Amarillo */
+  color: #222; /* Texto oscuro para mejor contraste */
+}
+
+.badge-mhd {
+  background: #6f42c1; /* Morado */
+}
+
 
