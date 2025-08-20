@@ -5,11 +5,12 @@
   "categoria": ["Acción","Animación","Fantasía"],
   "descripcion": "¡Gohan ha sido secuestrado! Para empeorar las cosas, el malvado Garlic Jr. está reuniendo las esferas del dragón para desear la inmortalidad. Sólo entonces Garlic Jr. será capaz de tomar el control de la Tierra con el fin de ganarse la venganza por la muerte de su padre. Goku se apresura a salvar a Gohan, pero llega a la fortaleza justo cuando Garlic Jr. convoca al Dragón Eterno. Krillin y Piccolo tratan de ayudar a Goku, pero sus poderes combinados.",
   "duracion": "44m",
-  "calidad": "720p",
+  "calidad": "HD",
   "idioma": "Latino",
   "estreno": "1989",
   "iframes": [
     { "nombre": "Upload", "url": "https://short.icu/RuukGMdQR" },
     { "nombre": "Streawish", "url": "" }
   ]
+
 }
