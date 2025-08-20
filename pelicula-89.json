@@ -5,7 +5,7 @@
     "categoria": ["Suspenso","Terror"],
     "descripcion": "Maníaco homicida Jason regresa de la tumba para causar más caos sangriento. El joven Tommy pudo haberse escapado de Crystal Lake, pero sigue acosado por los horrendos acontecimientos que ocurrieron allí. Cuando los asesinatos sangrientos comienzan a suceder en la casa aislada de la mitad de camino para los adolescentes con problemas en los que ahora vive, parece que su pesadilla nemesis, Jason, está de vuelta para matanzas más sádicos. Pero a medida que las cosas salen de control y el recuento de cuerpos aumenta, Tommy comienza a preguntarse si se ha convertido en el asesino que más teme.",
     "duracion": "1h 32m",
-    "calidad": "720p",
+    "calidad": "FHD",
     "idioma": "Latino",
     "estreno": "1985",
     "iframes": [
@@ -15,4 +15,5 @@
         "url": "" 
       }
     ]
+
   }
