@@ -5,7 +5,7 @@
   "categoria": ["Acción","Aventura","Suspenso"],
   "descripcion": "Charles Rane está considerado uno de los más peligrosos terroristas del mundo. Custodiado por agentes federales, Rane es trasladado a Los Angeles en avión para ser juzgado por los crímenes cometidos. A pesar de las medidas de seguridad, Rane consigue liberarse y se hace con el mando del avión, pero no cuenta con que en el mismo vuelo, sentado en el asiento número 57, viaja John Cutter, un especialista en lucha antiterrorista.",
   "duracion": "1h 24m",
-  "calidad": "720p",
+  "calidad": "SD",
   "idioma": "Latino",
   "estreno": "1992",
   "iframes": [
@@ -18,4 +18,5 @@
       "url": ""
     }
   ]
+
 }
