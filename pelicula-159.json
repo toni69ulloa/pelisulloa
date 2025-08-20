@@ -5,7 +5,7 @@
   "categoria": ["Acción","Animación","Ciencia ficción"],
   "descripcion": "Turles, otro Saiyajin que se salvó de la destrucción del planeta Vegeta, llega a la Tierra. Él siembra la semilla de un árbol sagrado que consume toda la vida del planeta para luego comerse sus frutos y obtener más poder. Goku y los Guerreros Z pelean ante Turles y sus hombres para poder impedir lo que planean.",
   "duracion": "1h",
-  "calidad": "720p",
+  "calidad": "HD",
   "idioma": "Latino",
   "estreno": "1990",
   "iframes": [
@@ -18,4 +18,5 @@
       "url": ""
     }
   ]
+
 }
