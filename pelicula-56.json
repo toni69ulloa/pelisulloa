@@ -5,7 +5,7 @@
     "categoria": ["Suspenso","Terror"],
     "descripcion": "Una familia se dirige a un hotel aislado durante el invierno donde una presencia siniestra influye en la violencia del padre, mientras que su hijo psíquico ve horribles presentimientos tanto del pasado como del futuro.",
     "duracion": "2h 24m",
-    "calidad": "720p",
+    "calidad": "HD",
     "idioma": "Latino",
     "estreno": "1980",
     "iframes": [
@@ -15,4 +15,5 @@
       "url": "" 
     }
   ]
+
 }
