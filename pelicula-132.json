@@ -5,11 +5,12 @@
   "categoria": ["Terror"],
   "descripcion": "Una madre soltera regala a su hijo un codiciado muñeco para su cumpleaños, solo para descubrir que está poseído por el alma de un asesino en serie.",
   "duracion": "1h 27m",
-  "calidad": "720p",
+  "calidad": "HD",
   "idioma": "Latino",
   "estreno": "1988",
   "iframes": [
     { "nombre": "Upload", "url": "https://short.icu/bT6KSDCj1" },
     { "nombre": "Streawish", "url": "" }
   ]
+
 }
