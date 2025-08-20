@@ -5,7 +5,7 @@
   "categoria": ["Comedia"],
   "descripcion": "Cantinflas es un torpe bombero, que un día recibe la visita de su pequeña ahijada, cuya madre murió recientemente en la selva. Después de haber trabajado en unos cuantos incendios, Cantinflas decidió dejar de fumar y convertirse en policía, porque es menos peligroso. Todo va bien hasta que una pandilla de gángsters secuestra a la chica, debido a una herencia monetaria.",
   "duracion": "1h 35m",
-  "calidad": "720p",
+  "calidad": "HD",
   "idioma": "Latino",
   "estreno": "1952",
   "iframes": [
@@ -18,4 +18,5 @@
       "url": ""
     }
   ]
+
 }
