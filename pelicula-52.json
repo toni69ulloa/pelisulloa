@@ -5,7 +5,7 @@
     "categoria": ["Drama","Fantasía","Romance"],
     "descripcion": "Tras una representación teatral, Richard Collier, el autor, recibe un regalo de una anciana. Pasados unos años, Richard cree reconocer en el retrato de una antigua actriz a la enigmática dama, ya fallecida. La belleza y el encanto de la fotografía le subyugan de tal forma que, utilizando la hipnosis, se traslada a 1912, conoce a la artista y mantiene con ella un romance.",
     "duracion": "1h 43m",
-    "calidad": "720p",
+    "calidad": "HD",
     "idioma": "Latino",
     "estreno": "1980",
     "iframes": [
@@ -15,4 +15,5 @@
         "url": "" 
     }
   ]
+
 }
