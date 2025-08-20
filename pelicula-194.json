@@ -5,7 +5,7 @@
   "categoria": ["Comedia","Familiar","Aventura"],
   "descripcion": "En plenas fiestas navideñas, el pequeño Kevin y su familia están a punto de coger un avión para disfrutar de unas pequeñas vacaciones, pero Kevin se equivoca y embarca en un avión que lo lleva a Nueva York, donde vuelve a encontrarse solo y desprotegido.",
   "duracion": "2h 1m",
-  "calidad": "720p",
+  "calidad": "FHD",
   "idioma": "Latino",
   "estreno": "1992",
   "iframes": [
@@ -18,4 +18,5 @@
       "url": ""
     }
   ]
+
 }
