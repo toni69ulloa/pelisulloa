@@ -5,7 +5,7 @@
   "categoria": ["Comedia"],
   "descripcion": "Un alegre barrendero, baila mientras recolecta basura, y las criadas del vecindario se ponen celosas porque invita a otra mujer.",
   "duracion": "1h 53m",
-  "calidad": "720p",
+  "calidad": "HD",
   "idioma": "Latino",
   "estreno": "1982",
   "iframes": [
@@ -15,4 +15,5 @@
       "url": "" 
     }
   ]
+
 }
