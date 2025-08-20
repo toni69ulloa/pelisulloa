@@ -5,7 +5,7 @@
   "categoria": ["Acción","Aventura","Bélica","Suspenso"],
   "descripcion": "Cuando John Rambo, el ex Bere Verde, es acosado por la policía local y arrestado por vagancia, el veterano de Vietnam escapa de la policía y corre por las colinas, donde se desarrolla una guerra ente Rambo y la policía de ese pueblo. Acosado por un incansable sheriff, Rambo emplea tácticas de guerrilla duras para sacudir a los policías.",
   "duracion": "1h 33m",
-  "calidad": "720p",
+  "calidad": "HD",
   "idioma": "Latino",
   "estreno": "1982",
   "iframes": [
@@ -15,4 +15,5 @@
       "url": ""
     }
   ]
+
 }
