@@ -5,7 +5,7 @@
   "categoria": ["Acción","Aventura","Suspenso"],
   "descripcion": "La organización secreta Spectra se propone infiltrar en la base inglesa de la OTAN a un impostor llamado Angelo, para apoderarse de un bombardero Vulcan Vindicator equipado con dos bombas nucleares. Cuando logra su propósito, Spectra amenaza con destruir una ciudad de EE.UU. o Inglaterra si no le dan cien millones de libras esterlinas. El caso es asignado al agente 007, que en las Islas Bahamas conoce a Dominó, la atractiva amante del misterioso Emilio Largo, que aparenta ser un ocioso millonario pero que en realidad es el número dos de Spectra. Mientras intenta localizar el avión secuestrado, James Bond debe enfrentarse con Fiona Volpe, la cabecilla de los asesinos, y con los secuaces de Emilio Largo.",
   "duracion": "2h 9m",
-  "calidad": "720p",
+  "calidad": "HD",
   "idioma": "Latino",
   "estreno": "1966",
   "iframes": [
@@ -15,4 +15,5 @@
       "url": "" 
     }
   ]
+
 }
