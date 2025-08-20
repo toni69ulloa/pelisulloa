@@ -5,7 +5,7 @@
   "categoria": ["Acción","Aventura","Suspenso"],
   "descripcion": "Un submarino nuclear, al mando de un prestigioso general de la Unión Soviética, se interna en el Océano Atlántico con rumbo a los Estados Unidos. La CIA, que ignora si pretende atacarles o desertar de su país, encarga al agente Jack Ryan que se ponga en contacto con él para saber sus verdaderas intenciones. Fue la primera entrega de una saga sobre las aventuras de Jack Ryan, el brillante analista y agente de la inteligencia americana creado por Tom Clancy.",
   "duracion": "2h 15m",
-  "calidad": "720p",
+  "calidad": "FHD",
   "idioma": "Latino",
   "estreno": "1990",
   "iframes": [
@@ -18,4 +18,5 @@
       "url": ""
     }
   ]
+
 }
