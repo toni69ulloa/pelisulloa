@@ -5,7 +5,7 @@
   "categoria": ["Comedia"],
   "descripcion": "Louis Winthorpe III, un ejecutivo de clase alta, y Billy Ray Valentine, un estafador, son objeto de apuestas de Mortimer y Randolph Duke. Un empleado de los Duke, Winthorpe es incriminado por un delito que no cometió. Los hermanos ponen a Valentine en su lugar. Cuando Winthorpe y Valentine revelan el plan, ponen manos a la obra para vengarse de los Duke.",
   "duracion": "1h 57m",
-  "calidad": "720p",
+  "calidad": "HD",
   "idioma": "Latino",
   "estreno": "1983",
   "iframes": [
@@ -15,4 +15,5 @@
       "url": "" 
     }
   ]
+
 }
