@@ -5,7 +5,7 @@
   "categoria": ["Acción","Comedia"],
   "descripcion": "Tutti Bomoski, una encantadora y simpática mujer de New Jersey, está convencida de saber qué es lo mejor para su único hijo, tanto a nivel personal como profesional. Su hijo es el sargento de policía de Los Ángeles Joe Bomowski, un solterón acomodado a su estilo de vida independiente y algo descuidado, a tres mil millas de su madre. Cuando Tutti, durante una inoportuna visita, se convierte en testigo de un crimen, se verá involucrada también en una peligrosa investigación policial... y Joe, de mala gana, tendrá una nueva compañera.",
   "duracion": "1h 27m",
-  "calidad": "720p",
+  "calidad": "SD",
   "idioma": "Latino",
   "estreno": "1992",
   "iframes": [
@@ -18,4 +18,5 @@
       "url": ""
     }
   ]
+
 }
