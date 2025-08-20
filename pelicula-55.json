@@ -5,7 +5,7 @@
     "categoria": ["Terror"],
     "descripcion": "Un grupo de orientadores de campamentos que intentan reabrir un campamento de verano llamado Crystal Lake, que tiene un pasado sombrío, son acechados por un misterioso asesino.",
     "duracion": "1h 35m",
-    "calidad": "720p",
+    "calidad": "HD",
     "idioma": "Latino",
     "estreno": "1980",
     "iframes": [
@@ -15,4 +15,5 @@
         "url": "" 
     }
   ]
+
 }
