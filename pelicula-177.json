@@ -5,7 +5,7 @@
   "categoria": ["Acción","Suspenso"],
   "descripcion": "Es Navidad. El teniente John McLane, de la policía de Los Ángeles, espera en el aeropuerto de Dulles, Washington, la llegada de su esposa. Mientras tanto, el coronel Stuart, un militar que ha sido expulsado del Congreso, organiza cerca de este aeropuerto con otros mercenarios profesionales una base de operaciones para liberar a un dictador sudamericano derrocado, al que se considera el mayor traficante del mundo.",
   "duracion": "2h 4m",
-  "calidad": "720p",
+  "calidad": "HD",
   "idioma": "Latino",
   "estreno": "1990",
   "iframes": [
@@ -18,4 +18,5 @@
       "url": ""
     }
   ]
+
 }
