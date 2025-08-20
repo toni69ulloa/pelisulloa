@@ -5,7 +5,7 @@
   "categoria": ["Acción","Aventura","Suspenso"],
   "descripcion": "En tan sólo veinticuatro horas, tres agentes del servicio secreto británico que investigaban una red de tráfico de drogas aparecen asesinados en extrañas circunstancias. Todas las pistas conducen a Mister Big y a un diplomático llamado Katanga. El agente 007, James Bond, es enviado a Nueva York para investigar al enigmático personaje.",
   "duracion": "1h 59m",
-  "calidad": "720p",
+  "calidad": "SD",
   "idioma": "Latino",
   "estreno": "1973",
   "iframes": [
@@ -15,4 +15,5 @@
       "url": "" 
     }
   ]
+
 }
