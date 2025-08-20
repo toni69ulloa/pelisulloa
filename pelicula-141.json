@@ -5,7 +5,7 @@
   "categoria": ["Terror","Suspenso"],
   "descripcion": "La gran manzana está en grandes problemas, como indestructible psico fiend Jason Vorhees llega a la carretera a la ciudad de Nueva York. Después de un sorprendente regreso de más allá de la tumba, el diabólico Jason envía un barco de amor lleno de adolescentes con destino a Nueva York, que pronto transformará en el último viaje de los condenados. Entonces una de sus víctimas aterrorizadas se escapa en el laberinto de pesadilla de los subterráneos y alcantarillas de Manhattan, sólo para confrontar a Jason una última vez.",
   "duracion": "1h 40m",
-  "calidad": "720p",
+  "calidad": "FHD",
   "idioma": "Latino",
   "estreno": "1989",
   "iframes": [
@@ -18,4 +18,5 @@
       "url": ""
     }
   ]
+
 }
