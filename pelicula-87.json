@@ -5,7 +5,7 @@
     "categoria": ["Ciencia ficción","Suspenso"],
     "descripcion": "Nueve años después de que la USS Discovery se perdiese en el espacio, una expedición conjunta de los Estados Unidos y la Unión Soviética es enviada a Júpiter para reactivar el ordenador Hal 9000, que dirigía la nave accidentada, y para averiguar qué problema frustró la expedición del Discovery. Cuando llegan a su destino encuentran el gran monolito negro que la primera expedición pretendía investigar.",
     "duracion": "1h 56m",
-    "calidad": "720p",
+    "calidad": "HD",
     "idioma": "Latino",
     "estreno": "1984",
     "iframes": [
@@ -15,4 +15,5 @@
         "url": "" 
       }
     ]
+
   }
