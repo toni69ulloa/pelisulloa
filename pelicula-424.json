@@ -1,0 +1,21 @@
+{
+  "id": 424,
+  "titulo": "Río Místico",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bhnVEC1tMFgR3dLZwyyW6xiBwBr.jpg",
+  "categoria": ["Suspenso","Crimen","Drama","Misterio"],
+  "descripcion": "Las vidas de tres hombres que eran amigos de la infancia se ven destrozadas cuando uno de ellos sufre una tragedia familiar.",
+  "duracion": "2h 18m",
+  "calidad": "HD",
+  "idioma": "Latino",
+  "estreno": "2003",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/ORnUEeHUS"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

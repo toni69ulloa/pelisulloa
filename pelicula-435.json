@@ -1,0 +1,21 @@
+{
+  "id": 435,
+  "titulo": "Hulk",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/scLV1AO6TLi45N7AJanjYR48i78.jpg",
+  "categoria": ["Acción","Aventura","Ciencia ficción"],
+  "descripcion": "Bruce Banner (Eric Bana), un brillante investigador en el campo de la tecnología genética, oculta un pasado doloroso que lo ha dejado estigmatizado. Su antigua novia, la investigadora Betty Ross (Jennifer Connelly), que perdió la paciencia esperando que recuperara la estabilidad emocional, fue testigo de un grave accidente sufrido por Banner en el laboratorio: debido a una explosión el cuerpo del científico absorbió una dosis letal de rayos gamma; desde entonces, Banner empezó a sentir en su interior la presencia de un ente peligroso y, a la vez, oscuramente atractivo. Mientras tanto, Hulk, una criatura salvaje y prodigiosamente fuerte aparece esporádicamente, dejando tras de sí una estela de destrucción.",
+  "duracion": "2h 18m",
+  "calidad": "HD",
+  "idioma": "Latino",
+  "estreno": "2003",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/1iFvUb7KV"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

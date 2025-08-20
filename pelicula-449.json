@@ -1,0 +1,21 @@
+{
+  "id": 449,
+  "titulo": "Freddy contra Jason",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uBXEcdi5gV0VjMxZ8EUwQnvQHbs.jpg",
+  "categoria": ["Terror"],
+  "descripcion": "El malvado demonio Freddy Krueger planea un plan para manipular al imparable Jason Vorhees para que piratee a los adolescentes de Elm Street en un esfuerzo por hacer que la gente recuerde el nombre de Freddy Krueger, liberándolo así del limbo.",
+  "duracion": "1h 37m",
+  "calidad": "HD",
+  "idioma": "Latino",
+  "estreno": "2003",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/vUjvMaw71"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

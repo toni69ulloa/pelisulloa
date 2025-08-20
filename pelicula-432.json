@@ -1,0 +1,21 @@
+{
+  "id": 432,
+  "titulo": "La mansion embrujada",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bQSWZgn65ZeWXiRJqSKkVuHbEK3.jpg",
+  "categoria": ["Suspenso","Fantasía","Comedia","Familiar","Misterio"],
+  "descripcion": "Jim Evers (Eddie Murphy), un agente inmobiliario adicto al trabajo, arrastra a su familia a la enorme y espantosa mansión Gracey con la intención de reconstruirla. Pero nada más llegar, se presentan ante la familia 999 macabros y burlones fantasmas que no están dispuestos a marcharse mientras no se terminen las obras. Jim se verá obligado a conjurar el maleficio y, al mismo tiempo, descubrirá cuánto le necesita su familia.",
+  "duracion": "1h 39m",
+  "calidad": "HD",
+  "idioma": "Latino",
+  "estreno": "2003",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/LibLRsN-e"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

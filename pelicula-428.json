@@ -1,0 +1,21 @@
+{
+  "id": 428,
+  "titulo": "Más rápido, más furioso",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fZtSG5a6i5Ca39WQylLVmvWI5b.jpg",
+  "categoria": ["Acción","Crimen","Suspenso"],
+  "descripcion": "El expolicía Brian O'Conner es llamado a atrapar a un peligroso criminal y recluta la ayuda de un examigo de la infancia y corredor callejero que tiene la oportunidad de redimirse.",
+  "duracion": "1h 47m",
+  "calidad": "HD",
+  "idioma": "Latino",
+  "estreno": "2003",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/4u3DHSlph"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

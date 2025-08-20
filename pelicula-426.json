@@ -1,0 +1,21 @@
+{
+  "id": 426,
+  "titulo": "Matrix recargado",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ayZkaN2f3ASjWW8ooCfuJT3T8Va.jpg",
+  "categoria": ["Acción","aventura","Suspenso","Ciencia ficción"],
+  "descripcion": "Neo y sus aliados corren contra el tiempo antes de que las máquinas descubran la ciudad de Zion y la destruyan. Mientras busca la verdad sobre la Matrix, Neo debe salvar a Trinity de un oscuro destino.",
+  "duracion": "2h 18m",
+  "calidad": "HD",
+  "idioma": "Latino",
+  "estreno": "2003",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/Qt3oYLd33"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

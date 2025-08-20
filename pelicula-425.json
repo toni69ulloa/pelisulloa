@@ -1,0 +1,21 @@
+{
+  "id": 425,
+  "titulo": "Peter Pan: La gran aventura",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xtJoP8pppOqT4rECg3E8VkvFkCj.jpg",
+  "categoria": ["aventura","Fantasía","Familiar"],
+  "descripcion": "Adaptación de la historia de J. M. Barrie acerca de un niño que nunca creció. Los tres niños de la familia Darling reciben una visita de Peter Pan, quien los lleva a la Tierra de Nunca Jamás, donde una guerra continua entre la pandilla de Peter y los Niños Perdidos y el malvado pirata Capitán Garfio está teniendo lugar.",
+  "duracion": "1h 53m",
+  "calidad": "FHD",
+  "idioma": "Latino",
+  "estreno": "2003",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/cQOMYvF6J"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

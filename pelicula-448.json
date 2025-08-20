@@ -1,0 +1,21 @@
+{
+  "id": 448,
+  "titulo": "X-Men 2",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bnZUa8bCq2uz56Jv6Clpcjtvw0V.jpg",
+  "categoria": ["Acción","Aventura","Ciencia ficción"],
+  "descripcion": "Cuando el coronel antimutante William Stryker secuestra al profesor X y ataca su escuela, los X-Men deben aliarse con su archienemigo Magneto para detenerlo.",
+  "duracion": "2h 14m",
+  "calidad": "HD",
+  "idioma": "Latino",
+  "estreno": "2003",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/ShBEoLcuC"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}
