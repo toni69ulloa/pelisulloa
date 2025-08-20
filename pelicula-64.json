@@ -5,7 +5,7 @@
   "categoria": ["Ciencia ficción","Terror"],
   "descripcion": "En realidad no es una continuación de las andanzas del siniestro Michael Myers, pues de los films anteriores sólo toma prestado el título. Aquí, una pesadillas se vuelven realidad cuando un maníaco y propietario de una tienda de juguetes, Conal Cochran, empieza a fabricar unas máscaras que convierten las almas y los cuerpos de los niños en seres diabólicos.",
   "duracion": "1h 39m",
-  "calidad": "720p",
+  "calidad": "HD",
   "idioma": "Latino",
   "estreno": "1982",
   "iframes": [
@@ -15,4 +15,5 @@
       "url": "" 
     }
   ]
+
 }
