@@ -5,11 +5,12 @@
   "categoria": ["Fantasía","Comedia"],
   "descripcion": "Una pareja de fantasmas contratan a un bio-exorcista a sueldo para asustar a los intrusos que usurparon su hogar en Nueva Inglaterra.",
   "duracion": "1h 32m",
-  "calidad": "720p",
+  "calidad": "FHD",
   "idioma": "Latino",
   "estreno": "1988",
   "iframes": [
     { "nombre": "Upload", "url": "https://short.icu/vxawft92d" },
     { "nombre": "Streawish", "url": "" }
   ]
+
 }
