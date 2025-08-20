@@ -5,7 +5,7 @@
   "categoria": ["Acción","Comedia","Crimen"],
   "descripcion": "Cuando un par de asesinos sin escrúpulos consigue huir de prisión, dejando tras de sí un horrible reguero de crímenes, al malhumorado detective Jack Cates no le queda otra opción que sacar al timador Reggie Hammond de la penitenciaría para que le ayude a encontrar a los criminales. Sin embargo sólo dispondrán de 48 horas antes de que Hammond deba regresar a la cárcel.",
   "duracion": "1h 36m",
-  "calidad": "",
+  "calidad": "SD",
   "idioma": "Latino",
   "estreno": "1982",
   "iframes": [
@@ -15,4 +15,5 @@
       "url": "" 
     }
   ]
+
 }
