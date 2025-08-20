@@ -5,7 +5,7 @@
   "categoria": ["Comedia"],
   "descripcion": "Cantinflas es un privado, que no sabe nada acerca de la disciplina o seguir las reglas. Sólo quiere pensar en su novia, la sirvienta en una hacienda opulenta. El propietario tiene una hija fea y tímida, que está enamorada de Cantinflas. Los problemas llegan cuando la familia organiza una boda entre la niña fea y Cantinflas, quien para evitar el compromiso se hace detener. Durante el castigo, Cantinflas aprenderá a volar con un instructor tonto y no muy entrenado.",
   "duracion": "1h 53m",
-  "calidad": "720p",
+  "calidad": "SD",
   "idioma": "Latino",
   "estreno": "1947",
   "iframes": [
@@ -18,4 +18,5 @@
       "url": ""
     }
   ]
+
 }
