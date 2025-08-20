@@ -5,7 +5,7 @@
     "categoria": ["Drama","Ciencia ficción"],
     "descripcion": "Una noche, cerca de su casa, en Indiana, Roy Neary observa en el cielo unos misteriosos objetos voladores. Desde entonces vive tan obsesionado por comprender lo que ha visto que se distancia de su esposa. Encuentra apoyo en Jillian Guiler, una mujer que también ha sido testigo de los mismos hechos. Juntos intentan encontrar una respuesta al misterio que ha alterado sus vidas.",
     "duracion": "2h 17m",
-    "calidad": "720p",
+    "calidad": "mHD",
     "idioma": "Latino",
     "estreno": "1978",
     "iframes": [
@@ -15,4 +15,5 @@
         "url": "" 
     }
   ]
+
 }
