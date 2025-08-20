@@ -5,7 +5,7 @@
   "categoria": ["Acción","Aventura","Suspenso"],
   "descripcion": "Dos naves espaciales, una norteamericana y otra rusa, han sido secuestradas en la órbita terrestre. Sólo la intervención del Agente 007 podrá evitar una guerra nuclear entre las dos superpotencias. Su misión consistirá en viajar hasta Japón y desenmascarar a la peligrosa organización Spectra y a su diabólico líder, Ernest Stavro Blofeld.",
   "duracion": "1h 57m",
-  "calidad": "720p",
+  "calidad": "SD",
   "idioma": "Latino",
   "estreno": "1968",
   "iframes": [
@@ -15,4 +15,5 @@
       "url": "" 
     }
   ]
+
 }
