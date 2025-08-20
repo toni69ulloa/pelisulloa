@@ -5,7 +5,7 @@
     "categoria": ["Comedia","Terror"],
     "descripcion": "Charley Brewster, un estudiante de secundaria, descubre accidentalmente la verdadera y espeluznante naturaleza de Jerry Dandrige, su elegante y enigmático nuevo vecino; pero nadie parece dispuesto a creerle.",
     "duracion": "1h 46m",
-    "calidad": "720p",
+    "calidad": "HD",
     "idioma": "Latino",
     "estreno": "1985",
     "iframes": [
@@ -15,4 +15,5 @@
         "url": "" 
       }
     ]
+
   }
