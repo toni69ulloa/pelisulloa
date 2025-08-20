@@ -5,11 +5,12 @@
   "categoria": ["Aventura","Comedia","Ciencia ficción"],
   "descripcion": "Aunque a Marty McFly todavía le falta tiempo para asimilar el hecho de estar viviendo dentro de la familia perfecta gracias a su anterior viaje en el tiempo, no le queda ni espacio para respirar cuando su amigo Doc aparece de improviso con la máquina del tiempo (mucho más modernizada), e insta a que le acompañen él y su novia a viajar al futuro para solucionar un problema con la ley que tendrá uno de sus futuros hijos.",
   "duracion": "1h 48m",
-  "calidad": "720p",
+  "calidad": "FHD",
   "idioma": "Latino",
   "estreno": "1989",
   "iframes": [
     { "nombre": "Upload", "url": "https://short.icu/W86hDGQWb" },
     { "nombre": "Streawish", "url": "" }
   ]
+
 }
