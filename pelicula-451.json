@@ -1,0 +1,21 @@
+{
+  "id": 451,
+  "titulo": "Scary Movie 3",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7tMsPb5yEwmb4eHbXRAD6mURE5B.jpg",
+  "categoria": ["Comedia"],
+  "descripcion": "La presentadora de noticias Cindy Campbell tiene que investigar misteriosos círculos de cultivos y matar cintas de video, y ayudar al presidente a detener una invasión alienígena en el proceso.",
+  "duracion": "1h 25m",
+  "calidad": "HD",
+  "idioma": "Latino",
+  "estreno": "2003",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/R5SZB9LeD"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}
