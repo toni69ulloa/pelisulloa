@@ -313,7 +313,8 @@ footer {
 
 /* Colores por calidad */
 .badge-fhd {
-  background: #28a745; /* Verde */
+  background: #d1e7dd; /* Verde */
+  color: #0f5132;
 }
 
 .badge-hd {
@@ -328,5 +329,6 @@ footer {
 .badge-mhd {
   background: #6f42c1; /* Morado */
 }
+
 
 
