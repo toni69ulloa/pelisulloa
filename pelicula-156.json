@@ -5,7 +5,7 @@
   "categoria": ["Acción","Animación","Fantasía","Drama","Ciencia ficción"],
   "descripcion": "Episodio especial, 8 años antes de Dragon Ball, en donde un Saiyajin llamado Bardock quién resulta ser el padre de Goku intentará combatir a Freezer para evitar que este destruya a los Saiyajins y al Planeta Vegeta.",
   "duracion": "45m",
-  "calidad": "720p",
+  "calidad": "FHD",
   "idioma": "Latino",
   "estreno": "1990",
   "iframes": [
@@ -18,4 +18,5 @@
       "url": ""
     }
   ]
+
 }
