@@ -5,7 +5,7 @@
     "categoria": ["Suspenso","Terror"],
     "descripcion": "El psicópata Michael Myers sigue vivo y vuelve a ponerse en acción. Ahora se dirige a un pequeño hospital donde se encuentra Laurie Strode, la única víctima que logró sobrevivir a su primer ataque. Mientras tanto, el doctor Loomis sigue buscando a su sanguinario paciente.",
     "duracion": "1h 32m",
-    "calidad": "720p",
+    "calidad": "HD",
     "idioma": "Latino",
     "estreno": "1981",
     "iframes": [
@@ -15,4 +15,5 @@
         "url": "" 
     }
   ]
+
 }
