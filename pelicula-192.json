@@ -5,7 +5,7 @@
   "categoria": ["Aventura","Comedia","Familiar","Ciencia ficción"],
   "descripcion": "Una vez devuelto el tamaño normal a sus hijos, el despistado científico Wayne Szalinski reanuda sus investigaciones, pero en el sentido inverso: experimenta con un rayo capaz de aumentar el tamaño de las moléculas. Pero, de nuevo el pequeño Adam, un niño que tan sólo pretende jugar, interfiere catastróficamente en su trabajo.",
   "duracion": "1h 29m",
-  "calidad": "720p",
+  "calidad": "HD",
   "idioma": "Latino",
   "estreno": "1992",
   "iframes": [
@@ -18,4 +18,5 @@
       "url": ""
     }
   ]
+
 }
