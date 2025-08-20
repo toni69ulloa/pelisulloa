@@ -32,7 +32,7 @@ fetch(`pelicula-${id}.json`)
           <h2>${peli.titulo}</h2>
           <p>${peli.descripcion}</p><br>
           <p><strong>Duración:</strong> ${peli.duracion}</p><br>
-          <p><strong>Calidad:</strong> ${peli.calidad}</p><br>
+          <p><strong>Calidad:</strong><span class="badge-calidad">${peli.calidad}</span></p>
           <p><strong>Idioma:</strong> ${peli.idioma} ${bandera}</p><br>
           <p><strong>Estreno:</strong> ${peli.estreno}</p>
         </div>
@@ -55,3 +55,4 @@ function cambiarReproductor(url, boton) {
   document.querySelectorAll(".botones-reproductores button").forEach(b => b.classList.remove("activo"));
   boton.classList.add("activo");
 }
+
