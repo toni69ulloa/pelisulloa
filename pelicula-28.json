@@ -5,7 +5,7 @@
   "categoria": ["Acción","Ciencia ficción"],
   "descripcion": "El mundo está conmocionado por la aparición de tres chimpancés parlantes que llegaron misteriosamente en una nave espacial estadounidense. Se convierten en el brindis de la sociedad, pero un hombre cree que son una amenaza para la raza humana.",
   "duracion": "1h 38m",
-  "calidad": "720p",
+  "calidad": "SD",
   "idioma": "Latino",
   "estreno": "1971",
   "iframes": [
@@ -15,4 +15,5 @@
       "url": "" 
     }
   ]
+
 }
