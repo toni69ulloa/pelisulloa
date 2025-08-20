@@ -5,7 +5,7 @@
   "categoria": ["Acción","Comedia","Suspenso","Crimen"],
   "descripcion": "Martin Riggs y Roger Murtaugh, la inigualable pareja de policías de Los Ángeles, se enfrentan a un difícil caso: armas confiscadas y a punto de ser destruidas han desaparecido de las dependencias policiales y están llegando a manos de los delincuentes más peligrosos de la ciudad.",
   "duracion": "1h 58m",
-  "calidad": "720p",
+  "calidad": "HD",
   "idioma": "Latino",
   "estreno": "1992",
   "iframes": [
@@ -18,4 +18,5 @@
       "url": ""
     }
   ]
+
 }
