@@ -5,7 +5,7 @@
   "categoria": ["Acción","Aventura","Ciencia ficción","Suspenso"],
   "descripcion": "La victoria del almirante Kirk sobre Khan y la creación del planeta Génesis son triunfos inútiles. Spock ha muerto y McCoy, inexplicablemente, se ha vuelto loco. Una visita de Sarek, el padre de Spock, revela algo sobrecogedor: McCoy está albergando en su cuerpo la esencia vital de Spock. Kirk trata de ayudar a sus amigos, secuestra el Enterprise y desafía la cuarentena impuesta por la Flota Estelar en Génesis. Pero los Klingon también descubren la existencia de Génesis y van al encuentro de Kirk en una cita que podría ser mortal.",
   "duracion": "1h 41m",
-  "calidad": "720p",
+  "calidad": "HD",
   "idioma": "Latino",
   "estreno": "1984",
   "iframes": [
@@ -15,4 +15,5 @@
       "url": "" 
     }
   ]
+
 }
