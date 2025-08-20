@@ -300,7 +300,7 @@ footer {
 /* === BADGE DE CALIDAD === */
 .badge-calidad {
   display: inline-block;
-  padding: 3px 10px;
+  padding: 3px 3px;
   font-size: 13px;
   font-weight: bold;
   color: white;
@@ -313,22 +313,25 @@ footer {
 
 /* Colores por calidad */
 .badge-fhd {
-  background: #d1e7dd; /* Verde */
-  color: #0f5132;
+  background: #dcfce7; /* Verde */
+  color: #016630;
+  border: 1px solid #05df72;
 }
 
 .badge-hd {
-  background: #007bff; /* Azul */
+  background: #8ec5ff; /* Azul */
+  color: #1447e6;
+  border: 1px solid #51a2ff;
 }
 
 .badge-sd {
-  background: #ffc107; /* Amarillo */
-  color: #222; /* Texto oscuro para mejor contraste */
+  background: #000; /* Negro */
+  color: #ffffff; /* Texto oscuro para mejor contraste */
+  border: 1px solid #ffffff;
 }
 
 .badge-mhd {
-  background: #6f42c1; /* Morado */
+  background: #fef9c2; /* Amarillo */
+  color: #894b00;
+  border: 1px solid #ffdf20;
 }
-
-
-
