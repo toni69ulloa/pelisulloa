@@ -1,0 +1,21 @@
+{
+  "id": 395,
+  "titulo": "El rey escorpión",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aKuouKg9pHiWe1Nu1YsEREBdGsM.jpg",
+  "categoria": ["Acción","Aventura","Fantasía","Drama"],
+  "descripcion": "Un guerrero del desierto se levanta contra el malvado ejército que está destruyendo su patria. Captura a la hechicera clave del enemigo, la lleva a las profundidades del desierto y se prepara para un enfrentamiento final.",
+  "duracion": "1h 28m",
+  "calidad": "HD",
+  "idioma": "Latino",
+  "estreno": "2002",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/Emiuqh2Gx"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

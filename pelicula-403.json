@@ -1,0 +1,21 @@
+{
+  "id": 403,
+  "titulo": "Scooby-Doo",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vX6NAkWHicHDgGYa192Kt47dPWI.jpg",
+  "categoria": ["Misterio","Aventura","Comedia"],
+  "descripcion": "Después de una agria ruptura, la pandilla de Misterio a la Orden es llevada de forma individual a una isla para investigar extraños sucesos.",
+  "duracion": "1h 27m",
+  "calidad": "HD",
+  "idioma": "Latino",
+  "estreno": "2002",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/A-rUpRmx8"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

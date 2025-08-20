@@ -1,0 +1,21 @@
+{
+  "id": 397,
+  "titulo": "Lilo y Stitch",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9jrmKyhNGam2pj89bcxmhQzXCNo.jpg",
+  "categoria": ["Animación","Familiar","Comedia"],
+  "descripcion": "Una chica joven y sin padres adopta un «perro» de la perrera local, sin saber que supuestamente es un peligroso experimento científico que se ha refugiado en la Tierra y que ahora se esconde de su creador y de quienes lo ven como una amenaza.",
+  "duracion": "1h 25m",
+  "calidad": "FHD",
+  "idioma": "Latino",
+  "estreno": "2002",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/__HFaARGF"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

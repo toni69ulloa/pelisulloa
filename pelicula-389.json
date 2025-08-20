@@ -1,0 +1,21 @@
+{
+  "id": 389,
+  "titulo": "La era de hielo",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9rpdhn7p7mDZW2rUXsINf9c6sR5.jpg",
+  "categoria": ["Animación","Comedia","Familiar","Aventura"],
+  "descripcion": "La historia gira en torno a unos héroes bajo cero: un mamut lanudo, un tigre de dientes de sable, un perezoso y una combinación prehistórica de ardilla y rata, conocida como Scrat.",
+  "duracion": "1h 21m",
+  "calidad": "FHD",
+  "idioma": "Latino",
+  "estreno": "2002",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/10rtJSnWG"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

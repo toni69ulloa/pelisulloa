@@ -1,0 +1,21 @@
+{
+  "id": 413,
+  "titulo": "Dragón Rojo",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y6wmFX2hY3GS1rWpCwh5MnsMzLa.jpg",
+  "categoria": ["Crimen","Suspenso","Terror"],
+  "descripcion": "Un investigador del FBI especializado en analizar la mente y el comportamiento de los asesinos en serie se ve obligado a recurrir a Hannibal Lecter, a quien mandó a la cárcel, para que le ayude en el caso de un asesino de familias, cuyo patrón de conducta le resulta imposible desentrañar.",
+  "duracion": "2h 6m",
+  "calidad": "HD",
+  "idioma": "Latino",
+  "estreno": "2002",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/k06ICVRRm"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

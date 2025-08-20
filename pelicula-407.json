@@ -1,0 +1,21 @@
+{
+  "id": 407,
+  "titulo": "Resident Evil: El Huésped Maldito",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nlAi9cw2uLZ9hHwhzCMOG6TZMHc.jpg",
+  "categoria": ["Acción","Ciencia ficción","Terror"],
+  "descripcion": "Una unidad militar especial lucha contra una poderosa supercomputadora fuera de control y contra cientos de científicos que han mutado en criaturas carnívoras después de un accidente de laboratorio.",
+  "duracion": "1h 41m",
+  "calidad": "SD",
+  "idioma": "Latino",
+  "estreno": "2002",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/qOc6l6wGD"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 404,
+  "titulo": "La barbería",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ykItJVBuFgGD1e4E5hSmhu5vKBg.jpg",
+  "categoria": ["Comedia","Drama"],
+  "descripcion": "Calvin ha heredado el negocio de su padre, y lo considera una carga y una absoluta perdida de tiempo. Tras vender la tienda a un usurero, Calvin comienza a valorar el legado de su padre y se da cuenta de que ha cometido el mayor error de su vida. La Barbería envuelve a un grupo de personajes eclécticos y divertidos que comparten sus historias, chistes y aflicciones. Encontramos a Eddie, un viejo barbero con una fuerte personalidad y ningún cliente. Jimmy, con un alto nivel de educación y un gran complejo de superioridad que no le permite soportar a Isaac, el nuevo barbero de raza blanca cuya única obsesión es que le den la oportunidad de cortar el pelo a alguien. Ricky es un ex-convicto con dos condenas a su espalda que intenta desesperadamente rehacer su vida de forma correcta. Terry es una mujer que a pesar de sus esfuerzos es incapaz de abandonar a su novio infiel.",
+  "duracion": "1h 42m",
+  "calidad": "HD",
+  "idioma": "Latino",
+  "estreno": "2002",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/7gOD9spat"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

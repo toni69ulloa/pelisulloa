@@ -1,0 +1,21 @@
+{
+  "id": 414,
+  "titulo": "El aro",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4TPPSB8OAtgYo9EdFzr7tsTsLDB.jpg",
+  "categoria": ["Terror","Misterio"],
+  "descripcion": "Parecía simplemente otra leyenda urbana: una cinta de video llena de imágenes de pesadilla, que dio lugar a una llamada telefónica que predecía la muerte del espectador en exactamente siete días. Como reportera de un periódico, Rachel Keller era escéptica por naturaleza de la historia, hasta que cuatro adolescentes se encontraron con muertes misteriosas exactamente una semana después de ver una cinta de este tipo.",
+  "duracion": "1h 55m",
+  "calidad": "HD",
+  "idioma": "Latino",
+  "estreno": "2002",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/_vL19DIGE"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

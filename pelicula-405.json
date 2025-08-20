@@ -1,0 +1,21 @@
+{
+  "id": 405,
+  "titulo": "El hombre araña",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bCDaKZLRkrVVtPNyHxUfKvepW1N.jpg",
+  "categoria": ["Acción","Ciencia ficción"],
+  "descripcion": "Cuando es mordido por una araña genéticamente modificada, un estudiante de secundaria nerd, tímido y torpe, adquiere habilidades parecidas a las de una araña que eventualmente debe usar para luchar contra el mal como un superhéroe después de que la tragedia cae sobre su familia.",
+  "duracion": "2h 1m",
+  "calidad": "FHD",
+  "idioma": "Latino",
+  "estreno": "2002",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/F69pNZfw-"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

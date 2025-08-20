@@ -1,0 +1,21 @@
+{
+  "id": 409,
+  "titulo": "Star Wars: Episodio II: El Ataque de los Clones",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pwwBIUqVSWrCBuUAvbaNdf7VajF.jpg",
+  "categoria": ["Acción","Aventura","Ciencia ficción"],
+  "descripcion": "Diez años después de la invasión de Naboo, la galaxia está al borde de la guerra civil. Bajo el liderazgo de un Jedi renegado llamado Conde Dooku, miles de sistemas solares amenazan con separarse de la República Galáctica. Cuando se realiza un intento de asesinato contra la Senadora Padmé Amidala, la ex Reina de Naboo, el aprendiz Jedi de veinte años Anakin Skywalker es asignado para protegerla. En el transcurso de su misión, Anakin descubre su amor por Padmé y por su lado más oscuro. Pronto, Anakin, Padmé y Obi-Wan Kenobi se sienten atraídos por el corazón del movimiento separatista y el comienzo de las Guerras Clon.",
+  "duracion": "2h 16m",
+  "calidad": "HD",
+  "idioma": "Latino",
+  "estreno": "2002",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/5o2t5udLy"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

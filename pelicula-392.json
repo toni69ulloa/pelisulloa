@@ -1,0 +1,21 @@
+{
+  "id": 392,
+  "titulo": "El Cubo 2: Hipercubo",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gN5jiymsQW00AK7ZT2ftM7hVsWD.jpg",
+  "categoria": ["Suspenso","Ciencia ficción","Misterio"],
+  "descripcion": "Secuela de la exitosa película de culto Cube (1997), de Vincenzo Natali. Ocho extraños se despiertan en una habitación con forma de cubo, sin tener ni idea de cómo ni cuando llegaron allí. Pronto descubren que están en una especie de cuarta dimension donde no rigen las leyes de la física, y tendrán que descubrir los misterios del hypercubo si quieren sobrevivir.",
+  "duracion": "1h 35m",
+  "calidad": "FHD",
+  "idioma": "Latino",
+  "estreno": "2002",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/6lGFNCkWS"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

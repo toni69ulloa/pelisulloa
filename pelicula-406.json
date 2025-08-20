@@ -1,0 +1,21 @@
+{
+  "id": 406,
+  "titulo": "El señor de los anillos: Las dos torres",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z632eZtXaw76ZE5mMMGOBXCpm1T.jpg",
+  "categoria": ["Acción","Aventura","Fantasía"],
+  "descripcion": "La Compañía del Anillo se ha disuelto. El portador del anillo Frodo y su fiel amigo Sam se dirigen hacia Mordor para destruir el Anillo Único y acabar con el poder de Sauron. Mientras, y tras la dura batalla contra los orcos donde cayó Boromir, el hombre Aragorn, el elfo Legolas y el enano Gimli intentan rescatar a los medianos Merry y Pipin, secuestrados por los ogros de Mordor. Por su parte, Saurón y el traidor Sarumán continúan con sus planes en Mordor, en espera de la guerra contra las razas libres de la Tierra Media.",
+  "duracion": "3h",
+  "calidad": "HD",
+  "idioma": "Latino",
+  "estreno": "2002",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/RTTAu6-Hc"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

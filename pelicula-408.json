@@ -1,0 +1,21 @@
+{
+  "id": 408,
+  "titulo": "Blade II",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4upKg9wQ6P86CjSlqI7wQ3ZM3Dz.jpg",
+  "categoria": ["Acción","Fantasía","Suspenso","Terror"],
+  "descripcion": "Una nueva raza de vampiros, los Reapers, surge para atacar tanto a los humanos como a los de su propia raza, causando el terror. El Consejo de la Sombra, un grupo de vampiros que teme por su supervivencia y que tiene su sede en Praga, contacta con Blade para que acabe con ellos.",
+  "duracion": "1h 56m",
+  "calidad": "HD",
+  "idioma": "Latino",
+  "estreno": "2002",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/bdKqe6nTv"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

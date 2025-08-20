@@ -1,0 +1,21 @@
+{
+  "id": 401,
+  "titulo": "El misterio de la libélula",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4GBLqv64Y5AnijB2taekuYEJ5X.jpg",
+  "categoria": ["Suspenso","Fantasía","Misterio","Terror","Romance","Drama"],
+  "descripcion": "El doctor Joe Darrow (Costner), jefe de urgencias del Chicago Memorial Hospital, es un prestigioso traumatólogo que pierde a su mujer (Susanna Thompson) en un trágico accidente de autobús en una carretera de montaña de Venezuela. Seis meses después, el cuerpo de Emily sigue sin aparecer, y Joe no consigue superar el dolor por su pérdida. Entonces empieza a percibir señales que parecen indicar que ella quiere comunicarse con él.",
+  "duracion": "1h 30m",
+  "calidad": "HD",
+  "idioma": "Latino",
+  "estreno": "2002",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/J7UB5md1O"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}

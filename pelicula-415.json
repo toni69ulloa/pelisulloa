@@ -1,0 +1,21 @@
+{
+  "id": 415,
+  "titulo": "Exterminio",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sIGsLU7hMDVKhGKsRFcFxUAtFyT.jpg",
+  "categoria": ["Terror","Suspenso","Ciencia ficción"],
+  "descripcion": "Cuatro semanas después de que un misterioso e incurable virus se extendiera por todo el Reino Unido, un puñado de supervivientes intentan encontrar refugio.",
+  "duracion": "1h 53m",
+  "calidad": "SD",
+  "idioma": "Latino",
+  "estreno": "2002",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/GdQWLMJqC"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}
