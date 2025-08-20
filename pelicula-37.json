@@ -5,7 +5,7 @@
   "categoria": ["Terror"],
   "descripcion": "Cinco adolescentes visitan la tumba, supuestamente profanada, del abuelo de uno de ellos. Cuando llegan al lugar, donde hay un siniestro matadero, toman una deliciosa carne en una gasolinera. A partir de ese momento, los jóvenes vivirán la peor pesadilla de toda su vida.",
   "duracion": "1h 23m",
-  "calidad": "720p",
+  "calidad": "HD",
   "idioma": "Latino",
   "estreno": "1977",
   "iframes": [
@@ -15,4 +15,5 @@
         "url": "" 
     }
   ]
+
 }
