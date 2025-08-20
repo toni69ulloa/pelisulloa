@@ -5,7 +5,7 @@
   "categoria": ["Acción","Aventura","Suspenso"],
   "descripcion": "El agente británico 007, que en esta ocasión se asocia a un mafioso, para unir sus fuerzas en la lucha contra la malvada organización Spectre. Ambientada en los alpes suizos, el malvado Stavro Blofeld -Savalas amenaza al mundo entero con un malvado plan: desarrollar y lanzar una peligrosa bacteria que podría acabar con millones de personas en todo el planeta.",
   "duracion": "2h 20m",
-  "calidad": "720p",
+  "calidad": "FHD",
   "idioma": "Latino",
   "estreno": "1970",
   "iframes": [
@@ -15,4 +15,5 @@
       "url": "" 
     }
   ]
+
 }
