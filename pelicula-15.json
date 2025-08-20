@@ -5,9 +5,9 @@
   "ategoria": ["Acción","Aventura","Suspenso"],
     "descripcion": "El agente británico 007 se deberá ver las caras con Auric Goldfinger, un malvado magnate que hace contrabando a escala internacional y que está fascinado por el oro. En el transcurso de la investigación, James oirá por primera vez hablar sobre la operación Grand Slam, que parece ser un plan para desestabilizar toda la economía mundial.",
   "duracion": "1h 48m",
-  "calidad": "720p",
+  "calidad": "mHD",
   "idioma": "Latino",
-  "estreno": "1966",
+  "estreno": "1964",
   "iframes": [
     { "nombre": "Upload",
       "url": "https://short.icu/bk485OEqL" },
@@ -15,4 +15,5 @@
       "url": "" 
     }
   ]
+
 }
