@@ -5,7 +5,7 @@
   "categoria": ["Suspenso","Terror"],
   "descripcion": "Una serie de muertes misteriosas rodean al embajador de Estados Unidos, que se pregunta si es posible que el niño al que está criando sea en realidad el Anticristo",
   "duracion": "1h 51m",
-  "calidad": "720p",
+  "calidad": "HD",
   "idioma": "Latino",
   "estreno": "1977",
   "iframes": [
@@ -15,4 +15,5 @@
       "url": "" 
     }
   ]
+
 }
