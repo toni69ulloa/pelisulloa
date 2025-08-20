@@ -5,7 +5,7 @@
   "categoria": ["Acción","Aventura","Suspenso"],
   "descripcion": "James Bond llega a Jamaica con la misión de investigar los asesinatos de un agente especial británico y su secretaria. Pero, al mismo tiempo, descubre la existencia de una siniestra organización en la isla Crab Key. En esta ocasión, su enemigo es el Doctor No, que, con la ayuda del profesor Dent, se propone ejecutar un siniestro plan: desviar la trayectoria de los cohetes de Cabo Cañaveral.",
   "duracion": "1h 50m",
-  "calidad": "720p",
+  "calidad": "mHD",
   "idioma": "Latino",
   "estreno": "1964",
   "iframes": [
@@ -18,4 +18,5 @@
       "url": "" 
     }
   ]
+
 }
