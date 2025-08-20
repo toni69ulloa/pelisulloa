@@ -5,11 +5,12 @@
   "categoria": ["Acción","Suspenso","Drama"],
   "descripcion": "Jean-Claude Van Damme debuta en el cine con esta película de título apropiado. Van Damme interpreta a un soldado estadounidense huido en Hong Kong que se ve envuelto en el kumite, una competencia de boxeo ilegal. El que sobreviva al enfrentamiento será proclamado campeón mundial de kumite, un título rodeado de retos y homicidios. La final ofrece un duelo a muerte (o casi) entre Van Damme y el rey de kumite, Bolo Yeung. El guion está basado en la vida del campeón de artes marciales Frank Dux (que también es el coordinador de peleas de la película). Contacto sangriento, aunque no cuenta con los mayores valores de producción, ofrece toda la acción violenta.",
   "duracion": "1h 32m",
-  "calidad": "720p",
+  "calidad": "HD",
   "idioma": "Latino",
   "estreno": "1988",
   "iframes": [
     { "nombre": "Upload", "url": "https://short.icu/DdjhRb_60" },
     { "nombre": "Streawish", "url": "" }
   ]
+
 }
