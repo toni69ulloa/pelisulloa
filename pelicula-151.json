@@ -5,7 +5,7 @@
   "categoria": ["Terror","Drama","Fantasía","Suspenso"],
   "descripcion": "Louis Creed, su esposa y sus dos niños se instalan en una vivienda próxima a una carretera con mucho tráfico. Cerca de la casa hay un sendero que lleva a un cementerio de animales y también a un antiguo cementerio indio; según la leyenda, los que sean enterrados allí volverán a la vida. Cuando uno de los niños muere atropellado por un camión, Louis decide enterrarlo en el cementerio indio.",
   "duracion": "1h 42m",
-  "calidad": "720p",
+  "calidad": "FHD",
   "idioma": "Latino",
   "estreno": "1989",
   "iframes": [
@@ -18,4 +18,5 @@
       "url": ""
     }
   ]
+
 }
