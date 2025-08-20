@@ -5,7 +5,7 @@
   "categoria": ["Acción","Comedia","Suspenso","Crimen,","Familiar"],
   "descripcion": "Scott Turner es un meticuloso detective que está investigando un difícil caso de homicidio. Un día encuentra en la calle a un perro desgarbado, vulgar y con muy malos modales, al que decide adoptar y que pronto se convierte en el mejor ayudante que nunca ha tenido.",
   "duracion": "1h 37m",
-  "calidad": "720p",
+  "calidad": "FHD",
   "idioma": "Latino",
   "estreno": "1989",
   "iframes": [
@@ -18,4 +18,5 @@
       "url": ""
     }
   ]
+
 }
