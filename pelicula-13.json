@@ -5,9 +5,9 @@
   "categoria": ["Acción","Aventura","Suspenso"],
   "descripcion": "El robo de un dispositivo capaz de descifrar complicadas comunicaciones está poniendo en peligro importantes investigaciones con respecto al gobierno ruso. James Bond, el agente 007 de los Servicios Secretos Británicos al servicio de Su Majestad, viajará hasta la Unión Soviética con el fin de encontrar a su objetivo.",
   "duracion": "1h 58m",
-  "calidad": "720p",
+  "calidad": "mHD",
   "idioma": "Latino",
-  "estreno": "1965",
+  "estreno": "1963",
   "iframes": [
     { "nombre": "Upload",
       "url": "https://short.icu/oDmrfbT64" },
@@ -15,4 +15,5 @@
       "url": "" 
     }
   ]
+
 }
