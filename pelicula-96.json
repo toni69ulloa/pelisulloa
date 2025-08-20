@@ -5,7 +5,7 @@
   "categoria": ["Acción","Aventura","Suspenso"],
   "descripcion": "John Matrix es un ex-coronel de una unidad de Fuerzas Especiales del Ejército de los Estados Unidos y padre soltero, que se ha retirado a vivir en una cabaña en la montaña junto a su hija Jenny. Sin saberlo él, sus ex-compañeros en el ejército están siendo asesinados uno a uno, primero Lawson, luego Forrestal y por último el capitán Bennet. Su amigo, el general Franklin Kirby, pone a Matrix bajo el cuidado de dos guardias armados, pero los bandidos logran matarlos y secuestrar a Jenny.",
   "duracion": "1h 30m",
-  "calidad": "720p",
+  "calidad": "FHD",
   "idioma": "Latino",
   "estreno": "1985",
   "iframes": [
@@ -15,4 +15,5 @@
       "url": "" 
     }
   ]
+
 }
