@@ -5,7 +5,7 @@
     "categoria": ["Acción","Aventura","Suspenso"],
     "descripcion": "La misteriosa desaparición de dos submarinos nucleares exige la colaboración de los mejores agentes de los servicios secretos británico y soviético: James Bond y la mayor Amasova. Detrás de todo se encuentra el magnate Stromberg, que se propone destruir a la humanidad para fundar una nueva civilización bajo el mar.",
     "duracion": "2h 5m",
-    "calidad": "720p",
+    "calidad": "HD",
     "idioma": "Latino",
     "estreno": "1977",
     "iframes": [
@@ -15,4 +15,5 @@
         "url": "" 
     }
   ]
+
 }
