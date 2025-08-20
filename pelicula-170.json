@@ -5,7 +5,7 @@
   "categoria": ["Comedia","Familiar"],
   "descripcion": "Kevin McAllister es un niño de ocho años, miembro de una familia numerosa que accidentalmente se queda abandonado en su casa cuando toda la familia se marcha a pasar las vacaciones a Francia. Kevin aprende a valerse por sí mismo e incluso a protegerse de dos bribones que se proponen asaltar todas las casas cerradas de su vecindario.",
   "duracion": "1h 43m",
-  "calidad": "720p",
+  "calidad": "FHD",
   "idioma": "Latino",
   "estreno": "1990",
   "iframes": [
@@ -18,4 +18,5 @@
       "url": ""
     }
   ]
+
 }
