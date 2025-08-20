@@ -5,7 +5,7 @@
     "categoria": ["Suspenso","Terror"],
     "descripcion": "A pesar de que ya han pasado cuatro años desde que un gran tiburón blanco aterrorizara al pequeño pueblo costero de Amity, el jefe de policía Brody sigue preocupado. Sin embargo, el alcalde no duda en poner en marcha varios proyectos para atraer de nuevo al turismo. Dos submarinistas exploran la zona donde había aparecido el peligroso escualo y son devorados. Su desaparición alerta a Brody: es verano y al pueblo están llegando muchos turistas. Mientras tanto, un grupo de chicos, entre los que están los hijos de Brody, van de excursión a una península cercana.",
     "duracion": "2h",
-    "calidad": "720p",
+    "calidad": "HD",
     "idioma": "Latino",
     "estreno": "1978",
     "iframes": [
@@ -15,4 +15,5 @@
         "url": "" 
     }
   ]
+
 }
