@@ -5,11 +5,12 @@
   "categoria": ["Terror","Suspenso","Fantasía"],
   "descripcion": "Kirsty Cotton acaba recluida en un sanatorio donde intenta olvidar la pesadilla vivida con la muerte de sus padres. Sin embargo, allí coincide con el siniestro Doctor Channard, quien encuentra en la joven la pieza que necesita para llegar al éxito en sus intentos de encontrar la puerta a una dimensión oculta.",
   "duracion": "1h 45m",
-  "calidad": "720p",
+  "calidad": "HD",
   "idioma": "Latino",
   "estreno": "1988",
   "iframes": [
     { "nombre": "Upload", "url": "https://short.icu/a6FMfidVW" },
     { "nombre": "Streawish", "url": "" }
   ]
+
 }
