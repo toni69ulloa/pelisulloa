@@ -5,7 +5,7 @@
   "categoria": ["Acción","Aventura","Suspenso","Ciencia ficción"],
   "descripcion": "La nave Enterprise se dirige al planeta Nimbus III para negociar la liberación de unos embajadores secuestrados. Allí descubrirán que el jefe de la banda es un pariente de Spock obsesionado por encontrar el planeta que es considerado la fuente de la vida.",
   "duracion": "1h 42m",
-  "calidad": "720p",
+  "calidad": "HD",
   "idioma": "Latino",
   "estreno": "1989",
   "iframes": [
@@ -18,4 +18,5 @@
       "url": ""
     }
   ]
+
 }
