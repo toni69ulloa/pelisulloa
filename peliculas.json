@@ -1,5 +1,185 @@
 [ 
   {
+    "id": 452,
+    "titulo": "Perdidos en Tokio",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ybXq8xTs6VMx3hM4RDYMXaDZwcz.jpg",
+    "categoria":["Drama","Romance","Comedia"]
+  },
+  {
+    "id": 451,
+    "titulo": "Scary Movie 3",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7tMsPb5yEwmb4eHbXRAD6mURE5B.jpg",
+    "categoria":["Comedia"]
+  },
+  {
+    "id": 450,
+    "titulo": "Todopoderoso",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/u8pyIMdi9PVFE1QE0sGfyru65FR.jpg",
+    "categoria":["Comedia","Fantasía"]
+  },
+  {
+    "id": 449,
+    "titulo": "Freddy contra Jason",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uBXEcdi5gV0VjMxZ8EUwQnvQHbs.jpg",
+    "categoria":["Terror"]
+  },
+  {
+    "id": 448,
+    "titulo": "X-Men 2",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bnZUa8bCq2uz56Jv6Clpcjtvw0V.jpg",
+    "categoria": ["Acción","Aventura","Ciencia ficción"]
+  },
+  {
+    "id": 447,
+    "titulo": "Piratas del Caribe: La Maldición del Perla Negra",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8zHnkTGyAImBcI49a1xFJHUjbaK.jpg",
+    "categoria":["Acción","Aventura","Fantasía"]
+  },
+  {
+    "id": 446,
+    "titulo": "Terminator 3: La rebelión de las máquinas",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ugVNhnnH3DKUZZ3JtzRkViIh4L9.jpg",
+    "categoria":["Acción","Suspenso","Ciencia ficción"]
+  },
+  {
+    "id": 445,
+    "titulo": "American Pie 3: La Boda",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mUGNXTC3CelVZMFuV4DTEle2wO2.jpg",
+    "categoria":["Comedia","Romance"]
+  },
+  {
+    "id": 444,
+    "titulo": "Bad Boys II: vuelven más rebeldes",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qyHDZB87UQF9cu6uuQzhhaKGvuo.jpg",
+    "categoria":["Acción","Crimen","Comedia"]
+  },
+  {
+    "id": 443,
+    "titulo": "Buscando a Nemo",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jPhak722pNGxQIXSEfeWIUqBrO5.jpg",
+    "categoria": ["Animación","Familiar"]
+  },
+  {
+    "id": 442,
+    "titulo": "Camino hacia el terror",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/76TiHoedBCu2A4NyHSzk09GNdjH.jpg",
+    "categoria":["Terror","Suspenso"]
+  },
+  {
+    "id": 441,
+    "titulo": "Cómo Perder A Un Hombre En 10 Días",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xvfNVkpL7SJPt2WNyDp3Xoh3BTK.jpg",
+    "categoria":["Comedia","Romance"]
+  },
+  {
+    "id": 440,
+    "titulo": "Destino Final 2",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6m4TTnatasZcMi6qE4Hbe9LdJgz.jpg",
+    "categoria":["Terror","Misterio"]
+  },
+  {
+    "id": 439,
+    "titulo": "El Último Samurái",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/DfwutbQodAsYxdqJu7Cme5jifC.jpg",
+    "categoria":["Acción","Drama","Bélica"]
+  },
+  {
+    "id": 438,
+    "titulo": "Enlace Mortal",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5NfIQnpdimdr6uXkB46YQUJnjLZ.jpg",
+    "categoria": ["Suspenso","Crimen"]
+  },
+  {
+    "id": 437,
+    "titulo": "Érase una vez en México",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jWofPn9h93Out6ePI1ip4EiyE7P.jpg",
+    "categoria":["Acción","Crimen","Suspenso"]
+  },
+  {
+    "id": 436,
+    "titulo": "Espíritus ocultos: En compañía del miedo",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aNbP2LrQ82eutT9tDort4P9RkfQ.jpg",
+    "categoria":["Terror","Suspenso","Misterio"]
+  },
+  {
+    "id": 435,
+    "titulo": "Hulk",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/scLV1AO6TLi45N7AJanjYR48i78.jpg",
+    "categoria":["Acción","Aventura","Ciencia ficción"]
+  },
+  {
+    "id": 434,
+    "titulo": "Inframundo",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6mq3OSMsmcTtoRLXiYOp8VZGOdw.jpg",
+    "categoria":["Fantasía","Acción","Suspenso"]
+  },
+  {
+    "id": 433,
+    "titulo": "La Estafa Maestra",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qmS0qlJ7JJFZFqv6iTVDXyjn97r.jpg",
+    "categoria": ["Acción","Crimen"]
+  },
+  {
+    "id": 432,
+    "titulo": "La mansion embrujada",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bQSWZgn65ZeWXiRJqSKkVuHbEK3.jpg",
+    "categoria":["Suspenso","Fantasía","Comedia","Familiar","Misterio"]
+  },
+  {
+    "id": 431,
+    "titulo": "La masacre de Texas",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6GVnIHoUDsqf1ICQR9ovRReuNke.jpg",
+    "categoria":["Terror"]
+  },
+  {
+    "id": 430,
+    "titulo": "Lágrimas del Sol",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/h4r3AwNkYdrDYZeM8gG9zheiW7r.jpg",
+    "categoria":["Acción","Bélica","Drama"]
+  },
+  {
+    "id": 429,
+    "titulo": "Las desapariciones",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2y7OqCau4v6Baq7CtXo3L3kMyGt.jpg",
+    "categoria":["Suspenso","Western","Aventura"]
+  },
+  {
+    "id": 428,
+    "titulo": "Más rápido, más furioso",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fZtSG5a6i5Ca39WQylLVmvWI5b.jpg",
+    "categoria": ["Acción","Crimen","Suspenso"]
+  },
+  {
+    "id": 427,
+    "titulo": "Matrix: Revoluciones",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zi1UMF9jIM2JnQz0u2AyUw8QFZi.jpg",
+    "categoria":["Acción","aventura","Suspenso","Ciencia ficción"]
+  },
+  {
+    "id": 426,
+    "titulo": "Matrix recargado",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ayZkaN2f3ASjWW8ooCfuJT3T8Va.jpg",
+    "categoria":["Acción","aventura","Suspenso","Ciencia ficción"]
+  },
+  {
+    "id": 425,
+    "titulo": "Peter Pan: La gran aventura",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xtJoP8pppOqT4rECg3E8VkvFkCj.jpg",
+    "categoria":["aventura","Fantasía","Familiar"]
+  },
+  {
+    "id": 424,
+    "titulo": "Río Místico",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bhnVEC1tMFgR3dLZwyyW6xiBwBr.jpg",
+    "categoria":["Suspenso","Crimen","Drama","Misterio"]
+  },
+  {
+    "id": 423,
+    "titulo": "S.W.A.T.",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mBv6FzdqYnXpoosz3yyuCa2ifJS.jpg",
+    "categoria": ["Acción","Suspenso","Crimen"]
+  },
+  {
     "id": 422,
     "titulo": "El crimen del padre Amaro",
     "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4uNrNM368GS85qKHKDjDOZHZXVO.jpg",
@@ -2532,4 +2712,5 @@
     "categoria": ["Comedia"]
   }
 ]
+
 
