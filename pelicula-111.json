@@ -5,11 +5,12 @@
   "categoria": ["Terror","Suspenso","Fantasía"],
   "descripcion": "Años después de los incidentes, Nancy se ha convertido en una psiquiatra especializado en terapia del sueño, pero Freddy también sigue en activo, y comienza a parecerse en los sueños de varios de los pacientes. Nancy los reúne a todos en busca de una forma de parar al monstruo.",
   "duracion": "1h 36m",
-  "calidad": "720p",
+  "calidad": "HD",
   "idioma": "Latino",
   "estreno": "1987",
   "iframes": [
     { "nombre": "Upload", "url": "https://short.icu/lpItHQMoG" },
     { "nombre": "Streawish", "url": "" }
   ]
+
 }
