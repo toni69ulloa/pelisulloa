@@ -5,7 +5,7 @@
   "categoria": ["Acción","Fantasía"],
   "descripcion": "Cuando un empresario corrupto y el grotesco Pingüino tratan de tomar el control de Ciudad Gótica, sólo Batman puede detenerlos, mientras que Gatúbela tiene sus propios planes.",
   "duracion": "2h 6m",
-  "calidad": "720p",
+  "calidad": "FHD",
   "idioma": "Latino",
   "estreno": "1992",
   "iframes": [
@@ -18,4 +18,5 @@
       "url": ""
     }
   ]
+
 }
