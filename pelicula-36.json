@@ -5,7 +5,7 @@
   "categoria": ["Acción","Aventura","Suspenso"],
   "descripcion": "El superagente británico 007 habrá de vérselas ahora con el más peligroso asesino a sueldo del momento: un hombre llamado Scaramanga, más conocido como el hombre de la pistola de oro, que tratará de deshacerse de James Bond con los más sofisticados recursos.",
   "duracion": "2h 9m",
-  "calidad": "720p",
+  "calidad": "SD",
   "idioma": "Latino",
   "estreno": "1974",
   "iframes": [
@@ -15,4 +15,5 @@
       "url": "" 
     }
   ]
+
 }
