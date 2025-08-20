@@ -5,7 +5,7 @@
   "categoria": ["Comedia"],
   "descripcion": "Después de leer en el periódico, Úrsulo corre a buscar empleo. Es el puesto de vigilante de un edificio de apartamentos de lujo habitado por personas más heterogéneas: el modelo profesional, el espiritualista, hippies y todos se vuelven a él para resolver sus problemas. Pero alguien en el edificio, secuestró a una persona importante y Úrsulo se convierte en un investigador privado.",
   "duracion": "1h 58m",
-  "calidad": "720p",
+  "calidad": "HD",
   "idioma": "Latino",
   "estreno": "1974",
   "iframes": [
@@ -15,4 +15,5 @@
       "url": "" 
     }
   ]
+
 }
