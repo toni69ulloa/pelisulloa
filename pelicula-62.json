@@ -5,7 +5,7 @@
   "categoria": ["Acción","Aventura","Suspenso"],
   "descripcion": "El agente 007 debe recuperar el ATAC, un dispositivo militar secreto de guía por satélite, antes de que sea vendido a los rusos.",
   "duracion": "2h 7m",
-  "calidad": "720p",
+  "calidad": "HD",
   "idioma": "Latino",
   "estreno": "1982",
   "iframes": [
@@ -15,4 +15,5 @@
       "url": "" 
     }
   ]
+
 }
