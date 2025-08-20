@@ -5,7 +5,7 @@
   "categoria": ["Acción","Crimen","Ciencia ficción","Suspenso"],
   "descripcion": "Luc Deveraux y Andrew Scott son dos soldados estadounidenses que se encuentran sirviendo en la guerra de Vietnam en 1969. Un día Scott se enloquece y cuando Deveraux interfiere en la masacre de Scott de un pueblo inocente, ellos terminan por asesinarse el uno al otro. Marcados como desaparecidos en combate, en realidad son congelados y enviados a una instalación de alto secreto, donde un equipo de científicos dirigido por el coronel Perry los revive, les borra su memoria y los convierte, junto con otros especímenes a seleccionar, en súper soldados conocidos como UniSol, un procedimiento ilegal.",
   "duracion": "1h 42m",
-  "calidad": "720p",
+  "calidad": "HD",
   "idioma": "Latino",
   "estreno": "1992",
   "iframes": [
@@ -18,4 +18,5 @@
       "url": ""
     }
   ]
+
 }
