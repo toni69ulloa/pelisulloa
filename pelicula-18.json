@@ -5,7 +5,7 @@
   "categoria": ["Drama","Comedia"],
   "descripcion": "Lopitos, que es horriblemente ineficaz, pero rápido de ingenio, está invitado (a causa de la superstición del actual embajador alrededor de 13 sentado a una comida) a un banquete con la asistencia de los embajadores de ambas superpotencias. Después de la noticia de una serie de golpes de estado en Los Cocos llega durante toda la comida, Lopitos se convierte en el embajador oficial. En una cumbre de líderes mundiales, los representantes de las dos superpotencias del mundo cortejan las lealtades de los diplomáticos del tercer mundo para inclinar el equilibrio del poder global en su favor. El último diplomático que permaneció sin alineación, Lopitos en lugar harangues las superpotencias por violar los derechos de los países en desarrollo a la libre determinación, hablando con ellos con su punto de vista como un ciudadano no como embajador porque organizó su fallecimiento como embajador un día antes de su discurso.",
   "duracion": "2h 14m",
-  "calidad": "720p",
+  "calidad": "HD",
   "idioma": "Latino",
   "estreno": "1967",
   "iframes": [
@@ -15,4 +15,5 @@
       "url": "" 
     }
   ]
+
 }
