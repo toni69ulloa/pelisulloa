@@ -5,7 +5,7 @@
   "categoria": ["Comedia"],
   "descripcion": "Cuenta un episodio de la vida de un bolero de amable corazón que se convierte accidentalmente en tutor de un huérfano, pero sin embargo, pasa todo su tiempo y esfuerzo por el bien del niño.",
   "duracion": "1h 41m",
-  "calidad": "720p",
+  "calidad": "SD",
   "idioma": "Latino",
   "estreno": "1957",
   "iframes": [
@@ -16,4 +16,5 @@
         "url": "" 
       }
     ]
+
   }
