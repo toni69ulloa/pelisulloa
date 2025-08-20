@@ -5,7 +5,7 @@
   "categoria": ["Fantasía","Drama","Suspenso","Misterio","Romance"],
   "descripcion": "Una pareja de enamorados ve truncada su felicidad cuando él es asesinado por un ladrón. La necesidad de salvar la vida a la chica hace que él permanezca en la Tierra en forma de fantasma, e intente advertirla del peligro que corre. Su único medio de comunicación es una alocada vidente.",
   "duracion": "2h 6m",
-  "calidad": "720p",
+  "calidad": "FHD",
   "idioma": "Latino",
   "estreno": "1990",
   "iframes": [
@@ -18,4 +18,5 @@
       "url": ""
     }
   ]
+
 }
