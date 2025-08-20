@@ -5,7 +5,7 @@
   "categoria": ["Suspenso","Terror"],
   "descripcion": "Cuando era niño, Tommy mató al asesino de masas Jason. Pero ahora, años más tarde, está atormentado por el temor de que tal vez Jason no esté realmente muerto. Decidido a acabar con el asesino infame de una vez por todas, Tommy y un amigo desenterrar el cadáver de Jason con el fin de cremarlo. Por desgracia, las cosas van seriamente mal, y Jason en su lugar resucitado, provocando una nueva cadena de asesinatos brutalmente brutales. Ahora le toca a Tommy detener las oscuras, tortuosas y dementes muertes que sin saberlo provocó.",
   "duracion": "1h 27m",
-  "calidad": "720p",
+  "calidad": "FHD",
   "idioma": "Latino",
   "estreno": "1986",
   "iframes": [
@@ -15,4 +15,5 @@
       "url": "" 
     }
   ]
+
 }
