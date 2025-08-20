@@ -5,11 +5,12 @@
   "categoria": ["Comedia","Romance"],
   "descripcion": "El príncipe Akeem, heredero del trono de Zamunda, abandona el reino del paraíso tropical en busca de su reina. ¿Qué mejor lugar que Queens, Nueva York, para encontrar a su novia? Junto a su leal servidor y amigo, Semmi, Akeem intenta integrarse como un estadounidense común y comenzar su búsqueda.",
   "duracion": "1h 56m",
-  "calidad": "720p",
+  "calidad": "HD",
   "idioma": "Latino",
   "estreno": "1988",
   "iframes": [
     { "nombre": "Upload", "url": "https://short.icu/H9Q1iAKYq" },
     { "nombre": "Streawish", "url": "" }
   ]
+
 }
