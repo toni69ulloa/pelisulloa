@@ -5,11 +5,12 @@
   "categoria": ["Suspenso","Terror"],
   "descripcion": "",
   "duracion": "1h 30m",
-  "calidad": "720p",
+  "calidad": "SD",
   "idioma": "Latino",
   "estreno": "1986",
   "iframes": [
     { "nombre": "Upload", "url": "https://short.icu/CDcG4rykV" },
     { "nombre": "Streawish", "url": "" }
   ]
+
 }
