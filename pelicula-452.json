@@ -1,1 +1,21 @@
-
+{
+  "id": 452,
+  "titulo": "Perdidos en Tokio",
+  "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ybXq8xTs6VMx3hM4RDYMXaDZwcz.jpg",
+  "categoria": ["Drama","Romance","Comedia"],
+  "descripcion": "Bob Harris, un actor norteamericano en decadencia, acepta una oferta para hacer un anuncio de whisky japonés en Tokio. Está atravesando una aguda crisis y pasa gran parte del tiempo libre en el bar del hotel. Y, precisamente allí, conoce a Charlotte, una joven casada con un fotógrafo que ha ido a Tokio a hacer un reportaje; pero mientras él trabaja, su mujer se aburre mortalmente. Además del aturdimiento que les producen las imágenes y los sonidos de la inmensa ciudad, Bob y Charlotte comparten también el vacío de sus vidas. Poco a poco se hacen amigos y, a medida que exploran la ciudad juntos, empiezan a preguntarse si su amistad podría transformarse en algo más.",
+  "duracion": "1h 42m",
+  "calidad": "HD",
+  "idioma": "Latino",
+  "estreno": "2003",
+  "iframes": [
+    {
+      "nombre": "Upload",
+      "url": "https://short.icu/8cf1ml5ym"
+    },
+    {
+      "nombre": "Streamwish",
+      "url": ""
+    }
+  ]
+}
