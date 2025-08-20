@@ -5,7 +5,7 @@
     "categoria": ["Drama","Historia"],
     "descripcion": "Un cirujano victoriano rescata a un hombre muy desfigurado y maltratado por su dueño como un fanático de los espectáculos secundarios. Detrás de su fachada monstruosa, se revela a una persona de gran inteligencia y sensibilidad. Basado en la historia real de Joseph Merrick (llamado John Merrick en la película), un hombre gravemente deformado en el siglo XIX en Londres.",
     "duracion": "2h 4m",
-    "calidad": "720p",
+    "calidad": "HD",
     "idioma": "Latino",
     "estreno": "1980",
     "iframes": [
@@ -15,4 +15,5 @@
         "url": "" 
     }
   ]
+
 }
