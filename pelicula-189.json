@@ -5,7 +5,7 @@
   "categoria": ["Aventura","Fantasía","Comedia","Familiar"],
   "descripcion": "Peter Pan es un prestigioso abogado y tiene una encantadora familia, pero ha perdido el contacto con algo maravilloso: su infancia. Sin embargo, cuando sus hijos son secuestrados por su antiguo enemigo, el Capitán Garfio, y llevados al País de Nunca Jamás, también él tendrá que viajar a ese reino encantado, donde, con la ayuda de Campanilla, podrá recuperar no sólo a sus hijos, sino también al niño que un día fue.",
   "duracion": "2h 25m",
-  "calidad": "720p",
+  "calidad": "HD",
   "idioma": "Latino",
   "estreno": "1991",
   "iframes": [
@@ -18,4 +18,5 @@
       "url": ""
     }
   ]
+
 }
