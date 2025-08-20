@@ -5,7 +5,7 @@
   "categoria": ["Acción","Suspenso"],
   "descripcion": "Willis es un detective privado en horas bajas. Había sido uno de los más importantes agentes del servicio secreto norteamericano, pero su carrera terminó al enfrentarse con un político corrupto. Wayans, una gran estrella del fútbol, cae en desgracia al verse involucrado en un supuesto escándalo. Ambos unirán sus fuerzas para resolver sus problemas.",
   "duracion": "1h 41m",
-  "calidad": "720p",
+  "calidad": "SD",
   "idioma": "Latino",
   "estreno": "1991",
   "iframes": [
@@ -18,4 +18,5 @@
       "url": ""
     }
   ]
+
 }
