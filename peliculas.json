@@ -1,5 +1,221 @@
 [ 
   {
+    "id": 422,
+    "titulo": "El crimen del padre Amaro",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4uNrNM368GS85qKHKDjDOZHZXVO.jpg",
+    "categoria":["Drama","Romance"]
+  },
+  {
+    "id": 421,
+    "titulo": "007: Otro día para morir",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tmpgo09w8qQ8rhbA3q22PYpJcmz.jpg",
+    "categoria":["Acción","Aventura","Suspenso"]
+  },
+  {
+    "id": 420,
+    "titulo": "La habitación del pánico",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/a4RVuYE53xDV8zlppZMVP2Z27gp.jpg",
+    "categoria":["Crimen","Drama","Suspenso"]
+  },
+  {
+    "id": 419,
+    "titulo": "Irreversible ",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/a6HvMOj2lVYnzqaNY6cX2hoCCXz.jpg",
+    "categoria": ["Drama","Suspenso","Crimen"]
+  },
+  {
+    "id": 418,
+    "titulo": "La herencia del Sr. Deeds",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8ZIQnONPyM7dS1mc7N2LSpsyiVU.jpg",
+    "categoria": ["Comedia","Romance"]
+  },
+  {
+    "id": 417,
+    "titulo": "Atrápame si puedes",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wcWi3xIEzIjDERTZyWoqryQGURA.jpg",
+    "categoria": ["Drama","Crimen"]
+  },
+  {
+    "id": 416,
+    "titulo": "Señales",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r4q93grfe8xO28bY6MFMOZdffoo.jpg",
+    "categoria":["Drama","Suspenso","Ciencia ficción","Misterio"]
+  },
+  {
+    "id": 415,
+    "titulo": "Exterminio",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sIGsLU7hMDVKhGKsRFcFxUAtFyT.jpg",
+    "categoria":["Terror","Suspenso","Ciencia ficción"]
+  },
+  {
+    "id": 414,
+    "titulo": "El aro",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4TPPSB8OAtgYo9EdFzr7tsTsLDB.jpg",
+    "categoria":["Terror","Misterio"]
+  },
+  {
+    "id": 413,
+    "titulo": "Dragón Rojo",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y6wmFX2hY3GS1rWpCwh5MnsMzLa.jpg",
+    "categoria":["Crimen","Suspenso","Terror"]
+  },
+  {
+    "id": 412,
+    "titulo": "Hombres de Negro 2",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zX1Hi0j7Yn4jv2eDHyIMlHP8lDb.jpg",
+    "categoria":["Acción","Comedia","Ciencia ficción"]
+  },
+  {
+    "id": 411,
+    "titulo": "Daño colateral",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2zSBTVpUA2FGvIOJw7GlcnsbSgz.jpg",
+    "categoria":["Acción","Suspenso","Drama"]
+  },
+  {
+    "id": 410,
+    "titulo": "Identidad desconocida",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yYH7sqMQ1NJNd6scW44D1WjBmAw.jpg",
+    "categoria":["Acción","Drama","Misterio","Suspenso"]
+  },
+  {
+    "id": 409,
+    "titulo": "Star Wars: Episodio II: El Ataque de los Clones",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pwwBIUqVSWrCBuUAvbaNdf7VajF.jpg",
+    "categoria": ["Acción","Aventura","Ciencia ficción"]
+  },
+  {
+    "id": 408,
+    "titulo": "Blade II",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4upKg9wQ6P86CjSlqI7wQ3ZM3Dz.jpg",
+    "categoria": ["Acción","Fantasía","Suspenso","Terror"]
+  },
+  {
+    "id": 407,
+    "titulo": "Resident Evil: El Huésped Maldito",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nlAi9cw2uLZ9hHwhzCMOG6TZMHc.jpg",
+    "categoria": ["Acción","Ciencia ficción","Terror"]
+  },
+  {
+    "id": 406,
+    "titulo": "El señor de los anillos: Las dos torres",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z632eZtXaw76ZE5mMMGOBXCpm1T.jpg",
+    "categoria":["Acción","Aventura","Fantasía"]
+  },
+  {
+    "id": 405,
+    "titulo": "El hombre araña",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bCDaKZLRkrVVtPNyHxUfKvepW1N.jpg",
+    "categoria":["Acción","Ciencia ficción"]
+  },
+  {
+    "id": 404,
+    "titulo": "La barbería",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ykItJVBuFgGD1e4E5hSmhu5vKBg.jpg",
+    "categoria":["Comedia","Drama"]
+  },
+  {
+    "id": 403,
+    "titulo": "Scooby-Doo",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vX6NAkWHicHDgGYa192Kt47dPWI.jpg",
+    "categoria":["Misterio","Aventura","Comedia"]
+  },
+  {
+    "id": 402,
+    "titulo": "Codigos de Guerra",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nDVe8IpViR0bdFrraEN2IZnBanN.jpg",
+    "categoria":["Acción","Bélica"]
+  },
+  {
+    "id": 401,
+    "titulo": "El misterio de la libélula",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4GBLqv64Y5AnijB2taekuYEJ5X.jpg",
+    "categoria":["Suspenso","Fantasía","Misterio","Terror","Romance","Drama"]
+  },
+  {
+    "id": 400,
+    "titulo": "Barco fantasma",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/HBpFXvylps4DsLaQKidTAFp8n.jpg",
+    "categoria":["Terror","Misterio","Suspenso"]
+  },
+  {
+    "id": 399,
+    "titulo": "Mi gran boda griega",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5xao39YxElZaPYlaXekUEEXKwmZ.jpg",
+    "categoria": ["Comedia","Drama","Romance"]
+  },
+  {
+    "id": 398,
+    "titulo": "El mensajero de la oscuridad",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/poYhzoLWvxDGCsSfGBLjc90VN1e.jpg",
+    "categoria": ["Drama","Terror","Misterio"]
+  },
+  {
+    "id": 397,
+    "titulo": "Lilo y Stitch",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9jrmKyhNGam2pj89bcxmhQzXCNo.jpg",
+    "categoria": ["Animación","Familiar","Comedia"]
+  },
+  {
+    "id": 396,
+    "titulo": "Este cuerpo no es mío",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/c5ffGrKTcRrKQ59Wg3vMmg7QFN.jpg",
+    "categoria":["Comedia","Fantasía"]
+  },
+  {
+    "id": 395,
+    "titulo": "El rey escorpión",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aKuouKg9pHiWe1Nu1YsEREBdGsM.jpg",
+    "categoria":["Acción","Aventura","Fantasía","Drama"]
+  },
+  {
+    "id": 394,
+    "titulo": "Viaje a las estrellas: Némesis",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/opmDF2sPIBCvTDbJWBtmhqUFXmi.jpg",
+    "categoria":["Acción","Aventura","Ciencia ficción","Suspenso"]
+  },
+  {
+    "id": 393,
+    "titulo": "El Transportador",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gEiyyNU0CVZBgmH08l3GMgw4BfZ.jpg",
+    "categoria":["Acción","Crimen","Suspenso"]
+  },
+  {
+    "id": 392,
+    "titulo": "El Cubo 2: Hipercubo",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gN5jiymsQW00AK7ZT2ftM7hVsWD.jpg",
+    "categoria":["Suspenso","Ciencia ficción","Misterio"]
+  },
+  {
+    "id": 391,
+    "titulo": "John Q: Situación extrema",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/faGkU8DuIjmNmTs9ecumzZ3rrtJ.jpg",
+    "categoria":["Drama","Suspenso","Crimen"]
+  },
+  {
+    "id": 390,
+    "titulo": "Minority report: Sentencia previa",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pnzJEfXpRc1bknR5ASFG0MZcTvo.jpg",
+    "categoria":["Acción","Ciencia ficción","Suspenso"]
+  },
+  {
+    "id": 389,
+    "titulo": "La era de hielo",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9rpdhn7p7mDZW2rUXsINf9c6sR5.jpg",
+    "categoria": ["Animación","Comedia","Familiar","Aventura"]
+  },
+  {
+    "id": 388,
+    "titulo": "El Pianista",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mxfLOWnHnSlbdraKfzRn5mqoqk7.jpg",
+    "categoria": ["Drama","Bélica"]
+  },
+{
+    "id": 387,
+    "titulo": "Harry Potter y la cámara secreta",
+    "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3nvGqfZE3yrsqehpF107byUdUSq.jpg",
+    "categoria": ["Aventura","Fantasía"]
+  },
+  {
     "id": 386,
     "titulo": "13 fantasmas",
     "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tobmCmAgCNVhqxUN7r58cnoYOco.jpg",
@@ -2316,3 +2532,4 @@
     "categoria": ["Comedia"]
   }
 ]
+
