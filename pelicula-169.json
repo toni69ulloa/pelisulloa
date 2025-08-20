@@ -5,7 +5,7 @@
   "categoria": ["Romance","Comedia"],
   "descripcion": "John, el taxista que quiere ser piloto de aviones, se ha casado con Molly, la madre de Mickey. Éste ha aprendido a dar sus primeros pasos y a pronunciar sus primeras palabras. También posee la clásica habilidad infantil para tirar cualquier objeto que encuentre a su paso. Por si fuera poco, nace Julie, su hermanita, dotada con idéntico sarcasmo.",
   "duracion": "1h 17m",
-  "calidad": "720p",
+  "calidad": "HD",
   "idioma": "Latino",
   "estreno": "1990",
   "iframes": [
@@ -18,4 +18,5 @@
       "url": ""
     }
   ]
+
 }
