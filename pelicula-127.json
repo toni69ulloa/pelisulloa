@@ -5,11 +5,12 @@
   "categoria": ["Terror","Suspenso"],
   "descripcion": "Freddy Krueger vuelve a la vida después de su aparente muerte en la entrega anterior y comienza a matar a los chicos que viven en Elm Street. Pero, Kristen, capaz de atraer a los demás dentro de sus sueños, le concede este poder especial a su amiga Alice. Sin embargo, ésta se da cuenta de que Freddy está sacando partido a este extraño poder. Equipo destacado.",
   "duracion": "1h 33m",
-  "calidad": "720p",
+  "calidad": "FHD",
   "idioma": "Latino",
   "estreno": "1988",
   "iframes": [
     { "nombre": "Upload", "url": "https://short.icu/dZD_tNVxH" },
     { "nombre": "Streawish", "url": "" }
   ]
+
 }
