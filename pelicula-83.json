@@ -5,7 +5,7 @@
   "categoria": ["Terror"],
   "descripcion": "La adolescente Nancy Thompson debe descubrir la oscura verdad que ocultan sus padres después de que ella y sus amigos se convierten en el objetivo del espíritu de un asesino en serie que porta un guante de cuchillas que aparece en sus sueños y que, si mueren, los mata en la vida real.",
   "duracion": "1h 31m",
-  "calidad": "720p",
+  "calidad": "HD",
   "idioma": "Latino",
   "estreno": "1984",
   "iframes": [
@@ -15,4 +15,5 @@
       "url": "" 
     }
   ]
+
 }
