@@ -5,7 +5,7 @@
     "categoria": ["Terror","Misterio","Suspenso"],
     "descripcion": "El Anticristo, Damien Thorn, acaba de ser nombrado embajador de Estados Unidos en Gran Bretaña a los 32 años de edad. Damien sale en busca de la resurrección de Cristo, mientras es amenazado de muerte por un grupo encabezado por el padre DeCarlo.",
     "duracion": "1h 48m",
-    "calidad": "720p",
+    "calidad": "SD",
     "idioma": "Latino",
     "estreno": "1981",
     "iframes": [
@@ -15,4 +15,5 @@
         "url": "" 
     }
   ]
+
 }
