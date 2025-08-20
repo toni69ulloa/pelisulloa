@@ -5,7 +5,7 @@
     "categoria": ["Comedia"],
     "descripcion": "Sigue a Diógenes mientras vive su día como oficial de policía. Es propenso a hacer las cosas de la manera correcta, rodeado por un departamento de policía bastante corrupto y distante, y siempre resuelve sus deberes con un método personal.",
     "duracion": "2h",
-    "calidad": "720p",
+    "calidad": "SD",
     "idioma": "Latino",
     "estreno": "1978",
     "iframes": [
@@ -15,4 +15,5 @@
         "url": "" 
     }
   ]
+
 }
