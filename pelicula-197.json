@@ -5,7 +5,7 @@
   "categoria": ["Terror"],
   "descripcion": "Durante el rodaje de una película, la protagonista muere trágicamente. Su marido y su hijo adolescente Jeff deciden abandonar la gran ciudad e instalarse en un pueblo de Maine, donde el padre ejercerá su profesión de veterinario. Allí Jeff conoce la historia sobre el cementerio maldito. Cuando el padrastro de su amigo Drew, el alguacil del pueblo Gus Gilbert, mata a su perro, los chicos lo entierran en el cementerio indio, en un intento por traerlo de vuelta a la vida.",
   "duracion": "1h 40m",
-  "calidad": "720p",
+  "calidad": "SD",
   "idioma": "Latino",
   "estreno": "1992",
   "iframes": [
@@ -18,4 +18,5 @@
       "url": ""
     }
   ]
+
 }
