@@ -5,7 +5,7 @@
   "categoria": ["Suspenso","Terror"],
   "descripcion": "Todo está a punto para la inauguración de «Mundo Marino», un gigantesco parque acuático con algunas atracciones instaladas bajo las aguas de un bello lago artificial que se comunica con el mar a través de un pequeño canal.",
   "duracion": "1h 38m",
-  "calidad": "720p",
+  "calidad": "HD",
   "idioma": "Latino",
   "estreno": "1983",
   "iframes": [
@@ -15,4 +15,5 @@
       "url": "" 
     }
   ]
+
 }
