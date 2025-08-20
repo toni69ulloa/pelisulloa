@@ -5,7 +5,7 @@
   "categoria": ["Comedia"],
   "descripcion": "Se trata de un médico de México que viene a la capital mientras se construye una clínica en su ciudad natal... él brinda su cuidado y compasión hacia otros en el hospital con su humor e ingenio.",
   "duracion": "1h 53m",
-  "calidad": "720p",
+  "calidad": "SD",
   "idioma": "Latino",
   "estreno": "1965",
   "iframes": [
@@ -15,4 +15,5 @@
       "url": "" 
     }
   ]
+
 }
