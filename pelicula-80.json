@@ -5,7 +5,7 @@
   "categoria": ["Acción","Comedia","Crimen"],
   "descripcion": "Axel Foley es un impetuoso e inteligente detective de Detroit que sigue la pista del asesino de un amigo suyo hasta los barrios más elegantes de Beverly Hills. Pero antes de que Axel logre su objetivo, va a verse involucrado en una red internacional de contrabandistas y traficantes de droga.",
   "duracion": "1h 45m",
-  "calidad": "720p",
+  "calidad": "HD",
   "idioma": "Latino",
   "estreno": "1984",
   "iframes": [
@@ -15,4 +15,5 @@
       "url": "" 
     }
   ]
+
 }
