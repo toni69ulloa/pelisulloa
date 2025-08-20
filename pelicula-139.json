@@ -5,11 +5,12 @@
   "categoria": ["Comedia","Romance"],
   "descripcion": "Mollie se ha quedado embarazada de un hombre casado. Entonces decide criar sola a su hijo y buscar para él un padre perfecto. Pero el niño tiene sus propias opiniones al respecto, y no se priva de hacer todo tipo de comentarios sobre los posibles candidatos. Él quiere como padre al taxista que le ayudó al nacer.",
   "duracion": "1h 33m",
-  "calidad": "720p",
+  "calidad": "SD",
   "idioma": "Latino",
   "estreno": "1989",
   "iframes": [
     { "nombre": "Upload", "url": "https://short.icu/IDN7WQsgQ" },
     { "nombre": "Streawish", "url": "" }
   ]
+
 }
