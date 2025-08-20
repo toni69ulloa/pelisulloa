@@ -5,7 +5,7 @@
   "categoria": ["Comedia"],
   "descripcion": "Un abogado que trata de fijar problemas de todo el mundo, en cambio causa problemas, que siempre terminan en situaciones graciosas.",
   "duracion": "1h 40m",
-  "calidad": "720p",
+  "calidad": "HD",
   "idioma": "Latino",
   "estreno": "1969",
   "iframes": [
@@ -15,4 +15,5 @@
       "url": "" 
     }
   ]
+
 }
