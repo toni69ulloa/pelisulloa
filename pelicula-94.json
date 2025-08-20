@@ -5,7 +5,7 @@
   "categoria": ["Terror","Comedia","Ciencia ficción"],
   "descripcion": "Cuando un torpe par de empleados en un almacén de suministros médicos accidentalmente libera un gas mortal en el aire, los vapores causan que los muertos vuelvan a animarse mientras van en un alboroto en busca de su comida favorita: ¡cerebros!",
   "duracion": "1h 31m",
-  "calidad": "720p",
+  "calidad": "FHD",
   "idioma": "Latino",
   "estreno": "1985",
   "iframes": [
@@ -15,4 +15,5 @@
       "url": "" 
     }
   ]
+
 }
