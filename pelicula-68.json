@@ -5,7 +5,7 @@
   "categoria": ["Terror"],
   "descripcion": "Una familia americana de clase media se traslada a vivir a un vecindario idílico, pero dentro de la casa empiezan a suceder cosas extrañas, fenómenos paranormales para los que no hay explicación posible.",
   "duracion": "1h 54m",
-  "calidad": "720p",
+  "calidad": "SD",
   "idioma": "Latino",
   "estreno": "1982",
   "iframes": [
@@ -15,4 +15,5 @@
       "url": "" 
     }
   ]
+
 }
