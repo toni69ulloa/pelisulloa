@@ -5,7 +5,7 @@
     "categoria": ["Acción","Comedia"],
     "descripcion": "La miseria es llevada a un pequeño grupo de Sho en el desierto de Kalahari en forma de una botella de cola. En su búsqueda por arrojar el objeto malvado sobre el borde de la tierra, Xixo se encuentra con la civilización occidental, un médico al azar y un déspota tiránico.",
     "duracion": "1h 49m",
-    "calidad": "720p",
+    "calidad": "HD",
     "idioma": "Latino",
     "estreno": "1980",
     "iframes": [
@@ -15,4 +15,5 @@
         "url": "" 
     }
   ]
+
 }
