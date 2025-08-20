@@ -5,11 +5,12 @@
   "categoria": ["Terror","Suspenso"],
   "descripcion": "Michael Myers, un psicópata que mató a dieciséis personas, acabó siendo capturado por su propio médico, el doctor Lomis. Tras pasar diez años encarcelado en una prisión de máxima seguridad, Myers es trasladado, en estado catatónico, al Instituto Mental de Richmond. Pero inexplicablemente se vuelve a escapar con el fin de asesinar a su único familiar vivo, su sobrina Jamie Lloyd. De nuevo el doctor Lomis intentará atraparlo.",
   "duracion": "1h 28m",
-  "calidad": "720p",
+  "calidad": "HD",
   "idioma": "Latino",
   "estreno": "1988",
   "iframes": [
     { "nombre": "Upload", "url": "https://short.icu/GKwrDb_ip" },
     { "nombre": "Streawish", "url": "" }
   ]
+
 }
