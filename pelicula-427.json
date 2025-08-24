@@ -2,7 +2,7 @@
   "id": 427,
   "titulo": "Matrix: Revoluciones",
   "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zi1UMF9jIM2JnQz0u2AyUw8QFZi.jpg",
-  "categoria": ["Acción","aventura","Suspenso","Ciencia ficción"],
+  "categoria": ["Acción","Aventura","Suspenso","Ciencia ficción"],
   "descripcion": "La ciudad humana de Zion se defiende de la invasión masiva de las máquinas mientras Neo lucha por terminar la guerra en otro frente y también se opone al agente Smith.",
   "duracion": "2h 10m",
   "calidad": "HD",
@@ -18,4 +18,5 @@
       "url": ""
     }
   ]
+
 }
