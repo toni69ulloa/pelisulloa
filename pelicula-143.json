@@ -2,7 +2,7 @@
   "id": 143,
   "titulo": "Socios y Sabuesos",
   "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mPRTuakCxvN5hm20vPHzSgmB52n.jpg",
-  "categoria": ["Acción","Comedia","Suspenso","Crimen,","Familiar"],
+  "categoria": ["Acción","Comedia","Suspenso","Crimen","Familiar"],
   "descripcion": "Scott Turner es un meticuloso detective que está investigando un difícil caso de homicidio. Un día encuentra en la calle a un perro desgarbado, vulgar y con muy malos modales, al que decide adoptar y que pronto se convierte en el mejor ayudante que nunca ha tenido.",
   "duracion": "1h 37m",
   "calidad": "FHD",
@@ -20,3 +20,4 @@
   ]
 
 }
+
