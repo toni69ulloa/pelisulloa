@@ -153,19 +153,19 @@
     "id": 427,
     "titulo": "Matrix: Revoluciones",
     "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zi1UMF9jIM2JnQz0u2AyUw8QFZi.jpg",
-    "categoria":["Acción","aventura","Suspenso","Ciencia ficción"]
+    "categoria":["Acción","Aventura","Suspenso","Ciencia ficción"]
   },
   {
     "id": 426,
     "titulo": "Matrix recargado",
     "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ayZkaN2f3ASjWW8ooCfuJT3T8Va.jpg",
-    "categoria":["Acción","aventura","Suspenso","Ciencia ficción"]
+    "categoria":["Acción","Aventura","Suspenso","Ciencia ficción"]
   },
   {
     "id": 425,
     "titulo": "Peter Pan: La gran aventura",
     "imagen": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xtJoP8pppOqT4rECg3E8VkvFkCj.jpg",
-    "categoria":["aventura","Fantasía","Familiar"]
+    "categoria":["Aventura","Fantasía","Familiar"]
   },
   {
     "id": 424,
@@ -2712,5 +2712,6 @@
     "categoria": ["Comedia"]
   }
 ]
+
 
 
